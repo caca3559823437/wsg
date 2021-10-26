@@ -1033,18 +1033,7 @@ CNC 英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 风凰资讯,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
-凤凰中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
-凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
-凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰资讯,http://117.169.120.138:8080/live/fhzixun/index.m3u8
-凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?epg=tvmao-600?回看=http://72ltw.xyz/zcjwx/PLTV/zjhk.php?id=6491.smil
-凤凰资讯,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
@@ -1054,7 +1043,6 @@ CNC 英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 无线财经,http://www.nettvpro.live/hls/tvb.php?id=2
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
-RHK31台,https://api.leonardpark.dev/live/now/331
 亚旅衛視,http://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
@@ -1063,23 +1051,11 @@ RHK31台,https://api.leonardpark.dev/live/now/331
 有线新闻,https://api.leonardpark.dev/live/icable/109
 有線財经咨询台,https://api.leonardpark.dev/live/icable/108
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-TVB翡翠台 (中英字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
-TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 TVB翡翠台,http://g.alicdn.com/de/prismplayer-flash/1.2.16/PrismPlayer.swf?vurl=http://m.567it.com/jade.m3u8
-TVB無綫財經·資訊台,https://cdn.hkdtmb.com/hls/85/index.m3u8
-TVB無綫新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
-TVB明珠台 (粵語聲道),https://cdn.hkdtmb.com/hls/84b/index.m3u8
-TVB明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
 香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港佛陀教育,http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-香港國際財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
-香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
-港台電視31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 香港开电视,http://livetv.dnsfor.me/channel.9.m3u8
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
@@ -1092,11 +1068,8 @@ RHK32台,http://livetv.dnsfor.me:80/channel.2.m3u8
 J2,http://flv3948069e.live.126.net/live/hodttf42922498/3.flv
 无线新闻,http://v3948069e.live.126.net/live/hod900.flv
 无线财经,http://v3948069e.live.126.net/live/scypfjyv66589621/7.flv
-TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 凤凰电影,http://218.202.220.2:5000/nn_live.m3u8?id=NEWSASIA
-香港电台,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
-香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv
@@ -1126,8 +1099,6 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 港台電視新聞直播,http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
-无线新闻,http://v3948069e.live.126.net/live/hod900.flv
-无线财经,http://v3948069e.live.126.net/live/scypfjyv66589621/7.flv
 Viutv,http://v3948069e.live.126.net/live/ooadaaihygy854184.flv
 ViuTVsix,http://v3948069e.live.126.net/live/lgeuxndz47905359/10.flv
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
@@ -1143,7 +1114,6 @@ VIP影院,https://tx.liveplay.live.kugou.com/live/fx_hifi_1319986999_avc.flv
 无线新闻,https://p2.weizan.cn/1646497941/113158785015619765/live.m3u8
 有线新闻,https://p2.weizan.cn/1646497941/614105386721937651/live.m3u8
 明珠台,https://p2.weizan.cn/1646497941/583790710723181991/live.m3u8
-TVB 星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 全佳频道HD,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
@@ -1196,7 +1166,6 @@ BOO恐怖HD,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 澳视卫星HD,http://61.244.22.4/ch3/ch3.live/index.m3u8
 澳視葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-熱血時報,http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
 
 台湾频道,#genre#
 TVBS新闻,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
@@ -1220,9 +1189,6 @@ Z频道,https://flv3948069e.live.126.net/live/sytv_68130b91ee8465fdeb3dde2c8e773
 卫视电影台,https://flv3948069e.live.126.net/live/sytv_72a30baf1e84656b6e2dde008e77399a.flv
 東森新聞,http://43.128.9.168/jjtv.php?id=38
 東森新聞,http://43.128.9.168/jjtv.php?id=38&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u
-东森新闻,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
-TVBS新闻,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
-三立inew-,http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv
 三立LIVE,http://v3948069e.live.126.net/live/tizinjzv54935020/48.flv
 台視綜合台,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
 公視3台,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
@@ -1231,13 +1197,9 @@ MUCH TV,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
 東風衛視,http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
-台視綜合台,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
 華視教育體育文化台,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
 公視台語台,http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
 三立財經台,http://sytv.xtvants.fun/mytv.php?id=slcj&token=free&user=free
-MTV綜合台,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
-MUCH TV,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
-東風衛視,http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
 高點綜合台,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
 高點育樂台,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
 霹靂台灣台,http://sytv.xtvants.fun/mytv.php?id=pltw&token=free&user=free
@@ -1274,7 +1236,6 @@ OH!k,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 民视综艺,http://43.128.9.168/jjtv.php?id=27
 民视新闻,http://43.128.9.168/jjtv.php?id=32
 台视新闻,http://43.128.9.168/jjtv.php?id=34
-中视新闻,http://43.128.9.168/jjtv.php?id=33
 中天新闻,http://43.128.9.168/jjtv.php?id=36
 东森财经,http://43.128.9.168/jjtv.php?id=39
 三立inews新聞,http://43.128.9.168/jjtv.php?id=43
@@ -1332,64 +1293,27 @@ NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 TVBS,http://60.251.59.179:8512/xoxo.m3u8
 TVBS,http://www.hrpan.tk/hls/tvbspd.m3u8
-TVBS,http://50.7.61.148:30080/Entry/tvbs
-TVBS新闻,http://50.7.61.148:30080/Entry/tvbsnews
-亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-中视,http://50.7.61.148:30080/Entry/ctv
-壹新闻,http://50.7.61.147:30080/Entry/etv
-原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映频道,https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-天映频道Celestial Classic Movies,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 唯心电视台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-卫视中文,http://50.7.61.148:30080/Entry/starchinese
 衛視電影,https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-台视,http://50.7.61.148:30080/Entry/ttv
 JET综合,http://50.7.61.147:30080/Entry/jet
 壹新闻2,http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
-三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-三立台湾,http://50.7.61.148:30080/Entry/settw-
-民视,http://50.7.61.147:30080/Entry/ftv
-民视新闻,http://50.7.61.148:30080/Entry/ftvnews
-华视CTS,http://50.7.61.147:30080/Entry/cts
-華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-非凡商业,http://50.7.61.147:30080/Entry/ubnbus
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-台視綜合台,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
-華視教育體育文化 HD,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
-公視台語台,http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
-公視三台,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
-三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
-三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
-年代MUCH,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 ELTA綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
-魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-衛視電影中文,http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
-AXN,http://50.7.61.148:30080/Entry/axn
-HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 NHK日本,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 澳視綜藝,http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
-原住民電視,http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b4000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 航天频道,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
 音乐20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
@@ -1397,7 +1321,6 @@ Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 音乐石榴,http://121.12.115.156/tx.hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8
 ELEVEN2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 星空衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 好消息电视台2[854*480],http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
@@ -1407,8 +1330,6 @@ ELEVEN2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u
 Thrill电影台,http://93.190.139.35:8278/streams/d/Thrill/playlist.m3u8
 海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 阿里郎,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
-ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 民視台灣,https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw%3d/stream2.m3u8?token=xI0fLiKy1vem2vPjOlfwFw&expires=1630484837&token1=xVY64k4T75EVLPBtQaDQIw&expires1=1630513637&refer=MmRjZjkxNWEtYTgyZS00MjIxLWE4NTktYzg1Zjc3MGQ1NDM1&y=0
 民視第一,https://4gtvfreemobile-mozai.4gtv.tv/BS0hPFwEmjNJQjj2oFSy1Z-XQ9JgkjaDBtZQBS7S6B4%3d/stream2.m3u8?token=25j77IK5TofuZcj-JuUCMQ&expires=1632735955&token1=vu3xx42dEIv86AGcv0C74g&expires1=1632764755&refer=ZGQ2ZmNkZTMtYzQyMS00NTYzLTg5MTgtM2RhMjBhZmFhM2Rj&y=0
@@ -1417,21 +1338,13 @@ ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 民視綜藝,https://4gtvfreemobile-mozai.4gtv.tv/0df68Gf2eZZfeig9vWfaKfrjsVCG-GW-OCbyLHhoW0M%3d/stream2.m3u8?token=kZe4eLTn9CRCt4byOtfzpQ&expires=1628316954&refer=ZDRjZGQzODAtOTUyMi00ZDAxLTgyMzktZTMyMzFiZWUwZGIz&token1=kHxHRFjqciiDO5a-uaorqw&expires1=1628345754&y=0&vt=
 北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 华视新闻资讯 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
-JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
 Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-公視3台,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
-亚洲新闻[1280*720],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻[1920*1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱一台,http://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,http://pulltv1.wanfudaluye.com/live/tv2.m3u8
-大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-大愛海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 momo綜合台(1084),http://125.227.210.37:13498/VideoInput/play.ts
 優視頻道(720),http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-世新綜合(720),http://61.58.60.230:9319/live/49.m3u8
-好消息(480),http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 FashionTV(1084),https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 玄幻影院<殭屍電影>720,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 TVBS新聞台 HD(1080),http://125.227.210.37:16329/VideoInput/play.ts
@@ -1470,12 +1383,9 @@ HBO 热播,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 国家地理,http://125.227.210.37:16408/VideoInput/play.ts
 科幻电影,http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
 佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
-湖南电影高清,http://124.232.231.246:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-湖南电影高清,http://124.232.231.246:6610/000000001001/201600020005/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 東森洋片,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
 福州影视 (1080p),http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 海外剧场 (1080p),http://117.169.124.37:6610/ysten-businessmobile/live/xiqumd/yst.m3u8
-东方影视 (1080p),http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 华数 (720p),http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 四川影视台 (720p) [Not 24/7],http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8
 浙江影视 (1080p),http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
@@ -1487,7 +1397,6 @@ HBO 热播,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 家庭剧场 (1080p),http://117.169.124.37:6610/ysten-businessmobile/live/jiatingjc/yst.m3u8
 家庭影院 (1080p),http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 高清电影 (1080p),http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-日本NHK世界,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 HBO FAMILY,https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 CHC 動作电影 HD,http://39.134.19.68:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
@@ -1518,7 +1427,6 @@ CIBN经典剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/692446012
 CIBN流金岁月,http://112.74.200.9:88/tv000000/m3u8.php?/migu/692399419
 高清影视,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
 潇湘电影,http://58.20.64.92:9999/tsfile/live/1003_1.m3u8
-华数影院,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 中国电影4K,http://ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
 CBN每日影院,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000565&playtoken=ABCDEFGH&auth=no
 每日科幻电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
@@ -1625,7 +1533,6 @@ HBO-家庭,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index
 优酷电影24,http://tv.rdys888.top/bak/proxy/youku.php?id=8020408
 优酷电影25,http://tv.rdys888.top/bak/proxy/youku.php?id=8035190
 女团3_斗鱼,http://dyscdnali1.douyucdn.cn/live/231464r9XzaQ89ir.flv?uuid=
-女团9_斗鱼,http://dyscdnali1.douyucdn.cn/live/222286rSIO55qb0k.flv?uuid=
 斗鱼1,http://dyscdnali1.douyucdn.cn/live/434971r3ZA8dMt4g.flv?uuid=
 斗鱼25,http://dyscdnali1.douyucdn.cn/live/218859rqPPCnL2wr.flv?uuid=
 斗鱼37,http://dyscdnali1.douyucdn.cn/live/1487654rng22ENGO.flv?uuid=
@@ -1637,7 +1544,6 @@ HBO-家庭,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index
 斗鱼65,http://dyscdnali1.douyucdn.cn/live/9826611rWmyyVwei.flv?uuid=
 斗鱼42,http://dyscdnali1.douyucdn.cn/live/3980787rVI3fG6Tv.flv?uuid=
 斗鱼6,http://dyscdnali1.douyucdn.cn/live/7537296rTdKDixQ0.flv?uuid=
-斗鱼33,http://dyscdnali1.douyucdn.cn/live/925724rF5xBjx87A.flv?uuid=
 斗鱼20,http://dyscdnali1.douyucdn.cn/live/3194372rz5k1H2Vd.flv?uuid=
 斗鱼66,http://dyscdnali1.douyucdn.cn/live/9984624rTeZruTFo.flv?uuid=
 斗鱼34,http://dyscdnali1.douyucdn.cn/live/4246519rvuwKN1cg.flv?uuid=
@@ -1656,7 +1562,6 @@ HBO-家庭,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index
 斗鱼28,http://dyscdnali1.douyucdn.cn/live/9292492ryp84bAaq.flv?uuid=
 斗鱼50,http://dyscdnali1.douyucdn.cn/live/6581531rxLDJAVvy.flv?uuid=
 斗鱼12,http://dyscdnali1.douyucdn.cn/live/9461990r5geir007.flv?uuid=
-斗鱼54,http://dyscdnali1.douyucdn.cn/live/3627728r87l7bnzk.flv?uuid=
 斗鱼2,http://dyscdnali1.douyucdn.cn/live/52787rJ9rlhA9vZq.flv?uuid=
 斗鱼66,http://dyscdnali1.douyucdn.cn/live/8936207ruwv096Ze.flv?uuid=
 斗鱼55,http://dyscdnali1.douyucdn.cn/live/2164691rjbV8AGLn.flv?uuid=
@@ -1931,20 +1836,8 @@ WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3
 WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 American Horrors,http://170.178.189.66:1935/live/Stream1/.m3u8
 Ariana TV,http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
-韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-amdlive,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
-ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 韓國·TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
-韓國·SBS TJB,http://1.245.74.5:1935/live/tv/.m3u8
-韓國·KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-韓國·EBS第一頻道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-韓國·EBS第二頻道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-韓國·EBS加一頻道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
 韓國·韓國中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-韓國·EBS第一頻道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-韓國·KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
-韓國·KOREA YTN,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-韓國·CGNTV韓國,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 BS TBS,http://203.162.235.41:16913
 BS 朝日,http://203.162.235.41:16914
@@ -1971,13 +1864,7 @@ CBS News,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 NHK BS1 (BS101),http://203.162.235.41:16909
 NHK BSプレミアム,http://203.162.235.41:16910
 NHK Eテレ,http://203.162.235.41:16901
-NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World Premium,https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
-NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
-NHK24,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 NHK総合,http://203.162.235.41:16903
 Nick Jr.,https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 Nius SD,https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8
@@ -2012,7 +1899,6 @@ TVS Hi Tops,https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
 Watch It Kid,https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 Yo Gabba Gabba!,https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
 Zoo Moo (Australia),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-天映频道 (Malayia),http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 CNN International UK,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 NBC News Now,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -2026,21 +1912,12 @@ Astro Awani - 马来西亚马来西亚人：英语,https://awanitv.akamaized.net
 BeritaSatu - 印度尼西亚,https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 Black News Channel - 美国,https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 BNC GO,https://didoc69s3kqdd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BlackNewsChannel2-prod/playlist.m3u8?ads.device_did=%7BPSID.%7DDOMD0D0000000000000000000000000000000000000 .app_name=%7BAPP_NAME%7D
-CBC 新闻 - 加拿大,https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-CBN 新闻 - 美国,https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-CBN 新闻 - 美国 (OPT- 2),https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
-CBS 新闻 - 美国,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 CBS 新闻 - 美国 (OPT-2),https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 CBSN - 美国,https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 CBSN - 美国 (OPT-2),https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
-CBSN 现场活动 - 美国,https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
 CGTN - 中国,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 Cheddar News - 美国,https://live.chdrstatic.com/cbn/index.m3u8
 CNA - 马来西亚,https://mediacorp-videosbclive.akamaized.net/310fff74530047d29076136efeabe72c/ap-southeast-1/6057994443001/playlist.m3u8
-CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
-CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNN (Pluto TV),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 CNN International (美国),https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 CNN International,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -2090,23 +1967,11 @@ France 24 Español,https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 France 24 Español,https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 France 24 Français,https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 France 24 Français,https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-FRANCE,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 Francophonie,http://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_b5000000_t64MTA4MHA=.m3u8
 Freesports,http://93.190.139.35:8278/streams/d/freesports_antik/playlist.m3u8
-Free电视,https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-HBO Family [Asia Feed],https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-HBO Hits [Asia Feed],https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 HBO,http://218.202.220.2:5000/nn_live.ts?id=HBO
-HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-HBO,http://50.7.61.148:30080/Entry/hbo
-HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-HD Fashion & Lifestyle (UA),http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
-HD Fashion & Lifestyle [FHD],http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 HD Fashion & Lifestyle TV,http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
 HDFashion & LifeStyle,http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
 HDFashion & LifeStyle,http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
@@ -2120,7 +1985,6 @@ HELLENIC TV,https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 Hidabroot,https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
 Hidabroot,https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 Hidabroot,https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
-HIGH TV,http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 Hilando Fino,http://4k-server-mia.2cdn.eu/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
 Himlen TV 7,http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
 Himlen TV7 (SE),http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
@@ -2133,7 +1997,6 @@ History Lab,https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m
 History,https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
 HISTORY,https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 Hit TV (KZ),https://sc.id-tv.kz/HitTV_36_37.m3u8
-Hitradio Ö3 (Webradio),https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 Hits 360 HD,http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 Hits Movies,https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 Hits,https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
@@ -2143,7 +2006,6 @@ HLEKTRA TV,http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u
 HM,http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 HodHod TV,http://51.210.199.12/hls/stream.m3u8
 Ind TV USA,https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8
-India News,https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
 India Today EN,https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 India Today,https://feeds.intoday.in/aajtak/api/master.m3u8
 India Today,https://feeds.intoday.in/hltapps/api/master.m3u8
@@ -2152,16 +2014,13 @@ India TV (Opt-2),https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/p
 India TV News,https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8
 India TV,https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/chunks.m3u8
 India TV,https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
-Indigenous TV (720p),http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 Infinit TV,http://webmobile.xdev.ro:81/tv6/playlist.m3u8
-Info HD,https://netstreaming.eu:8080/hls/InfoHd.m3u8
 InfoWars,https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
 Insight TV,https://insighttv-samsungau.amagi.tv/playlist.m3u8
 Insight TV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 Insight,https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 Inspiration TV,https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
 InspirationTV (English),https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/index_2_av-p.m3u8
-INT Shalom TV,https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8
 Inter AZ,http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
 Intermedia TV,http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8
 Intermedia TV,http://46.4.14.12:9999/intermedia1/playlist.m3u8
@@ -2179,8 +2038,6 @@ KBS 2,http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQ
 KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 KBS Wolrd,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
-KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 KBSV/AssyriaSat,http://66.242.170.53/hls/live/temp/index.m3u8
 KC2,http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 KC2,https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
@@ -2198,7 +2055,6 @@ NBCLX,https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
 NBCLX,https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 NBCLX,https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?OTATV
 NBN HD,https://nbntv.me:8443/nbntv/index.m3u8
-NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 NBS TV Uganda EN,https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/10-hls/live-media.m3u8
 NBS TV,https://readymedia.moderntv.cloud:8092/distribute/readymedia/NBSTV_stream_qb/5-20-hls/live.m3u8
 NBT Bangkok,http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
@@ -2217,14 +2073,11 @@ NDR Schleswig-Holstein,https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_377
 NDR Schleswig-Holstein,https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
 Sky 1 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-Sky Folk TV,http://eu.live.skyfolk.mk/live.m3u8
 Sky News (US),http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8
-Sky News Arabia,https://stream.skynewsarabia.com/hls/sna.m3u8
 Sky News Extra 1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 Sky News Extra 2 (540p),https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 Sky News Extra 3 (540p),https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 Sky News,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-Sky News,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 Sky Racing 1 [Geo-blocked],https://i.mjh.nz/au/Sydney/tv.sky1rw.m3u8
 Sky Racing 1,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 Sky Racing 2 [Geo-blocked],https://i.mjh.nz/au/Sydney/tv.sky2rw.m3u8
@@ -2284,7 +2137,6 @@ Pattrn - 美国,https://csm-e-cetubiausw2live204-01130c4edc259e208.csm.tubi.vide
 Weather Nation - 美国,https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 WeatherNation (KCKS-LD6) - 美国,https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 The Weather Network Event - 加拿大,https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
-Weather News - 日本,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 WeatherSpy - 美国,https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
 WeatherSpy - 美国 (OPT-2),https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 BloombergTV HD,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
@@ -2404,7 +2256,6 @@ Tastemade (720p),https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
 Tennis Channel (720p),https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 Tennis Channel (UK) (720p),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-Most Video 2,http://w4.mostvideo.tv/heltv/ch2.m3u8
 MUSIC JAPAN,http://122.155.180.8:5021/live/495
 News Center 7 (Ohio),http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -2436,7 +2287,6 @@ Hope俄罗斯,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u
 24/7 Noticias | SD,http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 3 Цифровой,http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
 34 Канал (Днепр),http://streamvideol.luxnet.ua/34ua/34ua.stream/chunklist.m3u8
-360/СИН (Сургут),http://video1.in-news.ru/360/index.m3u8
 7 канал (KZ),http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
 7 Канал (Одесса),http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 7 Канал HD (Одесса),https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
@@ -2563,7 +2413,6 @@ ebs+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/playlist.m3u8
 CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
 西班牙 Ⅰ 中国环球 (西班牙),http://livees.cgtn.com/1000e/prog_index.m3u8
 老挝 Ⅰ 布莱恩电视,https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/chunklist.m3u8
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 MTV音乐,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 哈南台,http://61.58.60.230:9319/live/90.m3u8
 印度CNN Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -2577,18 +2426,15 @@ MTV音乐,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m
 星马频道,#genre#
 Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 Astro IQIYI,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
-Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 Astro Ria,http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 Astro Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 Astro Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 Naura HD,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-KBS WORLD,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 NAT GEO wild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 NTV 7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
@@ -4471,3 +4317,4 @@ reol-サイサキ,http://qukufile2.qianqian.com/data2/video/d9ef17b3d5ccaa335a85
 快手美女614,http://jsmov2.a.yximgs.com/upic/2019/03/20/22/BMjAxOTAzMjAyMjIzMDlfNzEzNzc4ODNfMTE1NDg3MzQ4MDlfMV8z_b_B381b5bc5cc257cd7a5f25e1a1a109bb7.mp4
 快手美女615,http://txmov2.a.yximgs.com/upic/2019/05/04/21/BMjAxOTA1MDQyMTM4MDRfMTEzNzQyNTgxNF8xMjc4Mjg0NDY5NV8xXzM=_b_B55e38ea0369f722d0cdd5e80ceb60e9f.mp4
 快手美女616,http://qnmov.a.yximgs.com/upic/2019/05/01/16/BMjAxOTA1MDExNjMzNDNfMTE1NjY5NzAwOF8xMjY2MDkyODI2MF8xXzM=_b_B32a8e6d6e5e78a3521e0e9462f9acdfe.mp4
+
