@@ -714,8 +714,6 @@ BTV青年,http://111.13.42.10/PLTV/88888888/224/3221226562/1.m3u8
 欢笑剧场,http://183.207.248.71/cntv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc
 哈哈炫动,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
 魅力足球,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
-五星体育,http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8
-劲爆体育,http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
 动漫秀场,http://117.136.154.94/PLTV/88888888/224/3221225845/index.m3u8
 极速汽车,http://117.136.154.86/PLTV/88888888/224/3221225847/index.m3u8
 游戏风云,http://117.136.154.86/PLTV/88888888/224/3221225840/index.m3u8
@@ -913,7 +911,6 @@ IPTV法治,http://39.134.39.39/PLTV/88888888/224/3221226258/index.m3u8
 野外,http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
 欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/TVOD/3/224/3221227715/index.m3u8
 4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-纯享4K,http://39.135.140.104:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
@@ -2504,7 +2501,6 @@ Now直播331台,https://api.leonardpark.dev/live/now/331
 澳门葡语,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳视澳门,http://124.238.99.44:808/hls/357/index.m3u8
 澳视澳门,http://124.238.99.44:808/hls/360/index.m3u8
-
 美亚电影,http://v3948069e.live.126.net/live/hod300.flv
 天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
@@ -2621,7 +2617,6 @@ AFC 亚洲旅游台,http://50.7.61.149:30080/Entry/asiatravel
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 Astro愛奇藝,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-
 韩国阿里郎,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国·TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
 韩国·SBS TJB,http://1.245.74.5:1935/live/tv/.m3u8
@@ -2681,7 +2676,6 @@ EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tab
 cpbc,http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
 원음방송,http://live.cdn.smilecdn.com:1935/yunho90_live/live/playlist.m3u8
 BTN불교TV,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
-GOODTV,http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 쇼핑엔티,http://114.108.31.23/live/10011.m3u8
 신세계쇼핑,http://wliveout.kollus.com/shinsegaetvshopping_h0000k/index.m3u8
 GSTV-쇼핑,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
@@ -2767,7 +2761,6 @@ Noor Dubia,http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil
 SDETV,http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
 TV BRICS Chinese,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 旺苍新闻,http://3g.dzsm.com/streamer/gycttv.m3u8
-
 CNN,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 BBC NEWS,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
@@ -2855,7 +2848,6 @@ Himlen TV 7,http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3
 Himlen TV7 (SE),http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
 Himlen TV7,http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
 HiperTV,https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
-Hipódromo de las Américas,http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
 HISPAM;ES El Garage TV,http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 History Channel (Best of),https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 History Lab,https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
@@ -3147,7 +3139,6 @@ SS 足球,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/5
 印度NEWS 18 INDIA,https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 印度Tez,https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_4/chunklist.m3u8
 印度SUDARSHAN NEWS,https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w1867454157.m3u8
-
 Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 Astro Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
 Astro Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
@@ -3159,7 +3150,6 @@ Creation TV,http://al-pull2.hkatv.vip/live/CTV.m3u8
 Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 Astro Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 Naura HD,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 NTV 7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
@@ -3754,7 +3744,6 @@ HUB娛家,mitv://ns2.hellotvvod.com:9906/da8e392d1e5e49e08e64e5ce00c0568e
 斗鱼-香港赌片[1280*720],http://dyscdnali3.douyucdn.cn/live/315457rtOkUP9dtx.flv?uuid=
 斗鱼4[1280*720],http://dyscdnali3.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
 斗鱼10[960*540],http://dyscdnali3.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
-斗鱼13[1920*1080],http://dyscdnali3.douyucdn.cn/live/206858rtesHKjl.flv?uuid=
 斗鱼198,http://dyscdnali1.douyucdn.cn/live/7493575rtd5VrJzJ.flv?uuid=
 斗鱼124,http://dyscdnali1.douyucdn.cn/live/8936207rxu2kTu7r.flv?uuid=
 斗鱼21,http://dyscdnali1.douyucdn.cn/live/9386057rGjtrIWSd.flv?uuid=
@@ -3769,12 +3758,10 @@ HUB娛家,mitv://ns2.hellotvvod.com:9906/da8e392d1e5e49e08e64e5ce00c0568e
 斗鱼1,http://dyscdnali1.douyucdn.cn/live/434971r3ZA8dMt4g.flv?uuid=
 斗鱼37,http://dyscdnali1.douyucdn.cn/live/1487654rng22ENGO.flv?uuid=
 斗鱼6,http://dyscdnali1.douyucdn.cn/live/7537296rTdKDixQ0.flv?uuid=
-斗鱼8,http://dyscdnali1.douyucdn.cn/live/9837291riC523X24.flv?uuid=
 斗鱼45,http://dyscdnali1.douyucdn.cn/live/7623292rOpb9hhJ1.flv?uuid=
 斗鱼3,http://epg.112114.xyz/douyu/9396703
 斗鱼5,http://epg.112114.xyz/douyu/3637765
 斗鱼1,http://epg.112114.xyz/douyu/6763930
-斗鱼4K,http://epg.112114.xyz/douyu/9249162
 经典影艺,http://epg.112114.xyz/bili/608888
 经典电影,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/bilibili.php?tvplay=23125843
 TVB电视剧,http://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
@@ -3819,7 +3806,6 @@ TVB电视剧,http://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
 电影导视,http://tv.rdys888.top/bak/proxy/youku.php?id=8021972
 超清影视,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
 每日影院,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-
 埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8
 埋堆堆02,http://121.12.115.162/txdirect.hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8
 埋堆堆03,http://121.12.115.162/txdirect.hls.huya.com/src/1199561219773-1199561219773-5434611909938642944-2399122563002-10057-A-0-1.m3u8
