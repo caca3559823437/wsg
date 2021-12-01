@@ -2233,7 +2233,6 @@ NOW新闻,http://v3948069e.live.126.net/live/tghjBVUTYUIGTGTFTFTFRFVTVF/ggbox/in
 香港文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 凤凰电影,http://218.202.220.2:5000/nn_live.m3u8?id=NEWSASIA
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-香港卫视,http://124.238.99.44:808/hls/352/index.m3u8
 星空卫视,http://124.238.99.44:808/hls/353/index.m3u8
 有线18,http://124.238.99.44:808/hls/356/index.m3u8
 点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
@@ -2249,6 +2248,36 @@ RTHK32,http://v3948069e.live.126.net/live/jA6fP3oK4lJ0cM7bF7kV9rY8qC6fL1dQ.flv
 Now直播331台,https://api.leonardpark.dev/live/now/331
 明珠台,http://host496323.us.ooqr.com/pltv/gz.php?id=26
 翡翠台,http://host496323.us.ooqr.com/pltv/gz.php?id=25
+无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
+翡翠台(繁体) ,http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台(简体),http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台海外版(繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台海外版(简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB为食台 ,http://iptv.tvfix.org/hls/tvbws.m3u8
+TVB为食台(2) ,http://iptv.tvfix.org/hls/tvbws2.m3u8
+美亚港版(粤语) ,http://iptv.tvfix.org/hls/mydy.m3u8
+美亚港版(国语) ,http://iptv.tvfix.org/hls/mydy2.m3u8
+TVB功夫(粤语),http://iptv.tvfix.org//hls/tvbkf.m3u8
+TVB功夫(国语),http://iptv.tvfix.org//hls/tvbkf2.m3u8
+TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
+TVB星河(国语),http://iptv.tvfix.org/hls/tvbxh2.m3u8
+J2台,http://iptv.tvfix.org/hls/j2.m3u8
+J2台(2),http://iptv.tvfix.org/hls/j22.m3u8
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+明珠台2,http://iptv.tvfix.org/hls/pearl.m3u8
+无线财经,http://iptv.tvfix.org/hls/finance.m3u8
+无线财经(2),http://iptv.tvfix.org/hls/finance2.m3u8
+无线财经海外版,http://iptv.tvfix.org/hls/financenhk.m3u8
+TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
+TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
+星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
+国家地理,http://iptv.tvfix.org/hls/natlgeo.m3u8
+Thrill,http://iptv.tvfix.org//hls/thrill.m3u8
+Thrill(第2声道),http://iptv.tvfix.org/hls/thrill2.m3u8
+天映经典(粤语),http://iptv.tvfix.org/hls/tyjd.m3u8
+天映经典(国语),http://iptv.tvfix.org/hls/tyjd2.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 星空卫视,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -2582,6 +2611,169 @@ New Japan Pro Wrestling World,https://aka-amd-njpwworld-hls-enlive.akamaized.net
 シネフィルWOWOW,http://203.162.235.41:16916
 テレビ東京,http://203.162.235.41:16908
 フジテレビ,http://203.162.235.41:16904
+24 Kitchen FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/36451
+Akilli TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/97740
+A Para HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/42665
+TRT 1 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14156
+TRT 1 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/23778
+ER TV TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/36720
+Kanal D HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/95856
+Show TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14175
+Show TV TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14173
+Show TV FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14172
+Star HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14166
+Star TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14165
+Star TV FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14164
+Fox TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/95855
+Fox TV FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14227
+TV4 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/42662
+TV8 TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14138
+TV8 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/42670
+TV8 5 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/42671
+ATV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14266
+A Spor HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14271
+A Spor FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14270
+Kanal 7 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14220
+A2 TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14269
+A2 TV FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/42664
+Kral Pop TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14217
+Arti TV TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/35686
+Baby TV TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14265
+Niloya TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/30744
+360 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/31085
+Cem TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/97744
+Turkmeneli TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/97746
+TV EM HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/97743
+Ulusal TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/97742
+beIN Box Office 2 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14262
+beIN Movies Action FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/28823
+beIN Movies Action 2 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/28824
+beIN Series Comedy FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/28822
+beIN Movies Stars FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/28818
+beIN Movies Turk HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14261
+beIN Sports 1 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14260
+beIN Sports 1 FHD TR [Multi-Audio],http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/36455
+beIN Sports 1 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/31592
+beIN Sports 2 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14259
+beIN Sports 2 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/36454
+beIN Sports 2 FHD TR [Only On 4K Devices],http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/31591
+beIN Sports 3 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14258
+beIN Sports 3 FHD TR [Multi-Audio],http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/36453
+beIN Sports 3 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/31590
+beIN Sports 4 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14257
+beIN Sports 4 FHD TR [Multi-Audio],http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/31589
+beIN Sports Haber FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/36452
+Exxenn+ 1 Yayin Zamani Aktif HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/117308
+Exxenn+ 1 Yayin Zamani Aktif FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/117305
+Exxenn+ 2 Yayin Zamani Aktif FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/117306
+Exxenn+ 3 Yayin Zamani Aktif HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/117310
+S Sport FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/37148
+BENGU TURK TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14255
+Beyaz TV TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14254
+BBC Earth FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14253
+Cartoon Network HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14249
+CNN Türk TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/102597
+CNN Türk FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14244
+A Haber HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/37958
+A Haber FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/37957
+Da Vinci Learning HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14243
+Discovery Channel FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14240
+Discovery IDX HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14239
+Discovery Science FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14238
+Disney Channel TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14237
+Disney Junior TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14236
+Nickeledeon HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/37567
+Dream TV TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14233
+Euro D Turk TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14232
+Eurosport 1 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/30756
+Fox Crime FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14228
+Haber Global HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/97739
+Haberturk HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/97738
+Halk TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14224
+Beyaz TV TR FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/42669
+Kanal 24 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14221
+KRT TV FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/35466
+Minika Cocuk TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14210
+MovieMax Festival HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14203
+MovieMax Turk HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14200
+Moviesmart Platin FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14195
+Nat Geo People HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14193
+NatGeo Wild TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14192
+National Geographic FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14191
+TLC TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/36853
+Nickelodeon HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14190
+NTV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14189
+PowerTurk FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14185
+SEMERKAND TV TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14176
+Show Max TR*,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14174
+Smart Spor FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14168
+Teve2 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14163
+Teve2 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/42667
+Tele 1 TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/35467
+Türk Sanat Muzik TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/79871
+Tivibu Spor 1 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14162
+Tivibu Spor 1 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/30717
+Tivibu Spor 2 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14161
+Tivibu Spor 2 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/30716
+Tivibu Spor 3 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14160
+Tivibu Spor 3 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/30715
+TJK TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14158
+Trek Turkey TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14157
+TRT Avaz HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14154
+TRT Belgesel FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14153
+TRT Cocuk HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14152
+TRT Diyanet HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14151
+TRT Haber FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14150
+TRT HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14149
+TRT MUZIK TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14147
+TRT Sport FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14144
+TRT Spor 2 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/51806
+TRT T TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14143
+TRT 4K TR [Only On 4K Devices],http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/34238
+Tvnet FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14141
+TV100 TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/55791
+ULKE TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14137
+YOL TV TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14130
+Discovery Showcase HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14127
+Fenerbahce TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14126
+Galatasaray TV HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14124
+Kral TV TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/14123
+DMAX Turkey HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/102598
+TGRT Haber HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/10983
+CineBox 1 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/23795
+CineBox 2 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/23794
+CineBox 4 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/23792
+CineBox 5 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/23791
+Sundance TV FHD TR [Multi-Audio],http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/23785
+MaGicBoX Aksiyon FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52030
+MaGicBoX Komedi FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52033
+ENO Animasyon HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52011
+ENO Turk HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52012
+ENO Turk 2 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52013
+ENO Western FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52029
+ENO Vizyon 7 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52020
+ENO Vizyon 8 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52021
+ENO Vizyon 9 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52022
+ENO Vizyon 10 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52023
+ENO Vizyon 11 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52024
+ENO Vizyon 12 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52025
+ENO Vizyon 14 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52027
+ENO Vizyon 15 HD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/52028
+Sinemax Drama FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/40557
+Filmbox Yesilcam FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/59671
+Filmbox Adrenalin FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/59670
+Filmbox Aksiyon FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/59668
+Filmbox Animasyon FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/59666
+Filmbox Bilim Kurgu FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/59665
+Filmbox Dram FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/59664
+Filmbox Fantastik FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/59663
+Filmbox Korku FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/59662
+Captain Movies 2 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/59660
+Captain Movies 3 FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/59659
+Sinema TV FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/49011
+Sinema TV Aile FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/49021
+Sinema TV Komedi FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/49017
+Sinema TV Yerli FHD TR,http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/49019
 NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 EBS_E频道,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
@@ -2608,7 +2800,6 @@ EBS-E,https://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/chunklist_w208365
 EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 복지TV,http://139.150.248.29/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 국악방송,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-국회방송,https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
 cpbc,http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
 원음방송,http://live.cdn.smilecdn.com:1935/yunho90_live/live/playlist.m3u8
 BTN불교TV,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
@@ -2630,7 +2821,6 @@ MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 Animax HD,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-SBS 淸州,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 KBS 2,http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
 KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
@@ -2981,7 +3171,6 @@ DEEJAY,http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 ABC Vintera,http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
-DJing,http://www.djing.com/tv/live.m3u8
 DJing Animation,https://www.djing.com/tv/27717-05.m3u8
 DJing Avicii,https://djing.com/tv/s-28416-05-avicii.m3u8
 DJing Avicii HD,https://djing.com/tv/s-28730-05-avicii.m3u8
@@ -3024,7 +3213,6 @@ NRG 91 TV,http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 Ocko Star,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 Ocko TV,http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 Ocko TV Expres,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-Odessa Fashion,http://cdn10.live-tv.od.ua:8081/ofod/ofod240p/playlist.m3u8
 Olvia,http://cdn1.live-tv.od.ua:8081/ktkod/ktkod/playlist.m3u8
 Publika TV,https://livebeta.publika.md/LIVE/P/1500.m3u8
 QVC Style UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
@@ -3648,8 +3836,6 @@ HUB娛家,mitv://ns2.hellotvvod.com:9906/da8e392d1e5e49e08e64e5ce00c0568e
 斗鱼电影15,http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
 斗鱼4,http://dyscdnali3.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
 斗鱼10,http://dyscdnali3.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
-斗鱼198,http://dyscdnali1.douyucdn.cn/live/7493575rtd5VrJzJ.flv?uuid=
-斗鱼124,http://dyscdnali1.douyucdn.cn/live/8936207rxu2kTu7r.flv?uuid=
 斗鱼21,http://dyscdnali1.douyucdn.cn/live/9386057rGjtrIWSd.flv?uuid=
 斗鱼23,http://dyscdnali1.douyucdn.cn/live/52787rEKyx5UJA7E.flv?uuid=
 斗鱼141,http://dyscdnali1.douyucdn.cn/live/4282654rZ6bgd7oa.flv?uuid=
