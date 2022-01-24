@@ -1,49 +1,4 @@
 ﻿🇨🇳大陆频道,#genre#
-CCTV-1,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171972
-CCTV-2,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171973
-CCTV-3,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171974
-CCTV-4,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171975
-CCTV-5,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171976
-CCTV-5+,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171977
-CCTV-6,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171978
-CCTV-7,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171979
-CCTV-8,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171980
-CCTV-9,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171981
-CCTV-10,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171982
-CCTV-11,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171983
-CCTV-12,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171984
-CCTV-13,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171985
-CCTV-14,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171986
-CCTV-15,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171987
-CCTV-16,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171988
-CCTV-17,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171989
-CCTV-5,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191382
-CCTV-5+,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191383
-CCTV-16,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191934
-CCTV-3,http://39.134.115.163:8080/TVOD/88888910/224/3221225634/index.m3u8
-CCTV-3,http://ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8
-CCTV-4,http://39.134.115.163:8080/TVOD/88888910/224/3221225621/index.m3u8
-CCTV-4,http://ott.js.chinamobile.com/PLTV/3/224/3221227378/index.m3u8
-CCTV-5+,http://ott.js.chinamobile.com/PLTV/3/224/3221227381/index.m3u8
-CCTV-7,http://39.134.66.66/TVOD/88888888/224/3221225671/index.m3u8
-CCTV-8,http://ott.js.chinamobile.com/PLTV/3/224/3221227205/index.m3u8
-CCTV-8,http://ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-CCTV-9,http://ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8
-CCTV-9,http://ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8
-CCTV-10,http://ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
-CCTV-10,http://ott.js.chinamobile.com/PLTV/3/224/3221227317/index.m3u8
-CCTV-11,http://39.135.138.58:18890/TVOD/88888888/224/3221225628/index.m3u8
-CCTV-11,http://ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
-CCTV-11,http://ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
-CCTV-12,http://39.135.138.59:18890/TVOD/88888910/224/3221225629/index.m3u8
-CCTV-12,http://ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
-CCTV-13,http://39.134.115.163:8080/TVOD/88888910/224/3221225638/index.m3u8
-CCTV-13,http://ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
-CCTV-14,http://ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
-CCTV-15,http://ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
-CCTV-15,http://ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-CCTV-17,http://ott.js.chinamobile.com/PLTV/3/224/3221227578/index.m3u8
-CCTV-17,http://ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
 CCTV-1,http://223.110.245.173/PLTV/4/224/3221227375/index.m3u8
 CCTV-1,http://223.110.245.170/PLTV/3/224/3221226316/index.m3u8
 CCTV-1,http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
@@ -202,20 +157,54 @@ CCTV-14,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/inde
 CCTV-11,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
 CCTV-10,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
 CCTV-12,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+CCTV-3,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171974
+CCTV-7,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171979
+CCTV-8,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171980
+CCTV-9,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171981
+CCTV-10,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171982
+CCTV-11,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171983
+CCTV-12,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171984
+CCTV-13,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171985
+CCTV-14,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171986
+CCTV-15,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171987
+CCTV-17,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171989
+CCTV-5,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191382
+CCTV-5+,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191383
+CCTV-16,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191934
+CCTV-3,http://39.134.115.163:8080/TVOD/88888910/224/3221225634/index.m3u8
+CCTV-3,http://ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8
+CCTV-4,http://39.134.115.163:8080/TVOD/88888910/224/3221225621/index.m3u8
+CCTV-4,http://ott.js.chinamobile.com/PLTV/3/224/3221227378/index.m3u8
+CCTV-5+,http://ott.js.chinamobile.com/PLTV/3/224/3221227381/index.m3u8
+CCTV-7,http://39.134.66.66/TVOD/88888888/224/3221225671/index.m3u8
+CCTV-8,http://ott.js.chinamobile.com/PLTV/3/224/3221227205/index.m3u8
+CCTV-8,http://ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+CCTV-9,http://ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8
+CCTV-9,http://ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8
+CCTV-10,http://ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
+CCTV-10,http://ott.js.chinamobile.com/PLTV/3/224/3221227317/index.m3u8
+CCTV-11,http://39.135.138.58:18890/TVOD/88888888/224/3221225628/index.m3u8
+CCTV-11,http://ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
+CCTV-11,http://ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
+CCTV-12,http://39.135.138.59:18890/TVOD/88888910/224/3221225629/index.m3u8
+CCTV-12,http://ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+CCTV-13,http://39.134.115.163:8080/TVOD/88888910/224/3221225638/index.m3u8
+CCTV-13,http://ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+CCTV-14,http://ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+CCTV-15,http://ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
+CCTV-15,http://ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+CCTV-17,http://ott.js.chinamobile.com/PLTV/3/224/3221227578/index.m3u8
+CCTV-17,http://ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
 CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-17,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
 CCTV-17,http://111.12.101.23:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-CCTV- 4K,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191389
-央视台球,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192109
 风云足球,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192110
 高尔夫网球,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192111
 世界地理,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192112
-风云音乐,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192113
 第一剧场,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192114
 风云剧场,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192115
 怀旧剧场,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192116
-兵器科技,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192117
 女性时尚,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192118
 央视精品,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192119
 电视指南,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192120
@@ -224,13 +213,10 @@ CCTV- 4K,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191389
 北京衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189864
 天津衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189866
 广東衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189868
-江西衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189870
 河南衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189871
 浙江衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189872
-深圳衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189873
 湖北衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189874
 湖南衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189875
-辽宁衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189877
 青海衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189878
 河北衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189879
 厦门衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189865
@@ -238,8 +224,6 @@ CCTV- 4K,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191389
 陕西衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189881
 山東衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189882
 黑龙江衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189886
-吉林衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189884
-海南衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/189880
 江苏衛视,http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 浙江衛视,http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
 浙江衛视,http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
@@ -543,25 +527,19 @@ BTV财经,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
 北京体育,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=158&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
 北京衛视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
-SiTV劲爆体育,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192096
 SiTV新视觉台,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192097
-SiTV极速汽车,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192098
 SiTV欢笑剧场,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192099
 SiTV游戏风云,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192100
 SiTV生活时尚,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192101
 SiTV都市剧场,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192102
 SiTV劲爆体育,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191434
 SiTV新视觉,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171998
-SiTV极速汽车,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191437
-上海五星体育,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171999
 冬奥纪实,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191388
 广東体育,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191600
-iMode TV,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171424
 纯享4K,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191917
 爱上4K,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192123
 欢笑剧场4K,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191922
 河南衛视4K,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192125
-北京IPTV淘娱乐,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192132
 黑莓电影,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192133
 黑莓动画,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192134
 IPTV4K,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192127
@@ -2000,6 +1978,36 @@ HUB都会,mitv://51.81.90.178:9906/dd92eb8bcb094606800cb03e80011c54
 HUB娛家,mitv://51.81.90.178:9906/da8e392d1e5e49e08e64e5ce00c0568e
 
 🌏全球香港,#genre#
+凤凰中文,http://liur.usa7.20212021.ga/tbs.php?id=2
+凤凰资讯,http://liur.usa7.20212021.ga/tbs.php?id=3
+凤凰香港,http://liur.usa7.20212021.ga/tbs.php?id=4
+RTHK31,http://liur.usa7.20212021.ga/tbs.php?id=20
+RTHK32,http://liur.usa7.20212021.ga/tbs.php?id=21
+J2,http://liur.usa7.20212021.ga/tbs.php?id=12
+Now新闻,http://liur.usa7.20212021.ga/tbs.php?id=16
+ViuTV,http://liur.usa7.20212021.ga/tbs.php?id=8
+耀才财经,http://liur.usa7.20212021.ga/tbs.php?id=19
+無线新闻,http://liur.usa7.20212021.ga/tbs.php?id=9
+無线财经,http://liur.usa7.20212021.ga/tbs.php?id=10
+有线新闻,http://liur.usa7.20212021.ga/tbs.php?id=24
+有线财经,http://liur.usa7.20212021.ga/tbs.php?id=28
+有线体育,http://liur.usa7.20212021.ga/tbs.php?id=27
+有线電影,http://liur.usa7.20212021.ga/tbs.php?id=23
+有线18台,http://liur.usa7.20212021.ga/tbs.php?id=25
+有线603,http://liur.usa7.20212021.ga/tbs.php?id=26
+開电视,http://liur.usa7.20212021.ga/tbs.php?id=7
+星空卫视,http://liur.usa7.20212021.ga/tbs.php?id=18
+TVB功夫,http://212.95.133.2/tv/js.php?id=10
+TVB经典,http://212.95.133.2/tv/js.php?id=11
+无线新闻,http://212.95.133.2/tv/js.php?id=12
+无线财经,http://212.95.133.2/tv/js.php?id=13
+翡翠台,http://liur.usa7.20212021.ga/tbs.php?id=1
+明珠台,http://liur.usa7.20212021.ga/tbs.php?id=13
+翡翠台,http://212.95.133.2/tv/js.php?id=4
+明珠台,http://212.95.133.2/tv/js.php?id=6
+澳门莲花,http://liur.usa7.20212021.ga/tbs.php?id=30
+澳门卫视,http://liur.usa7.20212021.ga/tbs.php?id=31
+
 凤凰中文,http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8
 凤凰资讯,http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8
 凤凰香港,http://223.110.245.136/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
@@ -2057,6 +2065,15 @@ Now新闻,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now Sports Prime 630,http://livetv.dnsfor.me:80/channel.12.m3u8
 亚旅衛视,http://livetv.dnsfor.me:80/channel.24.m3u8
 亚旅衛视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+凤凰资讯,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171426
+凤凰中文,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171425
+凤凰香港,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171427
+香港衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171428
+港台電視,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/172012
+翡翠台,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191589
+J2,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/172005
+C+频道,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191918
+無线财经,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171434
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台,http://iptv.tvfix.org/hls/jadenhk2.m3u8
 翡翠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
@@ -2089,18 +2106,6 @@ Now Sports Prime 630,http://livetv.dnsfor.me:80/channel.12.m3u8
 澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
 澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
-凤凰资讯,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171426
-凤凰中文,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171425
-凤凰香港,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171427
-香港衛视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171428
-翡翠台,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191589
-J2,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/172005
-明珠台,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171435
-C+频道,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191918
-無线新闻,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191368
-無线财经,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171434
-港台電視,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/172012
-澳视体育,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171452
 澳视澳门,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171448
 澳视资讯,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171451
 澳门Macau,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171455
@@ -2164,6 +2169,34 @@ ViuTV 6,p5p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
 有线体育,p5p://fccs.123178.top:9906/60693dc3000cb8a915b929e8dfe270a3.ts
 
 🌏全球台湾,#genre#
+中视,http://liur.usa7.20212021.ga/tbs.php?id=82
+华视,http://liur.usa7.20212021.ga/tbs.php?id=86
+民视,http://liur.usa7.20212021.ga/tbs.php?id=84
+台视,http://liur.usa7.20212021.ga/tbs.php?id=83
+公视,http://liur.usa7.20212021.ga/tbs.php?id=85
+壹新闻台,http://liur.usa7.20212021.ga/tbs.php?id=58
+TVBS,http://liur.usa7.20212021.ga/tbs.php?id=95
+TVBS新闻,http://liur.usa7.20212021.ga/tbs.php?id=54
+TVBS精采,http://liur.usa7.20212021.ga/tbs.php?id=96
+TVBS歡樂,http://liur.usa7.20212021.ga/tbs.php?id=97
+寰宇新闻,http://liur.usa7.20212021.ga/tbs.php?id=63
+寰宇台湾,http://liur.usa7.20212021.ga/tbs.php?id=64
+年代新闻,http://liur.usa7.20212021.ga/tbs.php?id=61
+非凡新闻,http://liur.usa7.20212021.ga/tbs.php?id=62
+中天新闻,http://liur.usa7.20212021.ga/tbs.php?id=53
+東森新闻,http://liur.usa7.20212021.ga/tbs.php?id=55
+三立新闻,http://liur.usa7.20212021.ga/tbs.php?id=57
+三立都会,http://liur.usa7.20212021.ga/tbs.php?id=49
+三立台湾,http://liur.usa7.20212021.ga/tbs.php?id=51
+东森超视,http://liur.usa7.20212021.ga/tbs.php?id=69
+中视新闻,http://liur.usa7.20212021.ga/tbs.php?id=60
+民视新闻,http://liur.usa7.20212021.ga/tbs.php?id=59
+民视台湾,http://liur.usa7.20212021.ga/tbs.php?id=99
+民视第一,http://liur.usa7.20212021.ga/tbs.php?id=100
+民视综艺,http://liur.usa7.20212021.ga/tbs.php?id=101
+民视旅游,http://liur.usa7.20212021.ga/tbs.php?id=102
+民视影剧,http://liur.usa7.20212021.ga/tbs.php?id=103
+
 中天新闻,http://212.95.133.2/tv/js.php?id=137
 民视新闻,http://212.95.133.2/tv/js.php?id=139
 東森新闻,http://212.95.133.2/tv/js.php?id=140
@@ -2200,9 +2233,7 @@ TVBS新闻,http://iptv.tvfix.org/hls/tvbsnews.m3u8
 壹新闻台,http://211.23.114.106:8548/hls/66/808/ch24.m3u8
 寰宇新闻,http://211.23.114.106:8547/hls/76/818/ch62.m3u8
 哇酷哇酷,http://211.23.114.106:8538/hls/61/803/ch03.m3u8
-TVBS,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191609
 TVBS新闻,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191632
-三立财经,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171437
 東森新闻,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191403
 東森综合,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192124
 東森财经,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191404
@@ -2214,11 +2245,9 @@ TVBS新闻,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191632
 华视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191616
 衛视中文,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191617
 台视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191614
-台视新聞,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191629
 大愛1,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191627
 大愛2,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191628
 大立电视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171445
-寰宇新闻,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192136
 智林体育,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171447
 民视,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191615
 民视新闻,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191402
@@ -2302,7 +2331,6 @@ SBL超級籃球,http://61.222.202.191/gttv.php?id=11450&cid=11453
 台视,http://50.7.61.148:30080/Entry/ttv
 中视,http://50.7.61.148:30080/Entry/ctv
 华视,http://50.7.61.147:30080/Entry/cts
-
 三立台湾,http://50.7.61.148:30080/Entry/settw-
 衛视中文,http://50.7.61.148:30080/Entry/starchinese
 中台湾生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
@@ -2421,13 +2449,60 @@ TVBS,https://iptv.jmsooo.com/live/tvbs56/index.m3u8
 寰宇新闻,https://iptv.jmsooo.com/live/hyxw/index.m3u8
 東森新闻,https://iptv.jmsooo.com/live/dsxw/index.m3u8
 台视新闻,https://iptv.jmsooo.com/live/tsxw/index.m3u8
-三立 iNEWS,https://iptv.jmsooo.com/live/sli/index.m3u8
 华视新闻,https://iptv.jmsooo.com/live/msxw/index.m3u8
 中视新闻,https://iptv.jmsooo.com/live/hsxw/index.m3u8
 東森财经,https://iptv.jmsooo.com/live/dscj/index.m3u8
+天映频道,http://212.95.133.2/tv/js.php?id=106
+天映经典,http://212.95.133.2/tv/js.php?id=107
+中天综合,http://212.95.133.2/tv/js.php?id=25
+中天亚洲,http://212.95.133.2/tv/js.php?id=28
+中天娱乐,http://212.95.133.2/tv/js.php?id=23
+中天新闻,http://212.95.133.2/tv/js.php?id=137
+中视新闻,http://212.95.133.2/tv/js.php?id=138
+环宇新闻,http://212.95.133.2/tv/js.php?id=142
+ViUTV,http://212.95.133.2/tv/js.php?id=15
+惊悚频道,http://212.95.133.2/tv/js.php?id=117
+探索频道,http://212.95.133.2/tv/js.php?id=127
+探索亚洲,http://212.95.133.2/tv/js.php?id=126
+地理野生,http://212.95.133.2/tv/js.php?id=121
+动物星球,http://212.95.133.2/tv/js.php?id=122
+中视,http://212.95.133.2/tv/js.php?id=29
+华视,http://212.95.133.2/tv/js.php?id=32
+民视,http://212.95.133.2/tv/js.php?id=30
+公视,http://212.95.133.2/tv/js.php?id=33
+TVBS综合,http://212.95.133.2/tv/js.php?id=136
+TVBS欢乐,http://212.95.133.2/tv/js.php?id=22
+TVBS新闻,http://212.95.133.2/tv/js.php?id=135
+龙华戏剧,http://212.95.133.2/tv/js.php?id=45
+龙华偶像,http://212.95.133.2/tv/js.php?id=47
+博斯网球,http://212.95.133.2/tv/js.php?id=62
+博斯魅力,http://212.95.133.2/tv/js.php?id=59
+八大综合,http://212.95.133.2/tv/js.php?id=35
+八大第一,http://212.95.133.2/tv/js.php?id=34
+八大戏剧,http://212.95.133.2/tv/js.php?id=36
+三立戏剧,http://212.95.133.2/tv/js.php?id=39
+爱尔达影剧,http://212.95.133.2/tv/js.php?id=55
+卫视中文,http://212.95.133.2/tv/js.php?id=104
+卫视电影,http://212.95.133.2/tv/js.php?id=109
+美亚电影,http://212.95.133.2/tv/js.php?id=110
+好莱坞电影,http://212.95.133.2/tv/js.php?id=94
+东森综合,http://212.95.133.2/tv/js.php?id=42
+东森超视,http://212.95.133.2/tv/js.php?id=43
+东森戏剧,http://212.95.133.2/tv/js.php?id=100
+东森财经,http://212.95.133.2/tv/js.php?id=44
+东森呦呦,http://212.95.133.2/tv/js.php?id=54
+东森电影,http://212.95.133.2/tv/js.php?id=98
+东森洋片,http://212.95.133.2/tv/js.php?id=99
+纬来体育,http://212.95.133.2/tv/js.php?id=56
+亚洲旅游,http://212.95.133.2/tv/js.php?id=128
+EYETV戏剧,http://212.95.133.2/tv/js.php?id=52
+TVN,http://212.95.133.2/tv/js.php?id=119
+ONE,http://212.95.133.2/tv/js.php?id=115
+HBO,http://212.95.133.2/tv/js.php?id=91
+WWE,http://212.95.133.2/tv/js.php?id=71
+
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 岭南戲曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
-
 台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
 中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
 東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
@@ -2950,8 +3025,6 @@ Animax HD,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b250000
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-TV Land Drama,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171735
-KBC 광주방송(SBS 光州),http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191415
 TJB 대전방송(SBS 大田),http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191413
 한국선거방송,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191417
 America's Test Kitchen,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171759
@@ -3085,20 +3158,13 @@ Lifetime,http://61.222.202.191/gttv.php?id=13664&cid=13817
 Trace Sport Stars,http://61.222.202.191/gttv.php?id=13704&cid=13857
 Mezzo Live,http://61.222.202.191/gttv.php?id=13712&cid=13865
 Pet Club TV,http://61.222.202.191/gttv.php?id=15213&cid=15376
-JENNY LIVE,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/181728
 Jasmin,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/181729
-Kaloopy,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/181731
-Fashion TV New York,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/181734
-Fashion TV UHD,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/181737
-Global Fashion,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/181738
 HD FASHION,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/181745
 ABC News,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171456
 Arirang,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171459
 Arise News,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171460
 BBC World News,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171489
 Blaze Live,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171462
-BloombergTV,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/172014
-BNC GO,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171465
 Channel News Asia,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171468
 Cheddar News,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171469
 CNET,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171471
@@ -3115,18 +3181,14 @@ NHKWorld,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/172027
 OAN Plus,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171480
 Pluto TV News,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171481
 The First,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171484
-TODAY All Day,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171485
 TYT Network,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171486
 WeatherNation,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171487
-Yahoo Finance,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171488
 ACC Network,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171492
 beIN SPORTS XTRA,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171494
 Bek Sports East,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171495
 Bek Sports West,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171496
 Bellator MMA,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171497
 Captital OTB Betting,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171498
-Channel Fight,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171500
-Fight,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171507
 FOX Sports,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171509
 Fox Sports News,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/172023
 Fox Sports News Australia,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171510
@@ -3136,13 +3198,10 @@ GLORY Kickboxing,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171513
 IMPACT Wrestling,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171515
 KBP Sports,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171516
 MLB,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171518
-MLS,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171520
 MMA Junkie,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171521
 NBA HD,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171559
 NBA TV,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171522
 NBA TV Canada CA,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192094
-NFL Channel,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171523
-PBR RidePass,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171525
 Pluto TV Action Sports,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171527
 Pluto TV Backcountry,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171528
 Pluto TV Boxing,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171529
@@ -3157,10 +3216,8 @@ TV Backcountry,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171552
 ufc2,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171554
 World Poker Tour,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171556
 Dubai Sports 1,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191601
-Dubai Sports 2,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191602
 Dubai Sports 3,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191603
 30A Music,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171562
-9XM,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171563
 AmoyHouseRelax,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171564
 California Music Channel,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171566
 Classica,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171567
@@ -3205,7 +3262,6 @@ Black Cinema,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171617
 Blue Ant Entertainment,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171619
 Blue Ant Extreme,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171620
 Blueantext,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171621
-Flicks of Fury,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171627
 KBS World HD,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171660
 Paramount Movie Channel,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171637
 Pluto TV Action,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171639
@@ -3251,7 +3307,6 @@ Nick Pluto TV,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171688
 Pluto TV Kids Animation,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171689
 Pluto TV Tween,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171690
 Pluto TV Tween,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171691
-pocket.watch,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171692
 pocket.watch,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171693
 Ryan and Friends,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171694
 Sabrina Teenage Witch,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171695
@@ -3283,13 +3338,11 @@ Pluto TV Drama Life,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171726
 Pluto TV Game Shows,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171727
 Pluto TV Love Stories,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171728
 Pluto TV Sci-Fi,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171729
-Pluto TV Suspense,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171730
 Showtime Selects,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171731
 Star Trek,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171732
 Stories by AMC,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171733
 The Price Is Right: The Barker Era,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171734
 BBC Food,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171763
-BBC Home,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171764
 Cats 24/7,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171766
 Chassy,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171770
 Dogs 24/7,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171776
@@ -3322,20 +3375,16 @@ Voyager Documentaries,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171830
 NHK WORLD TV,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191927
 MTN,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191931
 Animal Planet,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191326
-国家地理,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191307
 NASA TV,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171837
 HISTORY Channel,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191558
 BBC Earth,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/191590
 动物星球,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/192121
-Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
-Animax,http://iptv.tvfix.org/hls/animax.m3u8
 Animax,http://iptv.tvfix.org/hls/animax2.m3u8
 Hands Up Channel,http://iptv.tvfix.org/hls/kid.m3u8
 Hands Up Channel,http://iptv.tvfix.org/hls/kid2.m3u8
 Thrill,http://iptv.tvfix.org/hls/thrill2.m3u8
 Love Nature 4K,http://iptv.tvfix.org/hls/lovenature4k.m3u8
 Love Nature 4K,http://iptv.tvfix.org/hls/lovenature4k2.m3u8
-Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
 HBO,http://50.7.61.148:30080/Entry/hbo
 AXN,http://50.7.61.148:30080/Entry/axn
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
@@ -3662,7 +3711,6 @@ CBN每日影院,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fs
 CIBN综合,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171851
 CIBN经典剧场,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171855
 CIBN风尚运动,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171860
-CIBN流金岁月,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171862
 CIBN动画乐园,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171864
 
 🎭轮播频道,#genre#
@@ -3674,7 +3722,6 @@ MIGU新片放映厅,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171869
 MIGU高分影院,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171870
 MIGU古天乐影院,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171871
 MIGU成龙作品集,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171872
-MIGU郭富城影院,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171873
 MIGU每日科幻电影,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171876
 MIGU张国荣影院,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171874
 MIGU4K剧场,http://api.iptveditor.com/uZxtEDAM7/4xSHhHU/171877
@@ -3815,7 +3862,6 @@ CHC动作電影,http://39.134.66.2/PLTV/88888888/224/3221225555/index.m3u8
 斗鱼電影018,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq_2000.flv?uuid=
 斗鱼電影019,http://dyscdnali1.douyucdn.cn/live/263824rY7r7Ykt7m.flv?uuid=
 斗鱼電影020,http://dyscdnali1.douyucdn.cn/live/263824rY7r7Ykt7m_2000p.flv?uuid=
-斗鱼電影021,http://dyscdnali1.douyucdn.cn/live/6140589r3d6Mhe5S.flv?uuid=
 斗鱼電影026,http://dyscdnali1.douyucdn.cn/live/96577rXmGUu9OEmm.flv?uuid=
 斗鱼電影027,http://dyscdnali1.douyucdn.cn/live/4282654rZ6bgd7oa.flv?uuid=
 斗鱼電影031,http://dyscdnali1.douyucdn.cn/live/3439096ry0WJOkug.flv?uuid=
@@ -4191,57 +4237,24 @@ SNH48公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 舞蹈12,https://mvvideoshare2.meitudata.com/5e5f6bccd6301xbqixb91x6045_H264_4_287f706bd4799.mp4
 
 🔊DJ舞曲,#genre#
-黎明前的欢乐,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FOQBhvm7o_%E5%97%A8%E8%88%9E_%E9%BB%8E%E6%98%8E%E5%89%8D%E7%9A%84%E6%B3%B0%E5%9B%BD%E7%BE%8E%E7%9C%89.mp4
-兔宝派对,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F53mnYqJ3_%E5%A4%9C%E5%BA%97_%E5%85%94%E5%AE%9D%E6%B4%BE%E5%AF%B9.mp4
-晃动派对,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F1pvbOThP_%E5%A4%9C%E5%BA%97_%E6%99%83%E5%8A%A8%E6%B4%BE%E5%AF%B9.mp4
-潮流派对,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F0w4r9uTU_%E5%A4%9C%E5%BA%97_%E6%BD%AE%E6%B5%81%E5%A4%9C%E5%BA%97%E6%B4%BE%E5%AF%B9.mp4
-狗仔派对,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F6eswwDPa_%E5%A4%9C%E5%BA%97_%E7%8B%97%E5%B4%BD%E5%AD%90%E6%B4%BE%E5%AF%B9.mp4
-波动身体,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FCbaSFvwC_%E8%BD%A6%E8%88%9E_%E6%B3%B0%E5%9B%BD%E6%B3%A2%E5%8A%A8%E6%AF%94%E5%9F%BA%E5%B0%BC%E7%BE%8E%E5%A5%B3.mp4
-想跳舞吗,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FGe0uO7nA_%E5%A4%9C%E5%BA%97_%E4%BD%A0%E6%83%B3%E8%B7%B3%E8%88%9E%E5%90%97.mp4
-俱乐部的一天,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FM44cskhz_%E5%A4%9C%E5%BA%97_%E4%BF%B1%E4%B9%90%E9%83%A8%E7%9A%84%E4%B8%80%E5%A4%A9.mp4
 合唱·情火·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FD0z62pdk_%E5%B4%94%E4%BC%9F%E7%AB%8BVS%E5%AD%99%E8%89%BA%E7%90%AA_%E6%83%85%E7%81%ABDJ.mp4
 花姐·狂狼·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FUDmNsLXn_%E8%8A%B1%E5%A7%90_%E7%8B%82%E6%B5%AADJ%E4%B8%80%E7%89%88.mp4
 暴林·殇雪·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F4ZOjjrs8_%E6%9A%B4%E6%9E%97_%E6%AE%87%E9%9B%AADJ.mp4
-曹锦·坦荡·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FUU01iOac_%E6%9B%B9%E9%94%A6_%E5%9D%A6%E8%8D%A1DJ.mp4
-香子·鬼迷心窍·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2Fpz6oyyMu_%E9%A6%99%E5%AD%90%20-%20%E9%AC%BC%E8%BF%B7%E5%BF%83%E7%AB%85DJ.mp4
 安琪·曾经被爱·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FPEdFkHk9_%E5%AE%89%E7%90%AA_%E6%9B%BE%E7%BB%8F%E8%A2%AB%E7%88%B1DJ.mp4
-艾萨·不再犯傻·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FYo7xm3PD_%E8%89%BE%E8%90%A8_%E4%B8%8D%E5%86%8D%E7%8A%AF%E5%82%BBDJ.mp4
-菲儿·自由飞翔·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FpSOpHfBv_%E8%8F%B2%E5%84%BF_%E8%87%AA%E7%94%B1%E9%A3%9E%E7%BF%94DJ.mp4
 寂悸·潮湿的心·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F5N8uPB3v_%E5%AF%82%E6%82%B8_%E6%BD%AE%E6%B9%BF%E7%9A%84%E5%BF%83DJ.mp4
 粤语·因为爱你·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FkXDSuSQZ_%E7%B2%A4%E8%AF%AD_%E5%9B%A0%E4%B8%BA%E7%88%B1%E4%BD%A0DJ.mp4
 郑伊涵·公虾米·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2Fj3rG53oe_%E9%83%91%E4%BC%8A%E6%B6%B5_%E5%85%AC%E8%99%BE%E7%B1%B3DJ.mp4
-杨小曼·你不懂·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F6qgPeb7J_%E6%9D%A8%E5%B0%8F%E6%9B%BC_%E4%BB%96%E5%BC%9F%E5%BC%9F%E6%89%93%E7%9A%84%E6%B4%9EDJ.mp4
-程响·新娘不是我·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FUq7FxoDw_%E7%A8%8B%E5%93%8D_%E6%96%B0%E5%A8%98%E4%B8%8D%E6%98%AF%E6%88%91DJ.mp4
-大壮·我们不一样·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FwykOq6vJ_%E5%A4%A7%E5%A3%AE_%E6%88%91%E4%BB%AC%E4%B8%8D%E4%B8%80%E6%A0%B7DJ.mp4
 徐倩·今夜我一个人醉·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FAQoxEmSx_%E5%BE%90%E5%80%A9_%E4%BB%8A%E5%A4%9C%E6%88%91%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%86%89DJ.mp4
 小娟·爱的路上千万里·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F2aN34uqU_%E5%B0%8F%E5%A8%9F_%E7%88%B1%E7%9A%84%E8%B7%AF%E4%B8%8A%E5%8D%83%E4%B8%87%E9%87%8CDJ.mp4
 张欣·最爱的那个人·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FqIEeVq3g_%E5%BC%A0%E6%AC%A3_%E6%9C%80%E7%88%B1%E7%9A%84%E9%82%A3%E4%B8%AA%E4%BA%BADJ.mp4
-陈瑞·恋旧的人最容易掉眼泪·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FaZ4TH6Zw_%E9%99%88%E7%91%9E_%E5%BF%B5%E6%97%A7%E7%9A%84%E4%BA%BA%E6%9C%80%E5%AE%B9%E6%98%93%E6%8E%89%E7%9C%BC%E6%B3%AADJ.mp4
 杭娇·忘了我的爱·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F0Nl5mjgb_%E6%9D%AD%E5%A8%87_%E5%BF%98%E4%BA%86%E6%88%91%E7%9A%84%E7%88%B1DJ.mp4
 唐古·突然好想念·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FQmhMsMGw_%E5%94%90%E5%8F%A4_%E7%AA%81%E7%84%B6%E5%A5%BD%E6%83%B3%E5%BF%B5DJ.mp4
-唐古·我又想你了·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FexnfZ6Vi_%E5%94%90%E5%8F%A4_%E6%88%91%E5%8F%88%E6%83%B3%E4%BD%A0%E4%BA%86DJ.mp4
-天翔·一晃就老了·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FjphLKXZp_%E5%A4%A9%E7%BF%94_%E4%B8%80%E6%99%83%E5%B0%B1%E8%80%81%E4%BA%86DJ.mp4
-马博·菊花爆满山·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FsrMVF58T_%E9%A9%AC%E5%8D%9A_%E8%8F%8A%E8%8A%B1%E7%88%86%E6%BB%A1%E5%B1%B1DJ.mp4
 郭玲·拥抱你离去·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FyVHeUZG5_%E9%83%AD%E7%8E%B2_%E6%8B%A5%E6%8A%B1%E4%BD%A0%E7%A6%BB%E5%8E%BBDJ.mp4
-郭玲·痴情的只有我一个·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FLgekYXH5_%E9%83%AD%E7%8E%B2_%E7%97%B4%E6%83%85%E7%9A%84%E5%8F%AA%E6%9C%89%E6%88%91%E4%B8%80%E4%B8%AADJ.mp4
-郭玲·踢了他·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FQOdyBO1E_%E9%83%AD%E7%8E%B2_%E8%B8%A2%E4%BA%86%E4%BB%96DJ.mp4
 于文文·体面·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FwB2O8JIF_%E4%BA%8E%E6%96%87%E6%96%87_%E4%BD%93%E9%9D%A2DJ.mp4
-菲儿·嘀嗒嘀·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FzxJRMoBC_%E8%8F%B2%E5%84%BF_%E5%97%92%E5%98%80%E5%97%92DJ.mp4
-花姐·夜之光·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F6u0IHxlP_%E8%8A%B1%E5%A7%90_%E5%A4%9C%E4%B9%8B%E5%85%89DJ.mp4
-天蝎丹·你的世界到底有了谁·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FP2EtwiRo_%E5%A4%A9%E8%A0%8D%E4%B8%B9_%E4%BD%A0%E7%9A%84%E4%B8%96%E7%95%8C%E5%88%B0%E5%BA%95%E6%9C%89%E4%BA%86%E8%B0%81DJ.mp4
 王奕心·我的唇吻不到我爱的人·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F9RRIvJBZ_%E7%8E%8B%E5%A5%95%E5%BF%83_%E6%88%91%E7%9A%84%E5%94%87%E5%90%BB%E4%B8%8D%E5%88%B0%E6%88%91%E7%88%B1%E7%9A%84%E4%BA%BADJ.mp4
-蓝琪儿·寂寞爱上了眼泪·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FM0xZsDrJ_%E8%93%9D%E7%90%AA%E5%84%BF_%E5%AF%82%E5%AF%9E%E7%88%B1%E4%B8%8A%E4%BA%86%E7%9C%BC%E6%B3%AADJ.mp4
-蓝琪儿·不浪漫的罪·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2Fb9TQKR8o_%E8%93%9D%E7%90%AA%E5%84%BF_%E4%B8%8D%E6%B5%AA%E6%BC%AB%E7%9A%84%E7%BD%AADJ.mp4
-孙艺琪·酒醉的蝴蝶·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FRnruXCX1_%E5%AD%99%E8%89%BA%E7%90%AA_%E9%85%92%E9%86%89%E7%9A%84%E8%9D%B4%E8%9D%B6DJ.mp4
-黄嘉雯·情歌里的你·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FlsqYYB6Q_%E9%BB%84%E5%98%89%E9%9B%AF_%E6%83%85%E6%AD%8C%E9%87%8C%E7%9A%84%E4%BD%A0DJ.mp4
-黄嘉雯·伤心的人醉茫茫·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FdxA0ZiS1_%E9%BB%84%E5%98%89%E9%9B%AF_%E4%BC%A4%E5%BF%83%E7%9A%84%E4%BA%BA%E9%86%89%E8%8C%AB%E8%8C%ABDJ.mp4
-王玉萌·浪子回头·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FRMEM6qdX_%E7%8E%8B%E7%8E%89%E8%90%8C_%E6%B5%AA%E5%AD%90%E5%9B%9E%E5%A4%B4DJ.mp4
-李晓杰·把酒倒满·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FRKGQVL2s_%E6%9D%8E%E6%99%93%E6%9D%B0_%E6%8A%8A%E9%85%92%E5%80%92%E6%BB%A1DJ.mp4
 魏新雨·为你祈祷·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FhFJmgL9I_%E9%AD%8F%E6%96%B0%E9%9B%A8_%E4%B8%BA%E4%BD%A0%E7%A5%88%E7%A5%B7DJ.mp4
 孙耀威·爱的故事上集·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2Fk4NKsAkX_%E5%AD%99%E8%80%80%E5%A8%81_%E7%88%B1%E7%9A%84%E6%95%85%E4%BA%8B%E4%B8%8A%E9%9B%86DJ.mp4
-韩宝仪·往事只能回味·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F8YtT39no_%E9%9F%A9%E5%AE%9D%E4%BB%AA_%E5%BE%80%E4%BA%8B%E5%8F%AA%E8%83%BD%E5%9B%9E%E5%91%B3DJ.mp4
 郑茜文·爱一回伤一回·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FkY7hFnb5_%E9%83%91%E8%8C%9C%E5%8C%80_%E7%88%B1%E4%B8%80%E5%9B%9E%E4%BC%A4%E4%B8%80%E5%9B%9EDJ.mp4
-
 韩国DJ Soda Remix 2021 電音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
 今日热歌DJ《如果爱还在》《A8回心转意》《爱到最后就是痛》,https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
 推荐9首DJ舞曲，首首甜美醉人,https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
@@ -4651,7 +4664,6 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,htt
 歌MV53,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghMCv5wUoqteI8gM.mp4
 歌MV54,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-JfV4gUol9ea6QM.mp4
 歌MV55,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0f2a4gUonvrdrgI.mp4
-岭南戲曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
 探窗,https://vd3.bdstatic.com/mda-mi6e4vgibhtc628h/480p/h264/1631008912303842588/mda-mi6e4vgibhtc628h.mp4
 体面,https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost
 像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
