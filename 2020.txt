@@ -155,7 +155,6 @@ CCTV-10,http://117.148.179.165/PLTV/88888888/224/3221232492/index.m3u8
 江苏卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225702/index.m3u8
 北京卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
 湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
-山东卫视,http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
 江西卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225705/index.m3u8
 浙江卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
 浙江卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8
@@ -311,7 +310,6 @@ CCTV-风云足球,http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
 CCTV-世界地理,http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
 CCTV-女性时尚,http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8
 CCTV-央视台球,http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
-CCTV-高尔夫网球,http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8
 CCTV-央视文化精品,http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
 CGTN,http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
 CGTN记录,http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8
@@ -469,43 +467,6 @@ CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 
 🇭🇰香港频道,#genre#
-凤凰资讯,p5p://fccs.123178.top:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
-凤凰中文,p5p://fccs.123178.top:9906/1cca583ce33142c9840bcf53b030e47c
-凤凰香港,p5p://fccs.123178.top:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
-无线新闻,p5p://fccs.123178.top:9906/977fac4b93af4ee0a190f38217d79e51
-无线新闻(備),p5p://fccs.123178.top:9906/92b7235ae2a54766a2acb97e5f7a64ef
-无线财经,p5p://fccs.123178.top:9906/790b3d24875349d8b3118357cb9a5124
-J2,p5p://fccs.123178.top:9906/4b20b6d78e904b779ff16c0b10d6c3e4
-ViuTVTV,p5p://fccs.123178.top:9906/d7506148214e4b3fae543068f1701ff7
-ViuTVTV6,p5p://fccs.123178.top:9906/0a2171b6dcd6420c98ccfb7c7f524504
-now新闻,p5p://fccs.123178.top:9906/f228f98bc84245ce9b4870364b82b6da
-now直播,p5p://fccs.123178.top:9906/185dbf64ed284733a132ae9ec355f263
-Thrill,p5p://fccs.123178.top:9906/70b676c4e0f9424991012e9bfcddd4e7
-TVB星河,p5p://fccs.123178.top:9906/5f99a3cfce824f6da2fd0c3b6797428a
-TVB经典,p5p://fccs.123178.top:9906/1c0d8aefa5cd4d009cecff61ebc3e18b
-TVB娱乐,p5p://fccs.123178.top:9906/f500497b96b1458a8f9f5da38c6e02d7
-爆谷台,p5p://fccs.123178.top:9906/1d7e379fa2f04936b9d2dce207efb097
-有线电影,p5p://fccs.123178.top:9906/6d83197a57a94c41848d3945e38a8607
-凤凰电影,p5p://fccs.123178.top:9906/06553799649b45619f5c5ff5467abe0e
-有线新闻,p5p://fccs.123178.top:9906/a8429ecad2e446e18c362b031e3d32bf
-有线直播,p5p://fccs.123178.top:9906/eede001be16e4991843619bb8af3f840
-有线财经,p5p://fccs.123178.top:9906/94ecdbe381c54b58bcca74b7b88047a2
-有线娱乐,p5p://fccs.123178.top:9906/a17643cfcae6400d8770e4b89958b706
-有线18,p5p://fccs.123178.top:9906/36976aef6f4f4ab2aad06b8ece5aac54
-有线603,p5p://fccs.123178.top:9906/bc32fd90af7d4f4aaa3bd451d9199153
-有线体育,p5p://fccs.123178.top:9906/1f7426398b0248708172875db037edff
-有线Sports Plus 1,p5p://fccs.123178.top:9906/947fa69d3ee7421f83b9aae7df4c846d
-港台31,p5p://fccs.123178.top:9906/26306a6246814adbaec622fd114432ec
-港台32,p5p://fccs.123178.top:9906/dcd3e6336bec46168a990c3331cb8579
-开电视,p5p://fccs.123178.top:9906/ae5366f93aa942ddb49b19c9492f5d72
-翡翠台,p5p://fccs.123178.top:9906/b1b2d6da00de42efa4fe6051d35650d9
-翡翠台,p5p://fccs.123178.top:9906/9e2a8fd74a5242f3b2e2621cb384ec84
-翡翠台(備),p5p://fccs.123178.top:9906/279032f76ae6465d9f6aff532770787f
-明珠台,p5p://fccs.123178.top:9906/7a62960513a04dc18339caabbf644cd9
-阳光衛视,p5p://fccs.123178.top:9906/ff6e07bcb19740c4b360e3fa958a5f2
-澳门-MACAU,p5p://fccs.123178.top:9906/ba43211992f348d6a8b07f1edb894c9b
-澳门莲花,p5p://fccs.123178.top:9906/5a534ef41b9647c9aad8facdb5525a2a
-
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
 凤凰中文,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
 凤凰香港,mitv://ns2.hellotvvod.com:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
@@ -618,138 +579,6 @@ TVB娱乐,mitv://51.81.90.178:9906/f500497b96b1458a8f9f5da38c6e02d7
 澳门莲花,mitv://51.81.90.178:9906/5a534ef41b9647c9aad8facdb5525a2a
 
 🇹🇼台湾频道,#genre#
-壹电视,p5p://fccs.123178.top:9906/c111818e11e8420aaad164543387473c
-年代新闻,p5p://fccs.123178.top:9906/a412a974b1c24427ba506b9fcd95d77b
-东森新闻,p5p://fccs.123178.top:9906/d98879e5737d4c44b3dd85bc349775e0
-中天新闻,p5p://fccs.123178.top:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
-民视新闻,p5p://fccs.123178.top:9906/f2f4daa81a39490396bc2eea99fd9fd9
-非凡新闻,p5p://fccs.123178.top:9906/3801d29839174353a940a8c0cfae6e47
-台视新闻,p5p://fccs.123178.top:9906/ec46ca942a3a4c9292c0dee902f579bf
-TVBS新闻,p5p://fccs.123178.top:9906/4c700aa999594ea5893d7eab1519f187
-TVBS,p5p://fccs.123178.top:9906/95ef54ef56944f0a947ea0e87f6f15bc
-中视新闻,p5p://fccs.123178.top:9906/7575a0153b074f2d91c69eafe28ba22d
-寰宇新闻,p5p://fccs.123178.top:9906/7a095cbbff944242bd359bb0f32ac5f2
-华视新闻,p5p://fccs.123178.top:9906/412a06626d254822954dd29b235f9366
-NHK 新闻,p5p://fccs.123178.top:9906/8e265b23cea543799cee6ef28caee271
-三立新闻,p5p://fccs.123178.top:9906/3fc8adf766954da4bc9908ecb81184bc
-三立台湾,p5p://fccs.123178.top:9906/ba70eb94fd0e4b2aae6fb9ece2203391
-三立都会,p5p://fccs.123178.top:9906/24f879b52a0d45d886005e8acdd9a8ab
-三立iNEWS,p5p://fccs.123178.top:9906/49035f1ad8b84fa7822c0ff660d89f09
-三立综合,p5p://fccs.123178.top:9906/39099a64df574197b97e74dcdabbb332
-衛视电影,p5p://fccs.123178.top:9906/e7682ac33dfd41fc8f028f1652b6117f
-东森电影,p5p://fccs.123178.top:9906/e40a4dbcfc66445a83f8c06d53ac3b53
-纬来电影,p5p://fccs.123178.top:9906/67d49ff2fc594674a3969022f0c55ded
-龙祥电影,p5p://fccs.123178.top:9906/2c5a71766368419ca7a962ce66cf5da3
-东森洋片,p5p://fccs.123178.top:9906/ab1aa48cd1a34f488845642592c39418
-好莱坞电影,p5p://fccs.123178.top:9906/fb9f46f4cb454b13a15aac8e025f8477
-美亚电影,p5p://fccs.123178.top:9906/1fc034defbb24a569a9bbca8b57fb5fe
-龙华电影,p5p://fccs.123178.top:9906/cda4c0d5e8df4d49bb51fa6b71b5d19b
-星衛电影,p5p://fccs.123178.top:9906/bdb2a4266251451a918d42ec44667801
-靖天映画,p5p://fccs.123178.top:9906/0a08a213ff34484ebba095598ffed323
-靖天电影,p5p://fccs.123178.top:9906/86533153a6a741d3af531f8efa6054f6
-壹电影,p5p://fccs.123178.top:9906/4726fe8fb7e748659fac6cf64370a205
-东森综合,p5p://fccs.123178.top:9906/8c962bcce29840f4a4f0109bfd7fe5c0
-超视,p5p://fccs.123178.top:9906/941259e9297d4a229c678f08b19f60f1
-中天综合,p5p://fccs.123178.top:9906/a23f89fde21341f3b172046c02ad688c
-中天娱乐,p5p://fccs.123178.top:9906/c23914b1e52c44a9b665e51f535d5b37
-东森戏剧,p5p://fccs.123178.top:9906/8ad6da5302064e3a8b67ccc9848614e5
-八大戏剧,p5p://fccs.123178.top:9906/ea7f77bf68254477b2a29793cf65f55a
-TVBS欢乐,p5p://fccs.123178.top:9906/b4b85eca20d7462fae595d8033c6a9ce
-纬来戏剧,p5p://fccs.123178.top:9906/c4d3341645874d9fab6329a7f83f5121
-纬来综合,p5p://fccs.123178.top:9906/30dab7cccf3842838ef7edfdabcf57c2
-八大第一,p5p://fccs.123178.top:9906/7826fa652c474b55888ef85c30901584
-八大综合,p5p://fccs.123178.top:9906/578cc70bac494161901e5c735312762c
-高点综合,p5p://fccs.123178.top:9906/ab09bd3fc7f3412ea9d38b3cf68302b0
-东森财经,p5p://fccs.123178.top:9906/e992de48ddda440ebc55984766d0ab8f
-靖天资讯,p5p://fccs.123178.top:9906/62412f14fbef4a3f8c7e463cc8db65c8
-靖天综合,p5p://fccs.123178.top:9906/fe98dad44e224b70ae27c282fdd5682a
-靖天育乐,p5p://fccs.123178.top:9906/48cbe27fc4af4d988cab3cbf08c34d60
-中视经典,p5p://fccs.123178.top:9906/003d7fef9db3466e9b9e2f569474dd28
-中视菁采,p5p://fccs.123178.top:9906/c448d3d8a89f432d9d5ea92258dc3cef
-TVBS精采,p5p://fccs.123178.top:9906/12b97bd9bd274f78846703aceb5894d2
-壹电视,p5p://fccs.123178.top:9906/9296b1db1f674585a1ca7be4ff47c004
-韩国娱乐,p5p://fccs.123178.top:9906/7a7c099add954867853e91a6018c2a33
-星衛娱乐,p5p://fccs.123178.top:9906/866cb328f02348c9aa3a2cf6858ca8c6
-寰宇台湾,p5p://fccs.123178.top:9906/b6a355771a7e4b469684732040c522f7
-台视财经,p5p://fccs.123178.top:9906/d8d1fa07f623422aae04f0e860f4bea3
-东森亚洲,p5p://fccs.123178.top:9906/586cfb57fa8b4475a353a65fc712cf1e
-纬来育乐,p5p://fccs.123178.top:9906/ed2847f9731a48e19afc2ba479a73939
-纬来体育,p5p://fccs.123178.top:9906/cd64bcebb70d4b489bf734c5b3369002
-纬来日本,p5p://fccs.123178.top:9906/f89c51e091594bb1bcce0ba7b3e17973
-国兴衛视,p5p://fccs.123178.top:9906/7ed90f5183e64e4f8b422c951ff275b0
-八大娱乐,p5p://fccs.123178.top:9906/cdb80c12a4854752b4cfb570d448ac05
-中天亚洲,p5p://fccs.123178.top:9906/1c191cbfb24547d7be6f91d352266efa
-天映经典,p5p://fccs.123178.top:9906/4699a8c6571243a4b5387f6b3c639851
-非凡商业,p5p://fccs.123178.top:9906/ab4d36f3d889496a92747157c7e4c732
-民视,p5p://fccs.123178.top:9906/44cf4d1e73cc4c34843382f2bf89d49f
-人间衛视,p5p://fccs.123178.top:9906/eec8f95a22de4a0ea2907a53ad0e62d2
-台视,p5p://fccs.123178.top:9906/0cde14d20638479189443549d1b1005f
-大爱,p5p://fccs.123178.top:9906/47e0000522814c6aac7d54c8bec91445
-中视,p5p://fccs.123178.top:9906/21fe3c316a13445a8a5b1f4afd39a5b1
-霹雳台湾,p5p://fccs.123178.top:9906/85d6caf44ce4449e8600dc86d1c7be21
-华视,p5p://fccs.123178.top:9906/fd73b217be314cf198807cc5d1d911b6
-公视,p5p://fccs.123178.top:9906/a1c2ecbcd3b64f3eb72ac9191b337cda
-公视语,p5p://fccs.123178.top:9906/cc76c2a0dc1f4fe0b4ca8f0c0f6e31d9
-好消息,p5p://fccs.123178.top:9906/7df332eeb26546bf94a972d4c2d1ad4e
-原住民,p5p://fccs.123178.top:9906/aa08defb0c824c2286623855624a0e07
-客家电视,p5p://fccs.123178.top:9906/bcf16a66476d4c88a5ea6b7d40a56e7c
-国家地理频道,p5p://fccs.123178.top:9906/cbf2e0c0e1ed4e11a564047614cb962d
-探索频道,p5p://fccs.123178.top:9906/9c0a057219044213ac643c8a8e5d50c0
-TLC旅游生活,p5p://fccs.123178.top:9906/785e9237d2864f23b3fbf5e72b645812
-动物星球,p5p://fccs.123178.top:9906/8df6a02edb7946eebae8115ab6fd8ec7
-CN卡通频道,p5p://fccs.123178.top:9906/51e593fae95f48968c181b6a47179526
-迪士尼频道,p5p://fccs.123178.top:9906/d24a14f362fb47d8a603b41462ad0f9b
-MOMO亲子,p5p://fccs.123178.top:9906/d3ae733f3d61464e8f240d812c0b1516
-东森幼幼,p5p://fccs.123178.top:9906/a5729018eb3d44c4b4033e72ea4af060
-公视3,p5p://fccs.123178.top:9906/6ba6fe3a051e4113b82eb6d32fbb7114
-OUTDOOR,p5p://fccs.123178.top:9906/ed9355bc07124e1e8a1c5dae6d87c300
-KLT-靖天国际,p5p://fccs.123178.top:9906/92963da196424063a1f58303dc21da2e
-HGTV居家乐活频道,p5p://fccs.123178.top:9906/3ae6806990ac44dbbd5a83eea77fef7e
-Love Nature,p5p://fccs.123178.top:9906/5b4aa7c53c974767aad85f24fc19d550
-美食星球,p5p://fccs.123178.top:9906/045aa067f54a4a5bb2f5dc17190417cf
-亚洲美食频道,p5p://fccs.123178.top:9906/c0c700a32db94ca281b74e44d84b5b66
-亚洲旅游,p5p://fccs.123178.top:9906/b52d03f4997a48b88d4ff3a86d2fa8de
-EYE TV旅游,p5p://fccs.123178.top:9906/5512ec54a1254879b4e39f92b63565ab
-时尚频道,p5p://fccs.123178.top:9906/a6cb54e5bd294cc98064df05ad1b3fc1
-好消息2,p5p://fccs.123178.top:9906/ff59474bd7fd4f73ab3d5a04afcaae8c
-亚洲美食,p5p://fccs.123178.top:9906/0c0dc1e0b4e643a6ae2a7901a249b711
-采昌影剧,p5p://fccs.123178.top:9906/fa78b19b455148e3b2b00b5bf648c3fc
-EYETV戏剧,p5p://fccs.123178.top:9906/446502d9b45941efb5bf52f21a282471
-纬来精采,p5p://fccs.123178.top:9906/2c975cf5b04545ba8bf7b0320111883a
-ETtoday综合,p5p://fccs.123178.top:9906/b9f9c80102d54af7b3bc3aedc124afa9
-民视第一,p5p://fccs.123178.top:9906/998ca373e45e4f01b6755ddaec323cb7
-民视台湾,p5p://fccs.123178.top:9906/42f0e30a314e405bbbc3c67bb7846c60
-靖天欢乐,p5p://fccs.123178.top:9906/33d8d6d8b2c84d8680e888b8f2bc636b
-八大频道,p5p://fccs.123178.top:9906/2b16d85f1021459abed978cd4194a8a1
-三立戏剧,p5p://fccs.123178.top:9906/c5251859faa14a0b9ba00a3bbe4ec0fa
-龙华戏剧,p5p://fccs.123178.top:9906/b3fdf7edaf724fffb49a1bb3e5ba36c0
-靖天戏剧,p5p://fccs.123178.top:9906/dc313d1f150f4e32a241408a4dddb55a
-靖洋戏剧,p5p://fccs.123178.top:9906/453a034ff3884c0f889f89332a61cb3b
-靖天日本,p5p://fccs.123178.top:9906/73b12e8889f048fc91a58f1d33049650
-i-Fun动漫,p5p://fccs.123178.top:9906/f62384ed61d345cebf4cc1a3c9167bd3
-大爱2,p5p://fccs.123178.top:9906/4523b0956bb34141bfb61460ea9494ed
-靖洋卡通Nice Bingo,p5p://fccs.123178.top:9906/f356d20c5a374fef82a196fadfe38a77
-靖天卡通,p5p://fccs.123178.top:9906/bb214f3596dd4b1c8bae816edff835be
-达文西频道,p5p://fccs.123178.top:9906/191725f8a02546c1bec1bb92aab127ab
-国会频道1,p5p://fccs.123178.top:9906/3b86853022324c3da4928922ba545877
-国会频道2,p5p://fccs.123178.top:9906/7350ee5ff93341a08945bc1c8d95cd1c
-ELTV生活,p5p://fccs.123178.top:9906/fd64478e967b43f79c151425ad75030f
-ELTA1,p5p://fccs.123178.top:9906/db6bd5a732984d83a8fdb9d0536886c8
-ELTA2,p5p://fccs.123178.top:9906/bc49344900a546d39b5083025db6243f
-ELTA3,p5p://fccs.123178.top:9906/4f3f4387a8174b8f8aaed89e2901442c
-TRACE Sport Stars,p5p://fccs.123178.top:9906/57536d1b23f34f28bb4d8c065d2e67e5
-博斯高球,p5p://fccs.123178.top:9906/9eb73e0317034672b4e2bdb0d695387f
-博斯高球二,p5p://fccs.123178.top:9906/c612218b5c0d4349a1b4049e89913c75
-博斯网球,p5p://fccs.123178.top:9906/47176ac49fed4e74a62d30b037ce81d3
-博斯魅力网,p5p://fccs.123178.top:9906/8f1d2f23e9964ef6b99f7b7228c199dc
-博斯无限,p5p://fccs.123178.top:9906/91e038793b5f45f194ab304ab843b741
-博斯无限二,p5p://fccs.123178.top:9906/3367cde8bd924944b2b7bbbaef5be87e
-博斯运动,p5p://fccs.123178.top:9906/b57a5306d5da4dcea75af2d436968097
-ELEVEN2,p5p://fccs.123178.top:9906/a610acb66f3749bb953d78899b7205d2
-智林体育,p5p://fccs.123178.top:9906/8b30925a0d704bcd8286add181bafdb9
-博斯运动二,p5p://fccs.123178.top:9906/d4f401d6d6e144dfbb8c944a41b15772
-天映频道,p5p://fccs.123178.top:9906/ec8466ba789143998fb9ed858b7c174e
-
 壹电视,mitv://ns2.hellotvvod.com:9906/c111818e11e8420aaad164543387473c
 年代新闻,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
 东森新闻,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
@@ -1147,75 +976,6 @@ ELEVEN2,mitv://51.81.90.178:9906/a610acb66f3749bb953d78899b7205d2
 天映频道,mitv://51.81.90.178:9906/ec8466ba789143998fb9ed858b7c174e
 
 🇯🇵日韩频道,#genre#
-NHK-G综合,p5p://fccs.123178.top:9906/eed71942476c49edadaa7df11f90446f
-NHK-E教育,p5p://fccs.123178.top:9906/506a99efe08149c79be96876b035d009
-日本テレビ,p5p://fccs.123178.top:9906/177a67e9aebc490e8f908f540614db87
-TBSテレビ,p5p://fccs.123178.top:9906/eeb153c0ce2d4747889b31d29b22cddf
-テレビ东京,p5p://fccs.123178.top:9906/4546b93b2fd64f7397ea71edb04ecc36
-フジテレビ,p5p://fccs.123178.top:9906/2b308989770f4d0dbe0f08a1b27187e7
-読売テレビ,p5p://fccs.123178.top:9906/bae63fcee6d7490b8186d530ef122670
-関西テレビ,p5p://fccs.123178.top:9906/bdf8fb3ba4de42c4b4a0663d9345a93e
-abc朝日,p5p://fccs.123178.top:9906/e08cab3503f6485fa2c091b5be4e727b
-毎日放送,p5p://fccs.123178.top:9906/87fd9c9dc4974cdbb30f1c561713a540
-朝日放送,p5p://fccs.123178.top:9906/4a8a4653270e4a9ead7063b7adfd0996
-テレビ大阪,p5p://fccs.123178.top:9906/ebc0674ee50f4fb2badae1054f5ebd00
-サンテレビ,p5p://fccs.123178.top:9906/7f2f9a0e12d545f0a17e33a5b908ee3a
-BS-1,p5p://fccs.123178.top:9906/61b17f3fbbcb403d847bc9303c8b0d8d
-BSプレミアム,p5p://fccs.123178.top:9906/36c2308e707f4db39faebd749284938f
-BS日テレ,p5p://fccs.123178.top:9906/836b15faf163430e88da2b7baba78215
-BS朝日,p5p://fccs.123178.top:9906/f389cffb91e1492da594f7ff913b1a33
-BS-TBS,p5p://fccs.123178.top:9906/aeec4b86617e4103af24b41253a660b8
-BSジャパン,p5p://fccs.123178.top:9906/2b1b9cb1d426443fa678d4f761f35818
-BSフジ,p5p://fccs.123178.top:9906/98a122e66dee46dc94cfc487f86c9f33
-WOWOWプライム,p5p://fccs.123178.top:9906/e6ce673b0be14198a369ba5dee502631
-WOWOWライブ,p5p://fccs.123178.top:9906/293ea23e322d4185b0ba09e91a386e7b
-WOWOWシネマ,p5p://fccs.123178.top:9906/2f2038026e214e41951a98ee4741a1df
-スター・チャンネル1,p5p://fccs.123178.top:9906/3a41465afae34a5487b403b6ea792be5
-スター・チャンネル2,p5p://fccs.123178.top:9906/ecfac5f0d95b42fca82f52c37c24b810
-スター・チャンネル3,p5p://fccs.123178.top:9906/7be8f9919aa443f6bae6304dd43d0cb8
-BSアニマックス,p5p://fccs.123178.top:9906/972fb28d06264a4cabe21b844b224446
-J Sports 1,p5p://fccs.123178.top:9906/8f789a849c85440d9f1447d5c5977df1
-J Sports 2,p5p://fccs.123178.top:9906/db5d1bc45f454e6f850b3a379e625e3f
-J Sports 3,p5p://fccs.123178.top:9906/eacdea4d8fdc4070ac0b94f4c57d8e30
-J Sports 4,p5p://fccs.123178.top:9906/7bd2b99f5b874e028edb6e7e9915bc33
-日テレG+ HD,p5p://fccs.123178.top:9906/5fd04bc26fb540efa6e09ffcc60bdb4c
-ゴルフネットワークHD,p5p://fccs.123178.top:9906/59ae9e5e37db46318749040cad11a5c5
-時代剧専門チャンネル,p5p://fccs.123178.top:9906/34057ee5d4584d5faeae938c2f0aed35
-Music Japan TV,p5p://fccs.123178.top:9906/16a8ff808b3649109d0f21a269682111
-キッズステーションHD,p5p://fccs.123178.top:9906/1f5cef1bb3fb4f8babb31bb79912df7d
-ディスカバリーチャンネル,p5p://fccs.123178.top:9906/ae53015a413245ba9099f3697c76a649
-ナショナル ジオグラフィッ,p5p://fccs.123178.top:9906/7c7e79fc9ba24e19907dad24d856ce9a
-日テレNEWS 24,p5p://fccs.123178.top:9906/0c2f40999c00436ab5e823a25e3d5c13
-Cartoon Network,p5p://fccs.123178.top:9906/5419e8cfbb6a496aade3406e257768a7
-KBS1,p5p://fccs.123178.top:9906/8bce97b04ee94db6a8a4153dd4c4fe6c
-KBS2,p5p://fccs.123178.top:9906/f9dbdcd019704498bed94495d0217ca1
-KBS Drama,p5p://fccs.123178.top:9906/a32747a969fe461684322b2281b75d9b
-KBS Joy,p5p://fccs.123178.top:9906/0a17f29805544906af28f564b5315e3c
-SBS,p5p://fccs.123178.top:9906/c14208087f194e84838d16f869035265
-SBS Plus,p5p://fccs.123178.top:9906/23305ef8441342c585e7e3d2b4a4dafc
-JTBC,p5p://fccs.123178.top:9906/190c376cab1f4ef4be4b55fb26ce2f8b
-EBS,p5p://fccs.123178.top:9906/550363d1e7b34da1aab25a8ae3b5c042
-YTN,p5p://fccs.123178.top:9906/9bb01424604c408bae02263727a8ae7e
-YTN SCIENCE,p5p://fccs.123178.top:9906/69ac4b223f794ab79ba2d653847b12bc
-OCN,p5p://fccs.123178.top:9906/dc2b87a954c44566a3a44e8145fc9eff
-OCN Movies,p5p://fccs.123178.top:9906/10807a5b11844d279d7ef239904a02db
-CBS,p5p://fccs.123178.top:9906/3fe45552e55a4725b7927a8cb0cf7b31
-MBC,p5p://fccs.123178.top:9906/4c7b7a9d11824d7c8f480e2b3dc5602e
-MBC every1,p5p://fccs.123178.top:9906/8f4d4c484841489c9e54f684fb191ffa
-Tooniverse,p5p://fccs.123178.top:9906/e2ca82c4691d4774a214bec18d6163dc
-SPOTV,p5p://fccs.123178.top:9906/9fe403bb37504e2697892bd91a0492c7
-SPOTV 2,p5p://fccs.123178.top:9906/246d695ded73471592067991cec67aa7
-JTBC GOLF,p5p://fccs.123178.top:9906/a16d5e5357444665ae91388cfab7eaf9
-Trans TV HD,p5p://fccs.123178.top:9906/507aa59631034118b472635c85400de5
-Trans 7 HD,p5p://fccs.123178.top:9906/01a411624d3f4f90b4bbfa04620fa57a
-InsertLive,p5p://fccs.123178.top:9906/16fde4aec88843cb9809f5db72b6820d
-Galaxy Premium,p5p://fccs.123178.top:9906/1be7e8226b78418084c45319358dae76
-IMC,p5p://fccs.123178.top:9906/126bcb9fba39438dab4ba6ebe0cc1f52
-Indosiar,p5p://fccs.123178.top:9906/60bd6dc1a3024ff1a4232f08d0e1fc94
-Mola Sport,p5p://fccs.123178.top:9906/969520237daa4f5a939c890871259772
-Lingua HD,p5p://fccs.123178.top:9906/99f24de081cd4d3bad8cacc6132484a6
-RCTI,p5p://fccs.123178.top:9906/38b126e9133b458fac4e7da8e246996b
-
 NHK-G综合,mitv://860969650:9906/eed71942476c49edadaa7df11f90446f
 NHK-E教育,mitv://860969650:9906/506a99efe08149c79be96876b035d009
 日本テレビ,mitv://860969650:9906/177a67e9aebc490e8f908f540614db87
@@ -1289,75 +1049,6 @@ Indosiar,mitv://860969650:9906/60bd6dc1a3024ff1a4232f08d0e1fc94
 亞洲美食頻道,mitv://860969650:9906/0c0dc1e0b4e643a6ae2a7901a249b711
 Mola Sport,mitv://860969650:9906/969520237daa4f5a939c890871259772
 Lingua HD,mitv://860969650:9906/99f24de081cd4d3bad8cacc6132484a6
-
-NHK-G综合,mitv://ns2.hellotvvod.com:9906/eed71942476c49edadaa7df11f90446f
-NHK-E教育,mitv://ns2.hellotvvod.com:9906/506a99efe08149c79be96876b035d009
-日本テレビ,mitv://ns2.hellotvvod.com:9906/177a67e9aebc490e8f908f540614db87
-TBSテレビ,mitv://ns2.hellotvvod.com:9906/eeb153c0ce2d4747889b31d29b22cddf
-テレビ东京,mitv://ns2.hellotvvod.com:9906/4546b93b2fd64f7397ea71edb04ecc36
-フジテレビ,mitv://ns2.hellotvvod.com:9906/2b308989770f4d0dbe0f08a1b27187e7
-読売テレビ,mitv://ns2.hellotvvod.com:9906/bae63fcee6d7490b8186d530ef122670
-関西テレビ,mitv://ns2.hellotvvod.com:9906/bdf8fb3ba4de42c4b4a0663d9345a93e
-abc朝日,mitv://ns2.hellotvvod.com:9906/e08cab3503f6485fa2c091b5be4e727b
-毎日放送,mitv://ns2.hellotvvod.com:9906/87fd9c9dc4974cdbb30f1c561713a540
-朝日放送,mitv://ns2.hellotvvod.com:9906/4a8a4653270e4a9ead7063b7adfd0996
-テレビ大阪,mitv://ns2.hellotvvod.com:9906/ebc0674ee50f4fb2badae1054f5ebd00
-サンテレビ,mitv://ns2.hellotvvod.com:9906/7f2f9a0e12d545f0a17e33a5b908ee3a
-BS-1,mitv://ns2.hellotvvod.com:9906/61b17f3fbbcb403d847bc9303c8b0d8d
-BSプレミアム,mitv://ns2.hellotvvod.com:9906/36c2308e707f4db39faebd749284938f
-BS日テレ,mitv://ns2.hellotvvod.com:9906/836b15faf163430e88da2b7baba78215
-BS朝日,mitv://ns2.hellotvvod.com:9906/f389cffb91e1492da594f7ff913b1a33
-BS-TBS,mitv://ns2.hellotvvod.com:9906/aeec4b86617e4103af24b41253a660b8
-BSジャパン,mitv://ns2.hellotvvod.com:9906/2b1b9cb1d426443fa678d4f761f35818
-BSフジ,mitv://ns2.hellotvvod.com:9906/98a122e66dee46dc94cfc487f86c9f33
-WOWOWプライム,mitv://ns2.hellotvvod.com:9906/e6ce673b0be14198a369ba5dee502631
-WOWOWライブ,mitv://ns2.hellotvvod.com:9906/293ea23e322d4185b0ba09e91a386e7b
-WOWOWシネマ,mitv://ns2.hellotvvod.com:9906/2f2038026e214e41951a98ee4741a1df
-スター・チャンネル1,mitv://ns2.hellotvvod.com:9906/3a41465afae34a5487b403b6ea792be5
-スター・チャンネル2,mitv://ns2.hellotvvod.com:9906/ecfac5f0d95b42fca82f52c37c24b810
-スター・チャンネル3,mitv://ns2.hellotvvod.com:9906/7be8f9919aa443f6bae6304dd43d0cb8
-BSアニマックス,mitv://ns2.hellotvvod.com:9906/972fb28d06264a4cabe21b844b224446
-J Sports 1,mitv://ns2.hellotvvod.com:9906/8f789a849c85440d9f1447d5c5977df1
-J Sports 2,mitv://ns2.hellotvvod.com:9906/db5d1bc45f454e6f850b3a379e625e3f
-J Sports 3,mitv://ns2.hellotvvod.com:9906/eacdea4d8fdc4070ac0b94f4c57d8e30
-J Sports 4,mitv://ns2.hellotvvod.com:9906/7bd2b99f5b874e028edb6e7e9915bc33
-日テレG+ HD,mitv://ns2.hellotvvod.com:9906/5fd04bc26fb540efa6e09ffcc60bdb4c
-ゴルフネットワークHD,mitv://ns2.hellotvvod.com:9906/59ae9e5e37db46318749040cad11a5c5
-時代剧専門チャンネル,mitv://ns2.hellotvvod.com:9906/34057ee5d4584d5faeae938c2f0aed35
-Music Japan TV,mitv://ns2.hellotvvod.com:9906/16a8ff808b3649109d0f21a269682111
-キッズステーションHD,mitv://ns2.hellotvvod.com:9906/1f5cef1bb3fb4f8babb31bb79912df7d
-ディスカバリーチャンネル,mitv://ns2.hellotvvod.com:9906/ae53015a413245ba9099f3697c76a649
-ナショナル ジオグラフィッ,mitv://ns2.hellotvvod.com:9906/7c7e79fc9ba24e19907dad24d856ce9a
-日テレNEWS 24,mitv://ns2.hellotvvod.com:9906/0c2f40999c00436ab5e823a25e3d5c13
-Cartoon Network,mitv://ns2.hellotvvod.com:9906/5419e8cfbb6a496aade3406e257768a7
-KBS1,mitv://ns2.hellotvvod.com:9906/8bce97b04ee94db6a8a4153dd4c4fe6c
-KBS2,mitv://ns2.hellotvvod.com:9906/f9dbdcd019704498bed94495d0217ca1
-KBS Drama,mitv://ns2.hellotvvod.com:9906/a32747a969fe461684322b2281b75d9b
-KBS Joy,mitv://ns2.hellotvvod.com:9906/0a17f29805544906af28f564b5315e3c
-SBS,mitv://ns2.hellotvvod.com:9906/c14208087f194e84838d16f869035265
-SBS Plus,mitv://ns2.hellotvvod.com:9906/23305ef8441342c585e7e3d2b4a4dafc
-JTBC,mitv://ns2.hellotvvod.com:9906/190c376cab1f4ef4be4b55fb26ce2f8b
-EBS,mitv://ns2.hellotvvod.com:9906/550363d1e7b34da1aab25a8ae3b5c042
-YTN,mitv://ns2.hellotvvod.com:9906/9bb01424604c408bae02263727a8ae7e
-YTN SCIENCE,mitv://ns2.hellotvvod.com:9906/69ac4b223f794ab79ba2d653847b12bc
-OCN,mitv://ns2.hellotvvod.com:9906/dc2b87a954c44566a3a44e8145fc9eff
-OCN Movies,mitv://ns2.hellotvvod.com:9906/10807a5b11844d279d7ef239904a02db
-CBS,mitv://ns2.hellotvvod.com:9906/3fe45552e55a4725b7927a8cb0cf7b31
-MBC,mitv://ns2.hellotvvod.com:9906/4c7b7a9d11824d7c8f480e2b3dc5602e
-MBC every1,mitv://ns2.hellotvvod.com:9906/8f4d4c484841489c9e54f684fb191ffa
-Tooniverse,mitv://ns2.hellotvvod.com:9906/e2ca82c4691d4774a214bec18d6163dc
-SPOTV,mitv://ns2.hellotvvod.com:9906/9fe403bb37504e2697892bd91a0492c7
-SPOTV 2,mitv://ns2.hellotvvod.com:9906/246d695ded73471592067991cec67aa7
-JTBC GOLF,mitv://ns2.hellotvvod.com:9906/a16d5e5357444665ae91388cfab7eaf9
-Trans TV HD,mitv://ns2.hellotvvod.com:9906/507aa59631034118b472635c85400de5
-Trans 7 HD,mitv://ns2.hellotvvod.com:9906/01a411624d3f4f90b4bbfa04620fa57a
-InsertLive,mitv://ns2.hellotvvod.com:9906/16fde4aec88843cb9809f5db72b6820d
-Galaxy Premium,mitv://ns2.hellotvvod.com:9906/1be7e8226b78418084c45319358dae76
-IMC,mitv://ns2.hellotvvod.com:9906/126bcb9fba39438dab4ba6ebe0cc1f52
-Indosiar,mitv://ns2.hellotvvod.com:9906/60bd6dc1a3024ff1a4232f08d0e1fc94
-Mola Sport,mitv://ns2.hellotvvod.com:9906/969520237daa4f5a939c890871259772
-Lingua HD,mitv://ns2.hellotvvod.com:9906/99f24de081cd4d3bad8cacc6132484a6
-RCTI,mitv://ns2.hellotvvod.com:9906/38b126e9133b458fac4e7da8e246996b
 
 NHK-G综合,mitv://51.81.90.178:9906/eed71942476c49edadaa7df11f90446f
 NHK-E教育,mitv://51.81.90.178:9906/506a99efe08149c79be96876b035d009
@@ -1491,118 +1182,6 @@ SPOTV 2,mitv://ns2.hellotvvod.com:9906/246d695ded73471592067991cec67aa7
 JTBC GOLF,mitv://ns2.hellotvvod.com:9906/a16d5e5357444665ae91388cfab7eaf9
 
 🇺🇸欧美频道,#genre#
-CNN,p5p://fccs.123178.top:9906/608965b9eef84266946ad5598a892db9
-BBC World News,p5p://fccs.123178.top:9906/a1e038f1cfd74f758f916dc7e17572b5
-Al Jazeera English,p5p://fccs.123178.top:9906/f24308be3336455bb0f20ddcd641d725
-CNBC,p5p://fccs.123178.top:9906/52303054ad214adda0129d322912164d
-Bloomberg TV,p5p://fccs.123178.top:9906/3e4c9ed6b58342fbaa531f02aa120a58
-HITS,p5p://fccs.123178.top:9906/8bc2e742cb57462c924904032624a6fd
-AXN,p5p://fccs.123178.top:9906/5c910d743fe847e8b406bf7d180130a0
-CINEMAX,p5p://fccs.123178.top:9906/3d4d75d8f386474d8dbb84c7a3704a7f
-Arirang,p5p://fccs.123178.top:9906/0a89887bb3604794b1fda5c3eae45021
-tvN,p5p://fccs.123178.top:9906/0a4d0d0c6e164cd093061bc31cf30ae8
-DW,p5p://fccs.123178.top:9906/b957ef1774204c088bb084c051005717
-France24,p5p://fccs.123178.top:9906/4742de38085f41d5ae90b7e8f236c153
-FOX,p5p://fccs.123178.top:9906/f769b6fdc80742349bd8214c8839d9d3
-Z频道,p5p://fccs.123178.top:9906/653db001ea4a4599ad4be5a98f9adf8c
-Animax,p5p://fccs.123178.top:9906/10d8ae908a354513b09e38e7116b7b33
-MTV,p5p://fccs.123178.top:9906/aad098bade95418a8046acceb0558aa3
-MTV Live,p5p://fccs.123178.top:9906/5b5d21a03d37495aac99f37ee515efab
-Mezzo Live,p5p://fccs.123178.top:9906/5a39267c43dd41b1821aef0622730115
-CLASSICA 古典乐,p5p://fccs.123178.top:9906/391c8cb09e224e84ab588144e0632a30
-CMusic,p5p://fccs.123178.top:9906/0914d00bdeb748778ea50ce5c008a18b
-ELEVEN1,p5p://fccs.123178.top:9906/0c9c4a9fc07c41bb8537828dd9162e81
-Nick Jr.,p5p://fccs.123178.top:9906/89ac75b06f7f4721be3f6a4d12eb71d3
-HBO,p5p://fccs.123178.top:9906/8e83048c82a8449a93265fa063baa48d
-HBO强档巨献,p5p://fccs.123178.top:9906/670c07900c5c4e49b6df5306bc18bff0
-HBO原创巨献,p5p://fccs.123178.top:9906/9b18147e7f454392b7eb1d204235b314
-HBO Family,p5p://fccs.123178.top:9906/2230c4128071467e8e995408f20c1c3c
-WARNER TV,p5p://fccs.123178.top:9906/bf10e7821b5744d3aed911a956e6cdfe
-Star Movies HD,p5p://fccs.123178.top:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
-AMC最爱电影,p5p://fccs.123178.top:9906/eb5393add687434ca3f3da38ce5ec3bf
-CatchPlay电影,p5p://fccs.123178.top:9906/c4eeae79ede24dd3baf9226ec992dbe4
-CinemaWorld,p5p://fccs.123178.top:9906/e37bdcc69e4f403f9fc52c6817c367f6
-国家地理野生,p5p://fccs.123178.top:9906/56543494b4f64682b1cf6a1aa771c34c
-BBC Earth,p5p://fccs.123178.top:9906/555289b9056947f18bb9658c62299697
-Discovery Asia,p5p://fccs.123178.top:9906/8338adb9ba1541929a6106de04cfdec5
-Discovery科学频道,p5p://fccs.123178.top:9906/29f6899f71c64f5394c865d50ea00911
-DMAX,p5p://fccs.123178.top:9906/f4a3049579cf4a109e2755cff0aae884
-EVE,p5p://fccs.123178.top:9906/1093dacfe6c3404eb67360c75cfb3ce0
-HISTORY 2,p5p://fccs.123178.top:9906/d13e7bea35dd4c01bf258f127a01b393
-历史频道,p5p://fccs.123178.top:9906/8282b66d64db4dd884b125ce6a43d7cf
-罪案侦缉频道,p5p://fccs.123178.top:9906/969d3da0dc624b599160cda58bd5daa2
-BBC Lifestyle,p5p://fccs.123178.top:9906/2dcc681591d640ceb91c09b5eb7cbb83
-LUXE TV,p5p://fccs.123178.top:9906/a6a73818f9aa4fd992d966aac4b49c20
-Lifetime,p5p://fccs.123178.top:9906/698e4db64e93463a814fc462cb15b1f4
-CNN,p5p://fccs.123178.top:9906/c1acbcb9d7904bbca60693a20486b77e
-Channel 5,p5p://fccs.123178.top:9906/28f5f261eda34cd394050fbe4b2feb48
-NBT,p5p://fccs.123178.top:9906/c086e007ee644a308fcc83bcb81c3abd
-TNN 16,p5p://fccs.123178.top:9906/9db5e74290a04e51a576391db32587ba
-JKN 18,p5p://fccs.123178.top:9906/c9dd4f34008646499693a08d667b9a09
-Voice TV,p5p://fccs.123178.top:9906/7ae49dab58dc4946a081fab8d8223149
-Nation TV,p5p://fccs.123178.top:9906/9cc060bed67147499d9fb30bfcdbe2ca
-Workpoint TV,p5p://fccs.123178.top:9906/24401dfb4ff74742ad39cdd38647cf9c
-true4U,p5p://fccs.123178.top:9906/23f817e521ff470a975a0d9193186680
-GMM 25,p5p://fccs.123178.top:9906/c543e41d3fe543ee8c79bce53465659e
-Channel 8,p5p://fccs.123178.top:9906/3b6cc98613aa4e379ad0f4ffb2e59dee
-Mono 29,p5p://fccs.123178.top:9906/ed2d0563d7224a27bd423401441d9540
-MCOT,p5p://fccs.123178.top:9906/3d600be29647475ab44a6969cc3291ad
-ONE,p5p://fccs.123178.top:9906/31e206ac69794d6b8e9953d8f623c0c7
-Thairath TV,p5p://fccs.123178.top:9906/0ee0842a12e947e19bab268b915ac994
-Channel 3,p5p://fccs.123178.top:9906/2e46441b0c394a299265bdb987a3b1bd
-Amarin TV,p5p://fccs.123178.top:9906/68ff5de5976d44b397f191911d664937
-Channel 7,p5p://fccs.123178.top:9906/d0b4b5fbef06418080f3e874eae9fd38
-PPTV,p5p://fccs.123178.top:9906/da644108b52a4cab90181917c27bd84d
-Boomerang,p5p://fccs.123178.top:9906/17f2cdadff7545cb93ee94bdc5fd0d6d
-Jatingja,p5p://fccs.123178.top:9906/72f23afa7a2447c8802176a7e2ba8d21
-Toonee,p5p://fccs.123178.top:9906/b50d967883604ab9b0efe35839c12cad
-Thai Parliament TV,p5p://fccs.123178.top:9906/0f09c53186d944ba8dfe13bada2795b5
-Thai PBS,p5p://fccs.123178.top:9906/e5808de64e1c464ebf3f89bb42ac43cc
-News 1,p5p://fccs.123178.top:9906/2a15d44201e94b3782f9637ce85fb452
-M Channel,p5p://fccs.123178.top:9906/98a38a8ec97a4548963d66cea1609f39
-Zee Nung,p5p://fccs.123178.top:9906/f684bccd353c497bb860f59b31083379
-Channel 4050,p5p://fccs.123178.top:9906/5872600c6bc244af95ffd83ed1872bd6
-TVB Thai,p5p://fccs.123178.top:9906/3219c8d39d544ceeb5989382d19f1fe3
-Bluesky,p5p://fccs.123178.top:9906/b19fc3782ccf446e99dbd70e9471e738
-Top News,p5p://fccs.123178.top:9906/15234ba313ab4758a1b4e75042ab51fb
-GMA,p5p://fccs.123178.top:9906/b4e98a5036df427a86ed161be44e1538
-TV5,p5p://fccs.123178.top:9906/e6027c1c26704c6b86964ae7cb0e0d0d
-Golf Channel Philippines,p5p://fccs.123178.top:9906/29bb74c6d52b42759e572b4470b20eee
-CNBC Awaaz,p5p://fccs.123178.top:9906/d5f2b5f728a04933acfbfc0f63d6800f
-India TV,p5p://fccs.123178.top:9906/fdb1faa69d4f4a8e8cddd9e9040a2440
-Janam TV,p5p://fccs.123178.top:9906/84d4e01a109045f39a7f35d35c5cc9b3
-NDTV,p5p://fccs.123178.top:9906/a8a495848ac440a590dbbadd7a7f2f4b
-ESPN,p5p://fccs.123178.top:9906/9bbbfe9127d3493c9ebb4b95712222e2
-NBA,p5p://fccs.123178.top:9906/c26bb89ba7d44a83b47c52e7af180d77
-CBSN,p5p://fccs.123178.top:9906/8f9c3d1103124dd480b00bb645409cdc
-TA-DAA!,p5p://fccs.123178.top:9906/9cc0050545c1435794857e138bbbe68c
-eGG Network,p5p://fccs.123178.top:9906/7685816d070d4630b52710c168d7a54d
-BollyOne,p5p://fccs.123178.top:9906/e8c23afe5325405e8a62a9fbb7edae2e
-HITS Movies,p5p://fccs.123178.top:9906/0e94bfe77a81432fb5502bf3f0e2582f
-SHOWCASE MOVIES,p5p://fccs.123178.top:9906/6a6d5816cc8e4695b1ed2213d53ab30e
-PrimeTime Channel,p5p://fccs.123178.top:9906/e6216aac7f204b09af416bd6e7e947a4
-Golf Channel,p5p://fccs.123178.top:9906/f1eb3f3d6e38486985afdc16bbb20ba5
-RugbyPass TV,p5p://fccs.123178.top:9906/4c79d12aae404427865fa0eaf7c91e35
-Mediacorp 5,p5p://fccs.123178.top:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
-Mediacorp 8,p5p://fccs.123178.top:9906/58097be7ccf245e4967f20ca5b6ce953
-Suria,p5p://fccs.123178.top:9906/a4e787acd2ff49bda7ab5bad4e32430f
-Vasantham,p5p://fccs.123178.top:9906/261378ab2f13474290a642db91f267d2
-CNA,p5p://fccs.123178.top:9906/a4e154daf0ed4848bdf59bca959dfecd
-Mediacorp U,p5p://fccs.123178.top:9906/391ec17d9d6b4a388058068361342e7f
-Euronews,p5p://fccs.123178.top:9906/9377cf53a2044566b6a808fa268e02fe
-Fight Sports,p5p://fccs.123178.top:9906/c1bf3e92df5041a59fc1cfdd13277f39
-GEM,p5p://fccs.123178.top:9906/f1a28d8d77b24b0a953cd75850ef6bb3
-Horse Racing 89,p5p://fccs.123178.top:9906/c34e7bacdb5a4b879599a1b04ca55406
-Fox News,p5p://fccs.123178.top:9906/710fa57697834a6aba081190b8aba7d3
-ROCK Extreme,p5p://fccs.123178.top:9906/760a7b9f2e104b9abeba8ac4717a1fc2
-Food Network,p5p://fccs.123178.top:9906/9590a6420c3d45649e9d2251f0fcf1d0
-Sky Sports HD,p5p://fccs.123178.top:9906/3b236026d690439cb59f49119e3ecd74
-Sky Sports 2,p5p://fccs.123178.top:9906/9f2669b7e86644dca15545002fe98f3c
-Sky Sports 5,p5p://fccs.123178.top:9906/30aaf9a6ee9d436cb66db803a974cb63
-Sky Sports 6,p5p://fccs.123178.top:9906/f3339d9a528042b7a9080dc2dc1e6ec4
-TV5Monde,p5p://fccs.123178.top:9906/5a4be120d6f04d17b285e897e6204063
-Cbeebies,p5p://fccs.123178.top:9906/65758ebebbb5437cbfdb4b5c88597bf9
-
 CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
 Al Jazeera English,mitv://ns2.hellotvvod.com:9906/f24308be3336455bb0f20ddcd641d725
@@ -1940,93 +1519,6 @@ TV5Monde,mitv://51.81.90.178:9906/5a4be120d6f04d17b285e897e6204063
 Cbeebies,mitv://51.81.90.178:9906/65758ebebbb5437cbfdb4b5c88597bf9
 
 🇲🇾星马频道,#genre#
-TV1,p5p://fccs.123178.top:9906/ed9fbe35e4c14541bd911379fa366c5e
-TV2,p5p://fccs.123178.top:9906/930503b892614a558992dee7246ec31f
-TV3,p5p://fccs.123178.top:9906/bd86602e27b74854961c393b636e570f
-NTV7,p5p://fccs.123178.top:9906/744ca9a033104420895e9738abdccc0b
-8TV,p5p://fccs.123178.top:9906/6ca879209e6f487a841f07713bba541a
-TV9,p5p://fccs.123178.top:9906/54a9ff9815d44b1ca3c479d5c32609bb
-Astro Ria HD,p5p://fccs.123178.top:9906/c138fff294f2452eb90920d65182fdce
-Astro Prima HD,p5p://fccs.123178.top:9906/5712b148ea8d4b2da1e83c691cf7490b
-Astro Oasis HD,p5p://fccs.123178.top:9906/e599d6240fbe444d8a39f34225e40887
-Astro Warna HD,p5p://fccs.123178.top:9906/1a865f8d00fd497896b0fc1646aa801f
-Astro Citra HD,p5p://fccs.123178.top:9906/564ec53813704a74b8c4ab042a18463f
-Naura HD,p5p://fccs.123178.top:9906/e5021a2cb2894b68b5422c254b8b7617
-Astro Rania HD,p5p://fccs.123178.top:9906/1aae1307c2d04bd2b7ca5aed1469cd02
-Astro Aura HD,p5p://fccs.123178.top:9906/5e7a3708a99c482390ab8cf0f90a045e
-Al-Hijrah,p5p://fccs.123178.top:9906/5eb2258beb2044b19d919128b2a65c40
-TV Okey,p5p://fccs.123178.top:9906/c81855382ae74d8faa5e8b4b306ab480
-SUN TV,p5p://fccs.123178.top:9906/7d10e9aadd1146a3b51757f45e032b5b
-Astro Cricket,p5p://fccs.123178.top:9906/d37f8e619e014decb7465d538dc17548
-爱奇艺,p5p://fccs.123178.top:9906/68ef448264ff4275b99f322996e3469a
-Astro小太阳,p5p://fccs.123178.top:9906/0d5ecafe8f494863ac5bad999b6a1f0f
-Astro AEC(备),p5p://fccs.123178.top:9906/ba54a1fee32c4b159e953cc9f2632857
-Astro双星,p5p://fccs.123178.top:9906/7872926c51f9451fb86342414e0d32f5
-Astro全佳,p5p://fccs.123178.top:9906/bda13a24baf24436ae722275cbb85345
-Astro AOD HD 311,p5p://fccs.123178.top:9906/55fa6310d30d45029c38c2848ffbcb85
-Astro欢喜,p5p://fccs.123178.top:9906/d3f47d1dbb174a9abea701a048928bfb
-KBS World,p5p://fccs.123178.top:9906/463939cb6a4e429db306ea47d610bbe4
-ONE,p5p://fccs.123178.top:9906/f0c748f67cd84d9bba8c52bd70270496
-Oh!K,p5p://fccs.123178.top:9906/dd451cfea1714921ab274fb40279bf2d
-Colors Hindi,p5p://fccs.123178.top:9906/dd98f44a969642fd9887c0f14c027977
-TVS,p5p://fccs.123178.top:9906/831f0c768aa44f38954b00d61d88ecdf
-Astro Vaanavil,p5p://fccs.123178.top:9906/2aad65d4beaa499cb89ab1e0360d12df
-tvN Movies HD,p5p://fccs.123178.top:9906/93226f918c0a4231bdff4910da8fa8e1
-Astro Awani,p5p://fccs.123178.top:9906/980117810fba40b7b2abbcf116553c43
-BERNAMA,p5p://fccs.123178.top:9906/522a09ea59664e8ba787c9b28bfef518
-CGTN,p5p://fccs.123178.top:9906/a837b60759a749d3a04991d3fbfadde3
-Astro Ceria,p5p://fccs.123178.top:9906/aac054f65a244206b6f782eb3956e130
-Cartoon Network,p5p://fccs.123178.top:9906/44285c9480dc4d0eaa2e09f741531878
-Nickelodeon,p5p://fccs.123178.top:9906/88de2585472246749d43969d1c03257d
-Nick Jr.,p5p://fccs.123178.top:9906/0355fc81f0cf4527840ff76e185df41e
-Baby TV,p5p://fccs.123178.top:9906/86a3e0ba0bed4d6297376b8f57c5752a
-Boomerang,p5p://fccs.123178.top:9906/e80e0ea046cc4206a9935c6997310ca5
-AXN亚洲,p5p://fccs.123178.top:9906/91a1fa5c29a849cf897f93f58fd08285
-KIX,p5p://fccs.123178.top:9906/a462f6ed65944413acdfc059add3686e
-Astro Arena,p5p://fccs.123178.top:9906/5854587c3f164d0bb0a66626f9ee09d0
-Astro SuperSport,p5p://fccs.123178.top:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
-Astro SuperSport 2,p5p://fccs.123178.top:9906/5aa28b0759774904a25d7fc12ea233a9
-Astro SuperSport 3,p5p://fccs.123178.top:9906/68067267b2734dd39032d08bf83db8f0
-Astro SuperSport 4,p5p://fccs.123178.top:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
-beIN Sports MAX,p5p://fccs.123178.top:9906/1d28c61387af4ccd847b72b1601415d7
-WWE,p5p://fccs.123178.top:9906/591deaacdbc247c8be9fb4fc937d6a14
-Sky News,p5p://fccs.123178.top:9906/9abf41880e9b4ac9a94ea8124203799a
-Nat Geo Wild,p5p://fccs.123178.top:9906/3a0602f78e5e4c368fbf0d056436ee5d
-Drama Sangat,p5p://fccs.123178.top:9906/d873d56d1e5d4b4aa02597ce3ff57a7e
-RTM Sport,p5p://fccs.123178.top:9906/3b086dcc1106400b8f78e8547d2e3df8
-Berita RTM,p5p://fccs.123178.top:9906/dd239fe4e13a451c84575310a5dff7a1
-SPOTV,p5p://fccs.123178.top:9906/5dedc66ef44242819ee8bf88796a9101
-beIN Sports,p5p://fccs.123178.top:9906/2f0a1100d8724e7c8fe7f33fef6722cc
-Astro AEC,p5p://fccs.123178.top:9906/672202f697ea4e77943f6898754f0c1e
-Awesome TV,p5p://fccs.123178.top:9906/90eeca11aacd4523a9e896611279e5f5
-ABO Movies Thangathirai HD,p5p://fccs.123178.top:9906/bb6421aa1f9c412ea91e34ab14e52717
-Colors Tamil,p5p://fccs.123178.top:9906/fb8c72aeee884c1789e905a8da09e2fd
-BOO,p5p://fccs.123178.top:9906/fd66b38ae9014f8183ac6b160b94548b
-Disney Junior,p5p://fccs.123178.top:9906/e6075b2e8d544804921f5055e4871326
-ABC Australia,p5p://fccs.123178.top:9906/f7003b714f114b3f8a91d6babf1f9ae2
-Eurosport HD,p5p://fccs.123178.top:9906/047ba1fc376a4ef88c305a659fbb236f
-Astro Arena 2,p5p://fccs.123178.top:9906/ca874a7d7e614ebd832e6e1e9478525b
-Astro SuperSport 5,p5p://fccs.123178.top:9906/cc02a88163414af7b4d7479a833f1407
-BOND007,p5p://fccs.123178.top:9906/4640459dce0f4a33804f2f2579e22d3e
-Astro Vinmeen,p5p://fccs.123178.top:9906/ca676afdfda24ef4bbe74772c6ef69f0
-Makkal TV,p5p://fccs.123178.top:9906/d73167eac2854c29aabcb534ef09110d
-Sun Music,p5p://fccs.123178.top:9906/b513324725d940bbaad5251ce5c9bb34
-Chutti TV,p5p://fccs.123178.top:9906/7267f21a9c5d4374a39782b769eb67c0
-Adithya,p5p://fccs.123178.top:9906/2f914f95fb4c42ac95d1ae1e2f946441
-Star Vijay,p5p://fccs.123178.top:9906/5b6b63360faf4089974ba88f4dce775c
-Zee Tamil,p5p://fccs.123178.top:9906/8f7e7c8b06484574a23b8172312ee280
-TVBS亚洲,p5p://fccs.123178.top:9906/f221f0d041494497bc59abec2ef7b5ba
-Astro AOD 352,p5p://fccs.123178.top:9906/e037a8a95ed046fda90e511dc7fdd071
-Astro AOD 353,p5p://fccs.123178.top:9906/696cf1339742486c9953c875e603b309
-Astro AOD 354,p5p://fccs.123178.top:9906/5e80bdb10ec54effb4adf472107615e1
-Astro AOD 355,p5p://fccs.123178.top:9906/9ff11126e8b147008308df7cf8c8c23d
-Astro Tutor TV SK,p5p://fccs.123178.top:9906/8deaab3836b543418a8d8c1d868fdf0b
-Astro Tutor TV PT3,p5p://fccs.123178.top:9906/ebcc0ef23e804fb1b084d5efa2b7d492
-Astro Tutor TV SPM,p5p://fccs.123178.top:9906/53355769a46c486589755a615580ee60
-Astro TVIQ,p5p://fccs.123178.top:9906/e792b0589aa540c5977d85f7e6b7822b
-HUB都会,p5p://fccs.123178.top:9906/dd92eb8bcb094606800cb03e80011c54
-HUB娱家,p5p://fccs.123178.top:9906/da8e392d1e5e49e08e64e5ce00c0568e
-
 TV1,mitv://860969650:9906/ed9fbe35e4c14541bd911379fa366c5e
 TV2,mitv://860969650:9906/930503b892614a558992dee7246ec31f
 TV3,mitv://860969650:9906/bd86602e27b74854961c393b636e570f
@@ -2301,20 +1793,15 @@ HUB娱家,mitv://51.81.90.178:9906/da8e392d1e5e49e08e64e5ce00c0568e
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,http://dllb.jxin122.top/jj.php?id=100&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 凤凰资讯,http://dllb.jxin122.top/jj.php?id=99&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰香港,http://dllb.jxin122.top/jj.php?id=98&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-凤凰电影,http://iptv.tvfix.org/hls/discovery.m3u8
 香港卫视,http://124.238.99.44:808/hls/352/index.m3u8
 香港卫视,https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
-香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 香港卫视,https://al-pull2.hkatv.vip/live/hktv20210929.m3u8?WithCaption$720p
 凤凰卫视,http://dllb.jxin122.top/jj.php?id=0100&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-凤凰卫视,http://dllb.jxin122.top/jj.php?id=100&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-凤凰咨询,http://dllb.jxin122.top/jj.php?id=099&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-凤凰香港,http://dllb.jxin122.top/jj.php?id=098&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-凤凰香港,http://dllb.jxin122.top/jj.php?id=98&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+凤凰资讯,http://dllb.jxin122.top/jj.php?id=099&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 开电视,http://dllb.jxin122.top/jj.php?id=095&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 开电视,http://dllb.jxin122.top/jj.php?id=95&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 Viutv,http://dllb.jxin122.top/jj.php?id=094&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
@@ -2322,24 +1809,16 @@ Viutv,http://dllb.jxin122.top/jj.php?id=94&p=0&c=3&key=ced06b227baa54c961d63cc2c
 无线新闻,http://dllb.jxin122.top/jj.php?id=073&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 无线新闻,http://dllb.jxin122.top/jj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 无线财经,http://dllb.jxin122.top/jj.php?id=079&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-无线财经,http://dllb.jxin122.top/jj.php?id=79&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-J2,http://dllb.jxin122.top/jj.php?id=074&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 TVB星河,http://dllb.jxin122.top/jj.php?id=76&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 TVB星河,http://dllb.jxin122.top/jj.php?id=076&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 RTHK31,http://dllb.jxin122.top/jj.php?id=096&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 RTHK31,http://dllb.jxin122.top/jj.php?id=96&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 RTHK32,http://dllb.jxin122.top/jj.php?id=97&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 RTHK32,http://dllb.jxin122.top/jj.php?id=097&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-有线603,http://dllb.jxin122.top/jj.php?id=092&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 美亚电影,http://dllb.jxin122.top/jj.php?id=89&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 美亚电影,http://dllb.jxin122.top/jj.php?id=088&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 澳门莲花,http://dllb.jxin122.top/jj.php?id=88&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-澳门体育,http://dllb.jxin122.top/jj.php?id=50&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-翡翠台,http://dllb.jxin122.top/jj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 TVB星河,http://iptv.tvfix.org/hls/tvbxh2.m3u8
-无线新闻,http://dm1133.kglink.xyz/play/02.ts
-有线新闻,http://dm1133.kglink.xyz/play/03.ts
-now新聞,http://dm1133.kglink.xyz/play/04.ts
 翡翠台,http://51.222.193.143:10010/2
 J2,http://51.222.193.143:10010/7
 明珠台,http://51.222.193.143:10010/5
@@ -2347,16 +1826,8 @@ J2,http://51.222.193.143:10010/7
 无线财经,http://51.222.193.143:10010/6
 ViuTV,http://51.222.193.143:10010/3
 ViuTV6,http://51.222.193.143:10010/4
-翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
-翡翠台,http://iptv.tvfix.org/hls/jadenhk.m3u8
-翡翠台,http://iptv.tvfix.org/hls/jadenhk2.m3u8
-翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
-明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
-翡翠台,http://astream.apk1088.com:18888/channel.php?id=1350_4500&/PLTV/hls.smil.m3u8
-明珠台,http://astream.apk1088.com:18888/channel.php?id=1351_4500&/PLTV/hls.smil.m3u8
-明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+
 J2,http://iptv.tvfix.org/hls/j2.m3u8
-TVB星河,http://iptv.tvfix.org/hls/tvbxh2.m3u8
 TVB经典,http://iptv.tvfix.org/hls/tvbjd.m3u8
 TVB功夫,http://iptv.tvfix.org/hls/tvbkf.m3u8
 无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
@@ -2397,34 +1868,38 @@ ViuTVTV6,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 RTHK31,http://iptv.tvfix.org:80/hkdtmb/31/index.m3u8
 RTHK33,http://iptv.tvfix.org:80/hkdtmb/33/index.m3u8
 国际财经,http://iptv.tvfix.org:80/hkdtmb/76/index.m3u8
-明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
-J2,https://bf.kanjc.com/11666/11666.m3u8
-J2,https://tx-b2.xsafetech.com/live/11666.m3u8
-J2广东版,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
-J2广东版,https://j2.caoqun.cc:443/mv.m3u8
-无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
-无线新闻,https://nettvpro.live/hls/tvb.php?id=1
-无线新闻,http://ye23.win/iptv/tvb.php?id=1
-无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
-无线财经,https://nettvpro.live/hls/tvb.php?id=2
-无线财经,http://www.nettvpro.live/hls/tvb.php?id=2
-无线财经,http://ye23.win/iptv/tvb.php?id=2
-TVB直播,https://nettvpro.live/hls/tvb.php?id=3
-TVB直播,http://ye23.win/iptv/tvb.php?id=3
 TVB直播,http://111.229.84.232/yulin/tvb.php?id=3
 TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 ViuTV,http://iptv.tvfix.org:80/hls/viutv.m3u8
-ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
-ViuTV6,http://iptv.tvfix.org:80/hkdtmb/96/index.m3u8
-ViuTV6,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-RTHK31,http://iptv.tvfix.org:80/hkdtmb/31/index.m3u8
 开电视,http://iptv.tvfix.org:80/hkdtmb/77/index.m3u8
-国际财经,http://iptv.tvfix.org:80/hkdtmb/76/index.m3u8
-香港hks,https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
+
+凤凰卫视,http://mg.169sa.xyz/tbs.php?id=2
+凤凰资讯,http://mg.169sa.xyz/tbs.php?id=3
+凤凰香港,http://mg.169sa.xyz/tbs.php?id=4
+TVB翡翠,http://mg.169sa.xyz/tbs.php?id=1
+TVB明珠,http://mg.169sa.xyz/tbs.php?id=13
+TVB J2,http://mg.169sa.xyz/tbs.php?id=12
+Now新聞,http://mg.169sa.xyz/tbs.php?id=16
+ViuTV,http://mg.169sa.xyz/tbs.php?id=8
+耀才财经,http://mg.169sa.xyz/tbs.php?id=19
+无线新闻,http://mg.169sa.xyz/tbs.php?id=9
+无线财经,http://mg.169sa.xyz/tbs.php?id=10
+有线新闻,http://mg.169sa.xyz/tbs.php?id=24
+有线财经,http://mg.169sa.xyz/tbs.php?id=28
+有线体育,http://mg.169sa.xyz/tbs.php?id=27
+有线电影,http://mg.169sa.xyz/tbs.php?id=23
+有线18台,http://mg.169sa.xyz/tbs.php?id=25
+有线603,http://mg.169sa.xyz/tbs.php?id=26
+开电视,http://mg.169sa.xyz/tbs.php?id=7
+星空卫视,http://mg.169sa.xyz/tbs.php?id=18
+RTHK31,http://mg.169sa.xyz/tbs.php?id=20
+RTHK32,http://mg.169sa.xyz/tbs.php?id=21
+澳门莲花,http://mg.169sa.xyz/tbs.php?id=30
+澳门卫视,http://mg.169sa.xyz/tbs.php?id=31
+
 创世纪电视hkc,http://al-pull2.hkatv.vip/live/CTV.m3u8
 imode时尚频道,https://juyunlive.juyun.tv/live/24950198.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视文旅,http://hw-play.lezhibo.com/live/1fb871bac32a4c96b206a85aa573a161.m3u8
 星空卫视,http://astream.apk1088.com:18888/channel.php?id=xingkong_1500&/PLTV/hls.smil.m3u8
 星空卫视,http://iptv.tvfix.org:80/hls/startv.m3u8
@@ -2435,12 +1910,7 @@ imode时尚频道,https://juyunlive.juyun.tv/live/24950198.m3u8
 天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 美亚电影,http://v3948069e.live.126.net:80/live/2377c02556.flv
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-开电视,http://dllb.jxin122.top/jj.php?id=95&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-TVB星河,http://dllb.jxin122.top/jj.php?id=76&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-RTHK32,http://dllb.jxin122.top/jj.php?id=97&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-美亚电影,http://dllb.jxin122.top/jj.php?id=89&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 国际财经,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
-亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 中文电视,https://jpts.sinovision.net/livestream.m3u8
@@ -2453,22 +1923,21 @@ RTHK32,http://dllb.jxin122.top/jj.php?id=97&p=0&c=3&key=ced06b227baa54c961d63cc2
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 星空卫视,https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
-澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-澳门3,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-澳视葡文,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
-澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台,http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台,http://iptv.tvfix.org/hls/jadenhk2.m3u8
+翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+翡翠台,http://astream.apk1088.com:18888/channel.php?id=1350_4500&/PLTV/hls.smil.m3u8
+明珠台,http://astream.apk1088.com:18888/channel.php?id=1351_4500&/PLTV/hls.smil.m3u8
+明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+
+
 澳门莲,http://nettvpro.live/hls/lotustv.php
-澳视卫星,http://61.244.22.4/ch3/ch3.live/index.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/live.m3u8
 澳门macau,http://124.238.99.44:808/hls/357/index.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
-澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-澳门莲花,http://ye23.win/iptv/lotustv2020.php
-澳门莲花,http://dllb.jxin122.top/jj.php?id=88&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
@@ -2483,9 +1952,6 @@ RTHK32,http://dllb.jxin122.top/jj.php?id=97&p=0&c=3&key=ced06b227baa54c961d63cc2
 澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-澳门城市CH1,http://202.175.127.77/live/show/ch1/index.m3u8
-澳门现实新闻,http://202.175.127.77/live/show/ch2/index.m3u8
-澳门城市CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 
 有线体育,rtmp://59.124.75.157:1935/sat/hk021
 有线体育,rtmp://59.124.75.157/sat/hk021
@@ -2521,81 +1987,6 @@ ViuTV,p5p://fccs.mgiptv.top:19706/615ae21f000542fd04536e7d15caf57f
 ViuTV 6,p5p://fccs.mgiptv.top:19706/6159c5d9000848ff19fce09318840f2c
 澳门莲花,p5p://fccs.mgiptv.top:19706/613192f10005f0f11859aeaf78bfd050
 
-凤凰资讯,p5p://45.92.126.18:9906/604354a700001c2706f579cae17a48f1.ts
-凤凰中文,p5p://45.92.126.18:9906/604355380000ff4606f7b06cbafec3a5.ts
-凤凰香港,p5p://45.92.126.18:9906/604355eb000c9c6806fa6e9daf90ff12.ts	
-澳门莲花,p5p://45.92.126.18:9906/613192f10005f0f11859aeaf78bfd050
-ViuTVTV,p5p://45.92.126.18:9906/615ae21f000542fd04536e7d15caf57f
-有线新闻,p5p://45.92.126.18:9906/60ed1721000502290f99063cfc1e9344
-J5,p5p://45.92.126.18:9906/615ae1a3000287eb0451896b0c3da395
-翡翠台,p5p://45.92.126.18:9906/615ae0360009eda6044bf987e8d620d7
-明珠台,p5p://45.92.126.18:9906/615ae1300007f909044fc997428426ad
-J2,p5p://45.92.126.18:9906/615ae0af000c0802044dd2b9392f9b13
-无线新闻,p5p://45.92.126.18:9906/615adefa000969a80447270684f41d26
-ViuTVTV 6,p5p://45.92.126.18:9906/6159c5d9000848ff19fce09318840f2c
-有线财经,p5p://45.92.126.18:9906/615cf3de000200420c68bfc0bce964e3
-有线18台,p5p://45.92.126.18:9906/615cf3b20004e4390c68149d25db8dc8
-有线603,p5p://45.92.126.18:9906/60ed1cd4000297a20faf48d5542663e4	
-有线娱乐,p5p://45.92.126.18:9906/615cf4490001e8c00c6a61b288746e22
-Now爆谷,p3p://208.91.110.2:19806/60fdebfd0000e057cec6285042632445.m3u8
-Now星影,p3p://208.91.110.2:19806/614568320007b89ee600382374bc77c6.m3u8
-Now剧集,p3p://208.91.110.2:19806/603352fc000ccbbab76a435e1d637acf.m3m8
-Now华剧,p3p://208.91.110.2:19806/603353d9000e02d7b76da2fb78352293.m3u8
-Now体育,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH21/21
-Now直播,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH22/22
-澳门莲花,,p5p://fccs.123178.top:9906/613192f10005f0f11859aeaf78bfd050
-ViuTVTV,p5p://fccs.123178.top:9906/615ae21f000542fd04536e7d15caf57f
-有线新闻,p5p://fccs.123178.top:9906/60ed1721000502290f99063cfc1e9344
-无线财经,p5p://fccs.123178.top:9906/615ae1a3000287eb0451896b0c3da395
-翡翠台,p5p://fccs.123178.top:9906/615ae0360009eda6044bf987e8d620d7
-明珠台,p5p://fccs.123178.top:9906/615ae1300007f909044fc997428426ad
-J2,p5p://fccs.123178.top:9906/615ae0af000c0802044dd2b9392f9b13
-互动新闻,p5p://fccs.123178.top:9906/615adefa000969a80447270684f41d26
-ViuTVTV 6,p5p://fccs.123178.top:9906/6159c5d9000848ff19fce09318840f2c
-有线财经,p5p://fccs.123178.top:9906/615cf3de000200420c68bfc0bce964e3
-有线18台,p5p://fccs.123178.top:9906/615cf3b20004e4390c68149d25db8dc8
-有线603 ,p5p://fccs.123178.top:9906/60ed1cd4000297a20faf48d5542663e4	
-有线娱乐,p5p://fccs.123178.top:9906/615cf4490001e8c00c6a61b288746e22
-凤凰资讯,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
-凤凰中文,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
-凤凰香港,p5p://fccs.123178.top:9906/604355eb000c9c6806fa6e9daf90ff12.ts
-有线娱乐,p5p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
-有线电影,p5p://fccs.123178.top:9906/60693d0e000cf43215b666ef7701d76e.ts
-澳门莲花,,p5p://fccs.123178.top:9906/613192f10005f0f11859aeaf78bfd050.ts
-J2,p5p://fccs.123178.top:9906/60435877000a8705070460f5c3c8cb04
-J2,p5p://fccs.123178.top:9906/60435877000a8705070460f5c3c8cb04.ts
-翡翠台,p5p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
-明珠台,p5p://fccs.123178.top:9906/604357ed000a60d0070245dbf181e582.ts
-J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
-互动新闻,p5p://fccs.123178.top:9906/60693e820004bfd915bc11f5fbb305ed.ts
-互动新闻,p5p://fccs.123178.top:9906/60ed1aee000cb6580fa7e0fdc9ca8c4e
-RTHK31,p5p://fccs.123178.top:9906/60693efb0004b7c815bdea9b4ac50fcb.ts
-RTHK32,p5p://fccs.123178.top:9906/60693f4b000a807615bf2496ceb91552.ts
-ViuTVTV,p5p://fccs.123178.top:9906/6043566f000e998306fc72bfe48d0cd7.ts
-ViuTVTV 6,p5p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
-有线新闻,p5p://fccs.123178.top:9906/6048a389000ca55311d1b4e03b6b32df.ts
-有线财经,p5p://fccs.123178.top:9906/60693c610004761315b3c0fb80a71cf8.ts
-有线18台,p5p://fccs.123178.top:9906/60693bf3000bde2815b21530e4f633d3.ts
-有线603,p5p://fccs.123178.top:9906/60693cbb000cbc0e15b522a901468cb2.ts
-有线体育,p5p://fccs.123178.top:9906/60693dc3000cb8a915b929e8dfe270a3.ts
-凤凰资讯,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
-凤凰中文,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
-凤凰香港,p5p://fccs.123178.top:9906/604355eb000c9c6806fa6e9daf90ff12.ts	
-
-ViuTV,p5p://fccs.123178.top:9906/615ae21f000542fd04536e7d15caf57f
-有线新闻,p5p://fccs.123178.top:9906/60ed1721000502290f99063cfc1e9344
-J5,p5p://fccs.123178.top:9906/615ae1a3000287eb0451896b0c3da395
-翡翠台,p5p://fccs.123178.top:9906/615ae0360009eda6044bf987e8d620d7
-明珠台,p5p://fccs.123178.top:9906/615ae1300007f909044fc997428426ad
-J2,p5p://fccs.123178.top:9906/615ae0af000c0802044dd2b9392f9b13
-互动新闻,p5p://fccs.123178.top:9906/615adefa000969a80447270684f41d26
-ViuTV 6,p5p://fccs.123178.top:9906/6159c5d9000848ff19fce09318840f2c
-有线财经,p5p://fccs.123178.top:9906/615cf3de000200420c68bfc0bce964e3
-有线18台,p5p://fccs.123178.top:9906/615cf3b20004e4390c68149d25db8dc8
-有线603,p5p://fccs.123178.top:9906/60ed1cd4000297a20faf48d5542663e4	
-有线娱乐,p5p://fccs.123178.top:9906/615cf4490001e8c00c6a61b288746e22
-Sports Plus1,p5p://fccs.123178.top:9906/615cf47c000780400c6b2a5874b20000
-
 🌏全球台湾,#genre#
 民视,http://220.134.196.147:8504/http/116.50.42.18:8081/hls/73/815/ch49.m3u8
 公视,http://220.134.196.147:8505/http/116.50.42.18:8081/hls/73/815/ch50.m3u8?token=7375646f59231ac0a93a356b469ff7130d905ef3
@@ -2614,45 +2005,12 @@ Sports Plus1,p5p://fccs.123178.top:9906/615cf47c000780400c6b2a5874b20000
 东森新闻,https://cn9.9cxz.com/1/dsxw/hls/index.m3u8
 壹新闻台,http://211.23.114.106:8548/hls/66/808/ch24.m3u8
 寰宇新闻,http://211.23.114.106:8547/hls/76/818/ch62.m3u8
-东森幼幼,http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-龙华卡通,http://59.125.101.187:8528/http/159.120.8.187:8066/hls/210/cstv13.m3u8
 三立都市,http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 龙华日韩,http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
-东森幼幼,http://59.125.101.187:8515/1.m3u8
 三立都会,http://59.125.101.187:8522/1.m3u8
 中天娱乐,http://59.125.101.187:8528/1.m3u8
-台视,http://dllb.jxin122.top/jj.php?id=45&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-民视,http://dllb.jxin122.top/jj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-华视,http://dllb.jxin122.top/jj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-中视,http://dllb.jxin122.top/jj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-八大综合,http://dllb.jxin122.top/jj.php?id=22&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-八大娱乐,http://dllb.jxin122.top/jj.php?id=20&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-东森电影,http://dllb.jxin122.top/jj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-东森综合,http://dllb.jxin122.top/jj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-东森幼幼,http://dllb.jxin122.top/jj.php?id=31&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-纬来体育,http://dllb.jxin122.top/jj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-纬来电影,http://dllb.jxin122.top/jj.php?id=9&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-纬来综合,http://dllb.jxin122.top/jj.php?id=12&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-三立台湾,http://dllb.jxin122.top/jj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-三立都会,http://dllb.jxin122.top/jj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-卫视中文,http://dllb.jxin122.top/jj.php?id=4&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-TVBS新闻,http://dllb.jxin122.top/jj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-TVBS,http://dllb.jxin122.top/jj.php?id=38&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-东森新闻,http://dllb.jxin122.top/jj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-中天综合,http://dllb.jxin122.top/jj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-中天娱乐,http://dllb.jxin122.top/jj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-中天亚洲,http://dllb.jxin122.top/jj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-中天新闻,http://dllb.jxin122.top/jj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-年代新闻,http://dllb.jxin122.top/jj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-民视新闻,http://dllb.jxin122.top/jj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-中视新闻,http://dllb.jxin122.top/jj.php?id=19&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-壹新闻台,http://dllb.jxin122.top/jj.php?id=34&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-人间卫视,http://59.125.101.187:8506/http/192.168.77.24:8081/hls/69/811/ch36.m3u8
-迪士尼,http://59.125.101.187:8581/http/192.168.77.24:8081/hls/70/812/ch40.m3u8
-东森幼幼,http://59.125.101.187:8515/http/192.168.77.24:8081/hls/63/805/ch09.m3u8
 三立都会,http://59.125.101.187:8522/http/192.168.77.24:8081/hls/65/807/ch19.m3u8
 东风卫视,http://59.125.101.187:8578/http/192.168.77.24:8081/hls/68/810/ch31.m3u8
-WAKUWAKU JAPAN,http://59.125.101.187:8538/http/192.168.77.24:8081/hls/61/803/ch03.m3u8
 私人影院,http://gxfrg007.8800.org:8282/tsfile/live/1061_1.m3u8
 龙翔电影,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
 东森电影,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
@@ -2663,7 +2021,6 @@ WAKUWAKU JAPAN,http://59.125.101.187:8538/http/192.168.77.24:8081/hls/61/803/ch0
 台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民视新闻,http://seb.sason.top/sc/msxw_fhd.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-momo综合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 三立直播,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
@@ -2690,18 +2047,12 @@ TVBS,https://tv1.6zxr.xyz/1/tvbs56/hls/index.m3u8?sign=eb8b079bfc165efdd8d9fca7f
 东森新闻,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
 红星电视,http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-东森幼幼,http://59.125.101.187:8515/http/192.168.77.24:8088/hls/63/805/ch09.m3u8
-龙华卡通,http://59.125.101.187:8528/http/192.168.77.24:8066/hls/210/10013/cstv13.m3u8
 台视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 中视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 华视,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 民视,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
 公视,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 八大综合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-亚洲旅游,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
-东森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-动画,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
-龙华卡通,http://211.23.114.106:8528/http/159.120.8.187/8066/hls/210/cstv13.m3u8
 纬来综合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
 八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
 三立台湾,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
@@ -2712,126 +2063,58 @@ TVBS,https://tv1.6zxr.xyz/1/tvbs56/hls/index.m3u8?sign=eb8b079bfc165efdd8d9fca7f
 中天娱乐,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 东风卫视,http://211.23.114.106:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
 MuchTV,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
-东森戏剧,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-八大戏剧,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
-纬来戏剧,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-龙华戏剧,http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
-龙华偶像,http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
-纬来日本,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 民视新闻,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
 三立新闻,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 壹新闻台,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
 卫视电影,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 好莱坞电影,http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
 龙华电影,http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
-纬来育乐,http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
-纬来体育,http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-博斯运动I,http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 卫视电影,http://211.23.114.106:8553/http/116.50.42.19:8081/hls /62/804/ch07.m3u8
 纬来电影,http://50.7.61.148:30080/Entry/vlmovie
-TLC旅游生活,http://211.23.114.106:8570/http/61.221.81.94： 8088/hls/70/812/ch38.m3u8
 东森新闻,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10 .m3u8
-民视,http://61.222.202.191/gt/gttv.php?id=13669&cid=13822
-中视,http://61.222.202.191/gt/gttv.php?id=13681&cid=13834
-华视,http://61.222.202.191/gt/gttv.php?id=13676&cid=13829
-猪哥会社,http://61.222.202.191/gt/gttv.php?id=13662&cid=13814
-时代影像,http://61.222.202.191/gt/gttv.php?id=13183&cid=13334
-龙华电影,http://61.222.202.191/gt/gttv.php?id=13187&cid=13339
-TVBS,http://61.222.202.191/gt/gttv.php?id=15131&cid=15294
-TVBS新闻,http://61.222.202.191/gt/gttv.php?id=15132&cid=15295
-TVBS欢乐,http://61.222.202.191/gt/gttv.php?id=15133&cid=15296
-TVBS精采,http://61.222.202.191/gt/gttv.php?id=15134&cid=15297
-东森新闻,http://61.222.202.191/gt/gttv.php?id=13635&cid=13787
-中天全民,http://61.222.202.191/gt/gttv.php?id=14192&cid=14352
-寰宇新闻,http://61.222.202.191/gt/gttv.php?id=14170&cid=14330
-寰宇台湾,http://61.222.202.191/gt/gttv.php?id=14172&cid=14332
-三立iNEWS,http://61.222.202.191/gt/gttv.php?id=11419&cid=11420
-民视新闻,http://61.222.202.191/gt/gttv.php?id=13670&cid=13823
-华视新闻,http://61.222.202.191/gt/gttv.php?id=13677&cid=13830
-非凡新闻,http://61.222.202.191/gt/gttv.php?id=11327&cid=11345
-亚洲新闻,http://61.222.202.191/gt/gttv.php?id=14064&cid=14224
-民视戏剧,http://61.222.202.191/gt/gttv.php?id=13651&cid=13803
-民视综艺,http://61.222.202.191/gt/gttv.php?id=13653&cid=13805
-民视旅游,http://61.222.202.191/gt/gttv.php?id=13655&cid=13807
-公视戏剧,http://61.222.202.191/gt/gttv.php?id=14159&cid=14319
-民视台湾,http://61.222.202.191/gt/gttv.php?id=13671&cid=13824
-民视第一,http://61.222.202.191/gt/gttv.php?id=13672&cid=13825
-亚洲旅游,http://61.222.202.191/gt/gttv.php?id=11462&cid=11462
-中天美食,http://61.222.202.191/gt/gttv.php?id=14193&cid=14353
-中天综合,http://61.222.202.191/gt/gttv.php?id=14187&cid=14347
-八大综合,http://61.222.202.191/gt/gttv.php?id=13660&cid=13812
-八大精彩,http://61.222.202.191/gt/gttv.php?id=14213&cid=14373
-爱尔达娱乐,http://61.222.202.191/gt/gttv.php?id=13701&cid=13854
-韩国娱乐,http://61.222.202.191/gt/gttv.php?id=13685&cid=13838
-时尚娱乐,http://61.222.202.191/gt/gttv.php?id=13687&cid=13840
-新唐人亚太区,http://61.222.202.191/gt/gttv.php?id=13984&cid=14137
-麦卡贝电视,http://61.222.202.191/gt/gttv.php?id=11423&cid=11422
-华语戏剧,http://61.222.202.191/gt/gttv.php?id=11427&cid=11427
-综艺娱乐,http://61.222.202.191/gt/gttv.php?id=11430&cid=11429
-流行音乐,http://61.222.202.191/gt/gttv.php?id=11431&cid=11430
-影音综合,http://61.222.202.191/gt/gttv.php?id=12450&cid=12445
-古典音乐,http://61.222.202.191/gt/gttv.php?id=13666&cid=13819
-幸福居家,http://61.222.202.191/gt/gttv.php?id=14199&cid=14359
-亚洲戏剧,http://61.222.202.191/gt/gttv.php?id=11429&cid=11441
-龙华偶像,http://61.222.202.191/gt/gttv.php?id=11459&cid=11463
-龙华日韩,http://61.222.202.191/gt/gttv.php?id=11460&cid=11464
-龙华戏剧,http://61.222.202.191/gt/gttv.php?id=11461&cid=11465
-生活时尚,http://61.222.202.191/gt/gttv.php?id=14400&cid=14563
-尼克儿童,http://61.222.202.191/gt/gttv.php?id=14081&cid=14241
-金光布袋戏,http://61.222.202.191/gt/gttv.php?id=14080&cid=14240
-momo亲子,http://61.222.202.191/gt/gttv.php?id=13661&cid=13813
-MTV直播,http://61.222.202.191/gt/gttv.php?id=14166&cid=14326
-SBL超级篮球,http://61.222.202.191/gt/gttv.php?id=11450&cid=11453
-智林体育,http://61.222.202.191/gt/gttv.php?id=13706&cid=13859
-车迷TV,http://61.222.202.191/gt/gttv.php?id=14190&cid=14350
-靖天国际,http://61.222.202.191/gt/gttv.php?id=18953&cid=19116
-中音直播,http://61.222.202.191/gt/gttv.php?id=13712&cid=13865
-靖天欢乐,http://61.222.202.191/gt/gttv.php?id=18954&cid=19117
-三立新闻,http://61.222.202.191/gt/gttv.php?id=11422&cid=11440
-中天新闻,http://61.222.202.191/gt/gttv.php?id=14143&cid=14303
-中视新闻,http://61.222.202.191/gt/gttv.php?id=13682&cid=13835
-中视影视,http://61.222.202.191/gt/gttv.php?id=18949&cid=19112
-中视菁采,http://61.222.202.191/gt/gttv.php?id=18948&cid=19111
-台视新闻,http://61.222.202.191/gt/gttv.php?id=18946&cid=19109
-台视财经,http://61.222.202.191/gt/gttv.php?id=18947&cid=19110
-民视新闻,http://61.222.202.191/gt/gttv.php?id=14119&cid=14279
-民视无线,http://61.222.202.191/gt/gttv.php?id=14124&cid=14284
-台视,http://61.222.202.191/gt/gttv.php?id=18945&cid=19108
-华视,http://61.222.202.191/gt/gttv.php?id=14128&cid=14288
-采昌影剧,http://61.222.202.191/gt/gttv.php?id=14161&cid=14321
-靖天戏剧,http://61.222.202.191/gt/gttv.php?id=18952&cid=19115
-靖天日本,http://61.222.202.191/gt/gttv.php?id=18950&cid=19113
-靖天映画,http://61.222.202.191/gt/gttv.php?id=13692&cid=13845
-靖天综合,http://61.222.202.191/gt/gttv.php?id=18956&cid=19119
-靖天育乐,http://61.222.202.191/gt/gttv.php?id=18958&cid=19121
-靖天资讯,http://61.222.202.191/gt/gttv.php?id=18957&cid=19120
-靖天电影,http://61.222.202.191/gt/gttv.php?id=14162&cid=14322
-靖洋戏剧,http://61.222.202.191/gt/gttv.php?id=13690&cid=13843
-非凡商业,http://61.222.202.191/gt/gttv.php?id=11328&cid=11346
-龙华戏剧,http://61.222.202.191/gt/gttv.php?id=14147&cid=14307
-中天新聞,http://iptv.tvfix.org/hls/ztxw.m3u8
+中天新闻,http://iptv.tvfix.org/hls/ztxw.m3u8
 TVBS新闻,http://iptv.tvfix.org/hls/tvbs.m3u8
 TVBS新闻,http://iptv.tvfix.org/hls/tvbsnews.m3u8
 东森新闻,http://iptv.tvfix.org/hls/dsxw.m3u8
 动物星球,http://iptv.tvfix.org/hls/animal.m3u8
+台视,http://dllb.jxin122.top/jj.php?id=45&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+民视,http://dllb.jxin122.top/jj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+华视,http://dllb.jxin122.top/jj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中视,http://dllb.jxin122.top/jj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+八大综合,http://dllb.jxin122.top/jj.php?id=22&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+八大娱乐,http://dllb.jxin122.top/jj.php?id=20&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+东森电影,http://dllb.jxin122.top/jj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+东森综合,http://dllb.jxin122.top/jj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+纬来体育,http://dllb.jxin122.top/jj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+纬来电影,http://dllb.jxin122.top/jj.php?id=9&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+纬来综合,http://dllb.jxin122.top/jj.php?id=12&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立台湾,http://dllb.jxin122.top/jj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立都会,http://dllb.jxin122.top/jj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+卫视中文,http://dllb.jxin122.top/jj.php?id=4&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+TVBS新闻,http://dllb.jxin122.top/jj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+TVBS,http://dllb.jxin122.top/jj.php?id=38&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+东森新闻,http://dllb.jxin122.top/jj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天综合,http://dllb.jxin122.top/jj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天娱乐,http://dllb.jxin122.top/jj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天亚洲,http://dllb.jxin122.top/jj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天新闻,http://dllb.jxin122.top/jj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+年代新闻,http://dllb.jxin122.top/jj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+民视新闻,http://dllb.jxin122.top/jj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中视新闻,http://dllb.jxin122.top/jj.php?id=19&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+壹新闻台,http://dllb.jxin122.top/jj.php?id=34&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+东森幼幼,http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+龙华卡通,http://59.125.101.187:8528/http/159.120.8.187:8066/hls/210/cstv13.m3u8
+东森幼幼,http://59.125.101.187:8515/1.m3u8
+迪士尼,http://59.125.101.187:8581/http/192.168.77.24:8081/hls/70/812/ch40.m3u8
+东森幼幼,http://59.125.101.187:8515/http/192.168.77.24:8081/hls/63/805/ch09.m3u8
+东森幼幼,http://59.125.101.187:8515/http/192.168.77.24:8088/hls/63/805/ch09.m3u8
+东森幼幼,http://dllb.jxin122.top/jj.php?id=31&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+龙华卡通,http://59.125.101.187:8528/http/192.168.77.24:8066/hls/210/10013/cstv13.m3u8
+亚洲旅游,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
+东森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+动画,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
+龙华卡通,http://211.23.114.106:8528/http/159.120.8.187/8066/hls/210/cstv13.m3u8
 龙华卡通,http://59.125.101.187:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
-人间卫视,http://59.125.101.187:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
-华藏电视,http://61.222.202.191/gt/gttv.php?id=13979&cid=14132
-唯心电视,http://61.222.202.191/gt/gttv.php?id=13977&cid=14130
-国会频道1,http://61.222.202.191/gt/gttv.php?id=14018&cid=14171
-国会频道2,http://61.222.202.191/gt/gttv.php?id=14021&cid=14174
-大爱二,http://61.222.202.191/gt/gttv.php?id=13698&cid=13851
-大爱电视,http://61.222.202.191/gt/gttv.php?id=13642&cid=13794
-客家电视,http://61.222.202.191/gt/gttv.php?id=14011&cid=14164
-人间卫视,http://61.222.202.191/gt/gttv.php?id=13673&cid=13826
-半岛电视,http://61.222.202.191/gt/gttv.php?id=13678&cid=13831
-博斯无限,http://61.222.202.191/gt/gttv.php?id=11452&cid=11461
-博斯网球,http://61.222.202.191/gt/gttv.php?id=11453&cid=11459
-博斯运动一,http://61.222.202.191/gt/gttv.php?id=14152&cid=14312
-博斯运动二,http://61.222.202.191/gt/gttv.php?id=14126&cid=14286
-博斯高球二,http://61.222.202.191/gt/gttv.php?id=11456&cid=11456
-博斯高球,http://61.222.202.191/gt/gttv.php?id=11457&cid=11455
-博斯魅力,http://61.222.202.191/gt/gttv.php?id=11458&cid=11460
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 海豚综合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 博财经台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -2845,21 +2128,102 @@ TVBS新闻,http://iptv.tvfix.org/hls/tvbsnews.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 人间卫视,http://59.125.101.187:8506/http/61.221.81.94:8088/hls/69/811/ch36​​.m3u8
 人间卫视,http://59.125.101.187:8506/http/192.168.77.24:8088/hls/69/811/ch36​​.m3u8
-
-民视,rtmp://59.124.75.138/sat/tv051
-
-民视,rtmp://59.124.75.157/sat/tv051
-
-台视,rtmp://59.124.75.138/sat/tv071
-
-中视,rtmp://59.124.75.138/sat/tv091
-
-中视,rtmp://59.124.75.157/sat/tv091
-
-华视,rtmp://59.124.75.138/sat/tv111
-
-华视,rtmp://59.124.75.157/sat/tv111
-
+人间卫视,http://59.125.101.187:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
+人间卫视,http://59.125.101.187:8506/http/192.168.77.24:8081/hls/69/811/ch36.m3u8
+纬来育乐,http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
+纬来体育,http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+博斯运动I,http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+TLC旅游生活,http://211.23.114.106:8570/http/61.221.81.94： 8088/hls/70/812/ch38.m3u8
+momo综合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+WAKUWAKU JAPAN,http://59.125.101.187:8538/http/192.168.77.24:8081/hls/61/803/ch03.m3u8
+东森戏剧,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+八大戏剧,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+纬来戏剧,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+龙华戏剧,http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
+龙华偶像,http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
+纬来日本,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+年代MUCH,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+台视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+中视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+华视,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+民视,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+公视,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+民视新闻,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+好莱坞电影,http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
+亚洲旅游,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
+寰宇新闻,http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
+龙华戏剧,http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
+龙华日韩台,http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
+龙华偶像,http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
+龙华卡通,http://211.23.114.106:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
+龙华电影,http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
+博斯运动一,http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+中天新闻,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+ELEVEN体育一,http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+ELEVEN体育二,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+wakuwaku,http://220.134.196.147:8538/http/116.50.42.18:8081/hls/61/803/ch03.m3u8
+东森新闻,http://220.134.196.147:8540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
+东森综合,http://220.134.196.147:8524/http/116.50.42.18:8081/hls/63/805/ch12.m3u8
+东森戏剧,http://220.134.196.147:8530/http/116.50.42.18:8081/hls/64/806/ch13.m3u8
+东森超视,http://220.134.196.147:8525/http/116.50.42.18:8081/hls/64/806/ch14.m3u8
+三立新闻,http://220.134.196.147:8543/http/116.50.42.18:8081/hls/65/807/ch18.m3u8
+三立都会,http://220.134.196.147:8522/http/116.50.42.18:8081/hls/65/807/ch19.m3u8
+三立台湾,http://220.134.196.147:8521/http/116.50.42.18:8081/hls/65/807/ch20.m3u8
+年代新闻,http://220.134.196.147:8517/http/116.50.42.18:8081/hls/67/809/ch27.m3u8
+八大戏剧,http://220.134.196.147:8531/http/116.50.42.18:8081/hls/66/808/ch23.m3u8
+中天综合,http://220.134.196.147:8526/http/116.50.42.18:8081/hls/67/809/ch25.m3u8
+中天娱乐,http://220.134.196.147:8527/http/116.50.42.18:8081/hls/67/809/ch26.m3u8
+东风卫视,http://220.134.196.147:8578/http/116.50.42.18:8081/hls/68/810/ch31.m3u8
+纬来戏剧,http://220.134.196.147:8533/http/116.50.42.18:8081/hls/69/811/ch33.m3u8
+纬来日本,http://220.134.196.147:8537/http/116.50.42.18:8081/hls/69/811/ch34.m3u8
+年代MUCH,http://220.134.196.147:8529/http/116.50.42.18:8081/hls/72/814/ch45.m3u8
+民视新闻,http://220.134.196.147:8542/http/116.50.42.18:8081/hls/73/815/ch51.m3u8
+中天新闻,http://220.134.196.147:8541/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8
+东森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+东森新闻,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+东森综合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+东森戏剧,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+东森超视,http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+国兴卫视,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
+三立新闻,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+三立都会,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+三立台湾,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+八大综合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+八大戏剧,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+壹新闻台,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
+中天综合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+中天娱乐,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+年代新闻,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+纬来体育,http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+纬来育乐,http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
+东风卫视,http://211.23.114.106:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
+纬来综合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
+纬来戏剧,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+纬来日本,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+纬来电影,http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
+动物星球,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
+TLC旅游生活频道,http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
+台视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
+客家电视,http://51.222.193.143:40004/1
+华视,http://51.222.193.143:40004/11
+台视,http://51.222.193.143:40004/12
+台视新闻,http://51.222.193.143:40004/13
+中视经典,http://51.222.193.143:40004/14
+中视,http://51.222.193.143:40004/15
+中视新闻,http://51.222.193.143:40004/16
+公视,http://51.222.193.143:40004/17
+公视三台,http://51.222.193.143:40004/18
+wakuwaku,http://59.125.101.187:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+东森幼幼,http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+三立都会,http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+龙华日韩,http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
+龙华卡通,http://59.125.101.187:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
+CNBCHongKong,http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
+wakuwaku,http://59.125.101.187:8538/http/192.168.77.24:8081/hls/61/803/ch03.m3u8
+东森财经,http://59.125.101.187:8515/http/192.168.77.24:8088/hls/63/805/ch09.m3u8
+三立都会,http://59.125.101.187:8522/http/192.168.77.24:8081/hls/65/807/ch19.m3u8
+寰宇新闻,http://59.125.101.187:8528/http/192.168.77.24:8066/hls/210/10013/cstv13.m3u8
 TVBS新闻,rtmp://59.124.75.138/sat/tv551
 
 TVBS新闻,rtmp://59.124.75.157/sat/tv551
@@ -2876,6 +2240,21 @@ TVBS欢乐,rtmp://59.124.75.157/sat/tv421
 
 民视台湾,rtmp://59.124.75.157/sat/md051
 
+民视,rtmp://59.124.75.138/sat/tv051
+民视,rtmp://59.124.75.157/sat/tv051
+台视,rtmp://59.124.75.138/sat/tv071
+台视,rtmp://59.124.75.157/sat/tv071
+中视,rtmp://59.124.75.138/sat/tv091
+中视,rtmp://59.124.75.157/sat/tv091
+华视,rtmp://59.124.75.138/sat/tv111
+华视,rtmp://59.124.75.157/sat/tv111
+TVBS欢乐,rtmp://59.124.75.157:1935/sat/tv421
+TVBS新闻,rtmp://59.124.75.157:1935/sat/tv551
+中视,rtmp://59.124.75.157:1935/sat/tv091
+华视,rtmp://59.124.75.157:1935/sat/tv111
+台视,rtmp://59.124.75.157:1935/sat/tv071
+民视,rtmp://59.124.75.157:1935/sat/tv051
+东森财经,rtmp://59.124.75.157:1935/sat/tv571
 纬来育乐,rtmp://59.124.75.138/sat/tv701
 
 纬来育乐,rtmp://59.124.75.157/sat/tv701
@@ -2906,512 +2285,11 @@ ELEVEN体育二台,rtmp://59.124.75.138/sat/md041
 
 ELEVEN体育二台,rtmp://59.124.75.157/sat/md041
 
-MoMo综合台,rtmp://59.124.75.138/sat/tv761
+MoMo综合,rtmp://59.124.75.138/sat/tv761
 
-MoMo综合台,rtmp://59.124.75.157/sat/tv761
+MoMo综合,rtmp://59.124.75.157/sat/tv761
 
-
-壹新闻台,p5p://45.92.126.18:9906/61494a29000d70560d62917d35be0fae
-壹电影台,p5p://45.92.126.18:9906/60434a87000b209606cdef9cee9a8dfe.ts	
-寰宇新闻,p5p://45.92.126.18:9906/60434bdc0009a41d06d32342bef082c3.ts
-寰宇二台,p5p://45.92.126.18:9906/60434c6b000d588a06d552cd4d7910ec.ts
-寰宇综合,p5p://45.92.126.18:9906/60434cfa0008763606d78025a8321e46.ts	
-年代新闻,p5p://45.92.126.18:9906/614948580000d13d0d5b75d956513576
-东森新闻,p5p://45.92.126.18:9906/6173ae660001b6721788b6c6ac08380c
-寰宇财经,p5p://45.92.126.18:9906/60434e97000581d106ddccac446ea89d
-中天新闻,p5p://45.92.126.18:9906/6174fe8b000be03302ae798f40145c4c
-民视新闻,p5p://45.92.126.18:9906/61494a92000be20d0d642b3f9739874e
-三立新闻,p5p://45.92.126.18:9906/61494b62000a82d50d67576561464ccf
-TVBS新闻,p5p://45.92.126.18:9906/61494c2100042a180d6a3fdd3c19ba48
-TVBS,p5p://45.92.126.18:9906/61495191000f04ab0d7f8024a458a528
-东森财经,p5p://45.92.126.18:9906/61494d6b00007a520d6f47fbe773e0a5
-非凡新闻,p5p://45.92.126.18:9906/614991e2000e29550e7abc54c0c10ef6
-三立财经,p5p://45.92.126.18:9906/604496f8000b3b7b02009e1b5871dd53.ts
-中天綜合,p5p://45.92.126.18:9906/61494cc7000ea4840d6ccafbef48fe11
-中天娱乐,p5p://45.92.126.18:9906/61495250000bf9d20d82697552901d6f
-中天亚洲,p5p://45.92.126.18:9906/60449a27000cf419020d0e24d4fdafd9.ts	
-东森超视,p5p://45.92.126.18:9906/60449b4f000e1ebf021192b074519d04.ts
-TVBS欢乐,p5p://45.92.126.18:9906/614942c70008d5e00d45b97fe1d761d3
-年代MUCH,p5p://45.92.126.18:9906/60449ce00006c4040217af361b6c5a1a.ts	
-东森綜合,p5p://45.92.126.18:9906/60f6d48100093dde01e5183e2fe6721c
-东森戏剧,p5p://45.92.126.18:9906/60449e3500031323021ce24de00b3ef2.ts
-东森电影,p5p://45.92.126.18:9906/61494e4c000044800d72b6d5c1b77f5c
-东森洋片,p5p://45.92.126.18:9906/60449f6d000c10680221a75af38e252f.ts
-靖天育乐,p5p://45.92.126.18:9906/60469f430002fd3e09f100f732da02a0.ts
-靖天育乐,p5p://45.92.126.18:9906/60c5a45d000a99f910c459ab1ccabbf3
-纬來日本,p5p://45.92.126.18:9906/6044a02c000bf3c30224916a373cdb2c.ts
-纬來戏剧,p5p://45.92.126.18:9906/6044a124000716e6022858ec2ddd7840.ts
-纬來育乐,p5p://45.92.126.18:9906/6044a24900005a2c022ccfba89cc1d77.ts	
-纬來体育,p5p://fccs.123178.top:9906/617505470005c9df02c8c6600f64eca5
-三立台湾,p5p://45.92.126.18:9906/60435a1000013bcc070a9c3b0ad870c7.ts
-三立都會,p5p://45.92.126.18:9906/60435aa10002e65e070cd311539826d8.ts
-衛视电影,p5p://45.92.126.18:9906/607318ce000ef9a107a827d158704e10.ts
-国兴衛视,p5p://45.92.126.18:9906/6044d406000399b302ef1ad77f59ca13.ts	
-JET 綜合,p5p://45.92.126.18:9906/6149450a0008594b0d4e8f17d7ad923b
-八大第一,p5p://45.92.126.18:9906/611a7e950004e4af0be88e80bf4b6388
-八大第二,p5p://crfccs.kingh888.com:16666/611a7e950004e4af0be88e80bf4b6388
-八大戏剧,p5p://45.92.126.18:9906/6044d5ac000936f902f58cb70525846f.ts
-八大綜合,p5p://45.92.126.18:9906/6044d641000e5dc002f7d411a124e035.ts
-八大娱乐,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
-民视台湾,p5p://45.92.126.18:9906/615cf04900025ed10c5ac1d0409f9eae
-民视第一,p5p://45.92.126.18:9906/615cf01d000b41120c5a18366221dad4
-民视,p5p://45.92.126.18:9906/615cefe0000b8a2b0c592a0127a8dd5a
-台视,p5p://45.92.126.18:9906/615cf10c0001987d0c5dbb55bf9bd6ed
-台视财经,p5p://45.92.126.18:9906/615cf1970005cb4c0c5fdb60d7e44abc
-台视新闻,p5p://45.92.126.18:9906/615cf168000ad47e0c5f2512951989aa
-中视,p5p://45.92.126.18:9906/615cee84000470af0c53d8d0e6dede6c
-中视新闻,p5p://45.92.126.18:9906/615ceea900061b6e0c5469c546672e4d
-中视精彩,p5p://45.92.126.18:9906/615cef2b000a183f0c56669a25583e1d
-中视经典,p5p://45.92.126.18:9906/615ceee60007b48e0c555876520737b3
-华视,p5p://45.92.126.18:9906/615cf279000322040c634d822dea28e8
-华视体育,p5p://45.92.126.18:9906/615cf2bd000248ec0c6456eae60c58dc
-华视资讯,p5p://45.92.126.18:9906/615cf34d0005241b0c668a26a861e2c8
-公视,p5p://45.92.126.18:9906/615cef60000555d20c57346a9856fc87
-公视2,p5p://45.92.126.18:9906/615cefb3000992f10c5879b8a9027fe8	
-公视3,p5p://45.92.126.18:9906/615cf07e0008bb700c5b9279f928a1c0
-民视台湾,p5p://fccs.123178.top:9906/615cf04900025ed10c5ac1d0409f9eae
-民视第一,p5p://fccs.123178.top:9906/615cf01d000b41120c5a18366221dad4
-民视,p5p://fccs.123178.top:9906/615cefe0000b8a2b0c592a0127a8dd5a
-台视,p5p://fccs.123178.top:9906/615cf10c0001987d0c5dbb55bf9bd6ed
-台视财经,p5p://fccs.123178.top:9906/615cf1970005cb4c0c5fdb60d7e44abc
-台视新闻,p5p://fccs.123178.top:9906/615cf168000ad47e0c5f2512951989aa
-中视,p5p://fccs.123178.top:9906/615cee84000470af0c53d8d0e6dede6c
-中视新闻,p5p://fccs.123178.top:9906/615ceea900061b6e0c5469c546672e4d
-中视精彩,p5p://fccs.123178.top:9906/615cef2b000a183f0c56669a25583e1d
-中视经典,p5p://fccs.123178.top:9906/615ceee60007b48e0c555876520737b3
-华视,p5p://fccs.123178.top:9906/615cf279000322040c634d822dea28e8
-华视体育,p5p://fccs.123178.top:9906/615cf2bd000248ec0c6456eae60c58dc
-华视资讯,p5p://fccs.123178.top:9906/615cf34d0005241b0c668a26a861e2c8
-公视,p5p://fccs.123178.top:9906/615cef60000555d20c57346a9856fc87
-公视2,p5p://fccs.123178.top:9906/615cefb3000992f10c5879b8a9027fe8	
-公视3,p5p://fccs.123178.top:9906/615cf07e0008bb700c5b9279f928a1c0
-壹新闻台,p5p://fccs.123178.top:9906/61494a29000d70560d62917d35be0fae
-壹电影台,p5p://fccs.123178.top:9906/60434a87000b209606cdef9cee9a8dfe.ts	
-壹綜合台,tvbus://3p3whpbQRZ9ATUezddN9tPF81BdQn5e4t8ebAFtvBQBXNfijAj
-寰宇新闻,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
-寰宇二台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
-寰宇综合,p5p://fccs.123178.top:9906/60434cfa0008763606d78025a8321e46.ts	
-年代新闻,p5p://fccs.123178.top:9906/618894540002fa6c0186e66d066b3e56
-东森新闻,p5p://fccs.123178.top:9906/6173ae660001b6721788b6c6ac08380c
-寰宇财经,p5p://fccs.123178.top:9906/60434e97000581d106ddccac446ea89d
-中天新闻,p5p://fccs.123178.top:9906/6174fe8b000be03302ae798f40145c4c
-民视新闻,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
-三立新闻,p5p://fccs.123178.top:9906/61494b62000a82d50d67576561464ccf
-TVBS新闻,p5p://fccs.123178.top:9906/61494c2100042a180d6a3fdd3c19ba48
-TVBS,p5p://fccs.123178.top:9906/61495191000f04ab0d7f8024a458a528
-东森财经,p5p://fccs.123178.top:9906/61494d6b00007a520d6f47fbe773e0a5
-非凡新闻,p5p://fccs.123178.top:9906/614991e2000e29550e7abc54c0c10ef6
-三立财经,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
-中天綜合,p5p://fccs.123178.top:9906/61494cc7000ea4840d6ccafbef48fe11
-中天娱乐,p5p://fccs.123178.top:9906/61495250000bf9d20d82697552901d6f
-中天亚洲,p5p://fccs.123178.top:9906/60449a27000cf419020d0e24d4fdafd9.ts	
-东森超视,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
-TVBS欢乐,p5p://fccs.123178.top:9906/614942c70008d5e00d45b97fe1d761d3
-年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts	
-东森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
-东森戏剧,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
-东森电影,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
-东森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
-靖天育乐,p5p://fccs.123178.top:9906/60469f430002fd3e09f100f732da02a0.ts
-靖天育乐,p5p://fccs.123178.top:9906/60c5a45d000a99f910c459ab1ccabbf3
-纬來日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
-纬來戏剧,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-纬來育乐,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts	
-三立台湾,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
-三立都會,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
-衛视电影,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
-JET 綜合,p5p://fccs.123178.top:9906/6149450a0008594b0d4e8f17d7ad923b
-八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
-八大戏剧,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
-八大綜合,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
-八大娱乐,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
-东森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
-东森综合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
-东森综合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
-中天新闻,p5p://fccs.123178.top:9906/6108751d000ce82f133327c1075ab46a.ts
-八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
-中天新闻,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95
-八大綜合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac
-中视,p5p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24
-台视,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc
-民视,p5p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10
-TVBS,p5p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e
-TVBS新闻,p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5
-TVBS欢乐,p5p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1
-东森戏剧,p5p://0198.02686.cc:16871/5f2e5ed20008e6ef1d9b93e3bf1b4576
-纬來綜合,p5p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418
-纬來戏剧,p5p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1
-纬來电影,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509
-民视台湾,p5p://fccs.123178.top:9906/6044825e000bd32801b024b2f4ff7f01.ts
-民视第一,p5p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts
-民视新闻,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts
-台视,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
-台视财经,p5p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
-台视新闻,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
-中视,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
-中视新闻,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
-中视精彩,p5p://fccs.123178.top:9906/6044887d000496a501c80bf0a54afd29
-中视经典,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
-华视,p5p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
-华视体育,p5p://fccs.123178.top:9906/60448b33000df9b601d2a54784a00d4b.ts
-华视教育,p5p://fccs.123178.top:9906/60448d730005f21d01db6d390ab97993.ts
-公视,p5p://fccs.123178.top:9906/60448ebb000b822801e06fe5cbe82807.ts
-公视2,p5p://fccs.123178.top:9906/60448f540003197f01e2c366b8927af8.ts
-公视3,p5p://fccs.123178.top:9906/6044903d0009037901e653127d757c7b.ts
-客家电视,p5p://fccs.123178.top:9906/604494f1000344c901f8b0b9b9276851.ts
-原民台,p5p://fccs.123178.top:9906/60449577000d314201fabeb4cb9a2626.ts
-霹靂台湾,p5p://fccs.123178.top:9906/60443eff000b560c00a8f97ad079a022.ts
-壹新闻台,p5p://fccs.123178.top:9906/6069902f0003db1b16fb1d83c7d47b04.ts
-寰宇财经,p5p://fccs.123178.top:9906/60434e97000581d106ddccac446ea89d.ts
-东森新闻,p5p://fccs.123178.top:9906/60e382fe000d9e21042519ca9bf23e95
-东森财经,p5p://fccs.123178.top:9906/60435ba7000123740710d20d0fa4a082.ts
-东森财经,p5p://fccs.123178.top:9906/60435ba7000123740710d20d0fa4a082
-中天新闻,p5p://fccs.123178.top:9906/60e5b23b00079f880cad9e8953b1922a
-中天新闻,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
-中天新闻,p5p://174.128.239.254:16871/5f2f9178000c4ec022496d33f280ef95
-中天綜合,p5p://fccs.123178.top:9906/60449782000897640202b87e04b40c6d.ts
-中天娱乐,p5p://fccs.123178.top:9906/6044982d0007f3370205544c4cfdaaad.ts
-中天娱乐,p5p://fccs.123178.top:9906/611b007f000176330de407af7d789687
-三立新闻,p5p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8.ts
-三立新闻,p5p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8
-三立綜合,p5p://fccs.123178.top:9906/60441aa3000729ad001af109e515adad.ts
-三立戏剧,p5p://fccs.123178.top:9906/60441b4f00036f62001d8ff40f884e87.ts
-TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts
-TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda
-TVBS新闻,p5p://fccs.123178.top:9906/6075902e00016792114a73588fb745ba
-TVBS新闻,p5p://fccs.123178.top:9906/60435300000abe3e06ef082bf48727a4.ts
-TVBS精彩,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
-TVBS欢乐,p5p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1.ts
-TVBS欢乐,p5p://fccs.123178.top:9906/60449be700025e680213e16e7d39f5a6.ts
-八大第一,p5p://fccs.123178.top:9906/6044d526000cfe3b02f3823f7bc7c9f8.ts
-非凡新闻,p5p://fccs.123178.top:9906/6044966b0006d57a01fe7633c96a5506.ts
-年代新闻,p5p://fccs.123178.top:9906/60434d73000091e406d956c8607013df.ts
-年代新闻,p5p://fccs.123178.top:9906/60434d73000091e406d956c8607013df
-纬來综合,p5p://fccs.123178.top:9906/6045be33000be06a0681dcbdb39f2973.ts
-纬來电影,p5p://fccs.123178.top:9906/611ee70200084d5b03377d42bd45bfec
-纬來体育,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
-JET综合,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
-星衛娱乐,p5p://fccs.123178.top:9906/6044229300000d0a0039f0b6a59d1511.ts
-华艺影剧,p5p://fccs.123178.top:9906/604420fd000850e60033c0e469119c7f.ts
-华艺MBC綜合,p5p://fccs.123178.top:9906/604421d400072b6600370871d6641107.ts
-三立綜合,p5p://45.92.126.18:9906/60441aa3000729ad001af109e515adad.ts
-三立戏剧,p5p://45.92.126.18:9906/60441b4f00036f62001d8ff40f884e87.ts
-靖天欢乐,p5p://45.92.126.18:9906/60c5a564000c898610c85d82cfc3a4e3
-靖天日本,p5p://45.92.126.18:9906/6045b8aa000389cf066c3b7385e82ede.ts%20
-靖天资讯,p5p://45.92.126.18:9906/6045b93800071301066e670ba6925741.ts
-靖洋戏剧,p5p://45.92.126.18:9906/60441bcb000e6baf001f77240fd6acd8.ts
-靖天国际,p5p://45.92.126.18:9906/60bd140b000e6170094be86cd1b01e57
-靖天电影,p5p://45.92.126.18:9906/6045b9cc00094ab70670a9bc88048a82.ts
-Kantipur,p5p://45.92.126.18:9906/61349379000143450a4ad11a33e7c5ab
-天映电影,p5p://45.92.126.18:9906/60441c660009af940021d366383a86ea.ts	
-星衛电影,p5p://45.92.126.18:9906/6044d33b0006a70302ec02a7d10a2600.ts
-美亚电影,p5p://45.92.126.18:9906/60494bf1000472fc14638907b18fe55b.ts
-光影欧洲,p5p://45.92.126.18:9906/604420030008e014002ff07922c6f89b.ts
-华艺影剧,p5p://45.92.126.18:9906/61728417000b164612fb74944d3a5d26
-华艺MBC綜合,p5p://45.92.126.18:9906/604421d400072b6600370871d6641107.ts
-星衛娱乐,p5p://45.92.126.18:9906/6044229300000d0a0039f0b6a59d1511.ts
-TVBS精彩,p5p://45.92.126.18:9906/610ccbbc000ada220a2a333a700ad566
-私人影院,p5p://45.92.126.18:9906/612b76530005bddc0079e572c66e5249
-衛视音乐,p5p://45.92.126.18:9906/6163e81300020e350da08bfaf7a3c756
-龍华影剧,p5p://45.92.126.18:9906/604347a3000cc1fe06c2a567b371c0d6.ts
-龍华电影,p5p://45.92.126.18:9906/604426fa000c13eb004b26236e73affa.ts	
-龍华洋片,p5p://45.92.126.18:9906/6044287d000e2bb500510e64fec426ab.ts	
-龍华戏剧,p5p://45.92.126.18:9906/60442a110002751300573584bb335a71.ts	
-龍华偶像,p5p://45.92.126.18:9906/60442ac30006b54f0059edebe8733672.ts
-EYETV戏剧,p5p://45.92.126.18:9906/60442b6d000654ae005c85e289945252.ts
-龍祥电影,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
-衛视中文,p5p://45.92.126.18:9906/6045bbb2000922ef0678142229e89274.ts
-纬來电影,p5p://45.92.126.18:9906/614959e10009f39d0d9ff75817774dbe
-纬來綜合,p5p://45.92.126.18:9906/614954e8000aa2000d8c8add3b487c6c
-TVB星河,p5p://45.92.126.18:9906/60463cd5000f308a087086672166e0af.ts
-纬來精彩,p5p://45.92.126.18:9906/6044a30800006812022fb9d6202c684d.ts
-生命电视,p5p://45.92.126.18:9906/60463d9a0001f1630873848a76accc36.ts
-华藏衛视,p5p://45.92.126.18:9906/60463e4f0004c7480876484c7d16a8e0.ts
-星空衛视,p5p://45.92.126.18:9906/60463ee9000522e20878a1f4688ea89f.ts
-人間衛视,p5p://45.92.126.18:9906/60463f7d000802da087ae4d0305dfcaf.ts	
-星空衛视,p5p://45.92.126.18:9906/60eda96d000783c911d47fc0406d599e
-高點綜合,p5p://45.92.126.18:9906/6149448d0007247b0d4ca68022a5f032
-东風衛视,p5p://45.92.126.18:9906/604640af000dbd7a087f919857110af4.ts
-好萊塢电影,p5p://fccs.123178.top:9906/614953030008709d0d8523c592e3c647
-AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
-Cinemax,p5p://fccs.123178.top:9906/6149544b0008eb0b0d8a2524ddcf3ee6
-龍祥电影,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
-衛视中文,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
-纬來电影,p5p://fccs.123178.top:9906/614959e10009f39d0d9ff75817774dbe
-纬來綜合,p5p://fccs.123178.top:9906/614954e8000aa2000d8c8add3b487c6c
-TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af.ts
-纬來精彩,p5p://fccs.123178.top:9906/6044a30800006812022fb9d6202c684d.ts
-生命电视,p5p://fccs.123178.top:9906/60463d9a0001f1630873848a76accc36.ts
-星空衛视,p5p://fccs.123178.top:9906/60463ee9000522e20878a1f4688ea89f.ts
-高點綜合,p5p://fccs.123178.top:9906/6149448d0007247b0d4ca68022a5f032
-东風衛视,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
-民视,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
-台视综合,p5p://fccs.123178.top:9906/6044936700021fe101f2ad5ea50e836e.ts
-CatchPlay电影,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
-靖天电影,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
-龍华电影,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
-星衛电影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
-星衛电影,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
-天映电影,p5p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts	
-美亚电影,p5p://fccs.123178.top:9906/60494bf1000472fc14638907b18fe55b.ts
-东森电影,p5p://fccs.123178.top:9906/60449ece0009c6ea021f39ac30bce072.ts
-好萊塢电影,p5p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
-纬來电影,p5p://fccs.123178.top:9906/.6045bc330008915e067a0be52c863eff.ts
-私人影院,p5p://fccs.123178.top:9906/612b76530005bddc0079e572c66e5249
-衛视电影,p5p://45.92.126.18:9906/60494c90000347391465f5d2b8473dbe.ts
-好萊塢电影,p5p://45.92.126.18:9906/6044d78800021f9602fcce46b541cf65.ts
-Z頻道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017
-韩国娱乐,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295
-华納电影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4
-靖洋戏剧,p5p://fccs.123178.top:9906/60441bcb000e6baf001f77240fd6acd8.ts
-靖洋卡通,p5p://fccs.123178.top:9906/60bd169300057f1b0955c9653d8db6ac
-靖天卡通,p5p://fccs.123178.top:9906/60bd172500015f0f095802a7f2bd13c9
-靖天欢乐,p5p://fccs.123178.top:9906/60c5a564000c898610c85d82cfc3a4e3
-靖天欢乐,p5p://fccs.123178.top:9906/6045b810000a9ac50669e3b2b61b5383.ts
-靖天日本,p5p://fccs.123178.top:9906/6045b8aa000389cf066c3b7385e82ede.ts%20
-靖天资讯,p5p://fccs.123178.top:9906/6045b93800071301066e670ba6925741.ts
-靖天国际,p5p://fccs.123178.top:9906/60bd140b000e6170094be86cd1b01e57
-靖天映畫,p5p://fccs.123178.top:9906/6045ba850003d28406737afe6daf6f4d.ts
-龍华动畫,p5p://fccs.123178.top:9906/6044594300037550010f9116e9856cd9.ts
-大愛电视2,p5p://45.92.126.18:9906/60c5a836000cdeac10d361e80c6f7078
-大愛电视,p5p://45.92.126.18:9906/6044917a0000fce101eb274c2044b550.ts
-好消息,p5p://45.92.126.18:9906/60b575c30003189a05772bc6fbb8fc4f
-台视綜合,p5p://45.92.126.18:9906/615cf1d90008f3590c60ddff48ad15c3
-客家电视,p5p://45.92.126.18:9906/615cf0b3000ee57c0c5c631584311880
-原民台,p5p://f45.92.126.18:9906/615cf0df00077fe20c5d0d102000e0a2
-ETtoday综合,p5p://45.92.126.18:9906/6043494d000e362406c925d66b8448c9.ts
-好萊塢电影,p5p://45.92.126.18:9906/614953030008709d0d8523c592e3c647
-愛爾達影剧,p5p://45.92.126.18:9906/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達綜合,p5p://45.92.126.18:9906/60689fa0000c9dae134f712965a8f823.ts
-愛爾達体育1,p5p://45.92.126.18:9906/617b742500015a6801fc459b61930f93
-愛爾達体育2,p5p://45.92.126.18:9906/617b767a000873b0020563740ce34ccd
-愛爾達体育3,p5p://45.92.126.18:9906/617b775e00020aaa0208dc70b179c11d
-霹靂台湾,p5p://45.92.126.18:9906/61494391000129760d48cc98263e39d1
-旅游频道,p5p://45.92.126.18:9906/604944bf0002e33c14476d50e1deb4e1.ts
-龍华动畫,p5p://45.92.126.18:9906/6044594300037550010f9116e9856cd9.ts
-博斯魅力,p5p://45.92.126.18:9906/60445a120003530d0112b9a5dc60ca35.ts	
-Eleven運动1,p5p://45.92.126.18:9906/60446a54000b4ef801523d80af6dda12.ts
-Z 頻道,p5p://45.92.126.18:9906/60446c7f000b970f015ab58bf1266ed0.ts
-Eleven運动2,p5p://45.92.126.18:9906/61495671000ab36e0d928a09ffb0ac85
-
-美国高爾夫球,p5p://45.92.126.18:9906/60447654000dbd4101811e203ac3ee9f.ts
-博斯高球1,p5p://45.92.126.18:9906/604476f500023ffc01839017c2f8b12b.ts
-博斯高球二,p5p://45.92.126.18:9906/604477b3000746210186779063f54d2a.ts
-靖天綜合,p5p://45.92.126.18:9906/614c7520000829c819c264fbe6b1d5dc
-博斯網球,p5p://45.92.126.18:9906/6044783c0007f05c01888ee3506bef35.ts
-博斯運动1,p5p://45.92.126.18:9906/604478f0000e964f018b4fb7c6ee22b4.ts
-博斯運动 II,p5p://45.92.126.18:9906/6044799300093dbb018dcb11ecf6cc03.ts
-靖天卡通,p5p://45.92.126.18:9906/60bd172500015f0f095802a7f2bd13c9
-靖洋卡通,p5p://45.92.126.18:9906/60bd169300057f1b0955c9653d8db6ac
-BOOMERANG,p5p://45.92.126.18:9906/60447a4a00022e630190941a11afdf8e.ts
-靖天映畫,p5p://45.92.126.18:9906/6045ba850003d28406737afe6daf6f4d.ts
-愛放动漫,p5p://45.92.126.18:9906/60447b1e000e9a430193d36877b2a95b.ts
-曼迪日本,p5p://45.92.126.18:9906/6068a12900029e3a13556dc2ad58c3d5.ts
-Dreamworks,p5p://45.92.126.18:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
-Animax,p5p://45.92.126.18:9906/611a8d5a000710970c22409682924b74
-MoMo親子,p5p://45.92.126.18:9906/604480210005726601a764c84f1d9e1c.ts
-CN卡通,p5p://45.92.126.18:9906/604480aa000baba001a97d8882607e75.ts
-东森幼幼,p5p://45.92.126.18:9906/6044812c00070c6401ab7829e94ee52d.ts	
-迪士尼卡通,p5p://45.92.126.18:9906/604481b9000baf3801ada02160f76b5d.ts
-大愛电视2,p5p://fccs.123178.top:9906/60c5a836000cdeac10d361e80c6f7078
-大愛电视,p5p://fccs.123178.top:9906/6044917a0000fce101eb274c2044b550.ts
-台湾好消息,p5p://fccs.123178.top:9906/60b575c30003189a05772bc6fbb8fc4f
-好消息2,tvbus://3FQvdv1Sunc7AoGmbq1W3S43ymkyebtb5rWwxgnoVC3bn2B11X
-台视綜合,p5p://fccs.123178.top:9906/615cf1d90008f3590c60ddff48ad15c3
-客家电视,p5p://fccs.123178.top:9906/615cf0b3000ee57c0c5c631584311880
-原民台,p5p://fccs.123178.top:9906/615cf0df00077fe20c5d0d102000e0a2
-ETtoday综合,p5p://fccs.123178.top:9906/6043494d000e362406c925d66b8448c9.ts
-MoMo亲子,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
-CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
-迪斯尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
-龍华戏剧,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts	
-龍华偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
-tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
-国兴衛视,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
-光影欧洲,p5p://fccs.123178.top:9906/604420030008e014002ff07922c6f89b.ts
-Eleven运动1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
-Z 频道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
-美国高尔夫球,p5p://fccs.123178.top:9906/60447654000dbd4101811e203ac3ee9f.ts
-博斯高球1,p5p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
-博斯网球,p5p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
-人间衛视,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
-龍华洋片,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
-MTV綜合,p5p://fccs.123178.top:9906/604408e9000a103309b59e2621263caa.ts
-影迷数位电影,p5p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
-采昌影剧,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
-罪案偵緝頻道,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
-纬來体育,p5p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e
-龍华戏剧,p5p://0198.02686.cc:16871/5f380947000effbb435d6e7b21bc4ac1
-影迷数位纪实,p5p://fccs.123178.top:9906/60494398000c2ccb1442ef592de01971.ts
-历史頻道,p5p://fccs.123178.top:9906/6049468f0008dae6144e835756f6d068.ts
-历史頻道H2,p5p://fccs.123178.top:9906/6049473c0005320614512630bb45841f.ts
-日本旅游频道,p5p://fccs.123178.top:9906/61304d2b000a9536136122700ecd28a5
-EYETV旅遊,p5p://fccs.123178.top:9906/60494553000b340f1449b191f22032d6.ts
-Travel 旅游频道,p5p://fccs.123178.top:9906/604944bf0002e33c14476d50e1deb4e1.ts
-FOOD美食,p5p://fccs.123178.top:9906/604407250006a38d09aeb7a6e70be747.ts
-幸福居家,p5p://fccs.123178.top:9906/60bd15bb0008599f09527e60628a99c4
-美食星球,p5p://fccs.123178.top:9906/604945ed00053a5b144c099a65029d36.ts
-Classica HD古典音乐,p5p://fccs.123178.top:9906/60689dd9000cb8ae13487fd8feab0590.ts
-Mezzo Live,p5p://fccs.123178.top:9906/6044084c000d934609b339c4b9e633ef.ts
-LUXE奢华頻道,p5p://fccs.123178.top:9906/60689d7b000b57f61347104e33aa1e24.ts
-韩国娱乐台KMTV,p5p://fccs.123178.top:9906/606bcab100003ef205c38d91720ec13b.ts
-MTV Live,p5p://fccs.123178.top:9906/60440af600097aa009bda0c8f60b1cae.ts
-Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
-Channel V,p5p://fccs.123178.top:9906/60494a1e0001d684145c682429cd1a38.ts
-Lifetime,p5p://fccs.123178.top:9906/60440d6800025fd909c72c46337e9f6b.ts
-愛爾達綜合,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
-愛爾達体育1,p5p://fccs.123178.top:9906/6044394f000bdf980092c21d614c13c6.ts
-愛爾達体育2,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
-愛爾達体育2,p5p://fccs.123178.top:9906/60443b320005c061009a1f44d1793932.ts
-愛爾達体育3,p5p://fccs.123178.top:9906/60443bfe00066777009d3c4f69ab187b.ts
-愛爾達体育3,p5p://fccs.123178.top:9906/610cc7a400025e110a1a334e80dad40f
-Eleven運动2,p5p://fccs.123178.top:9906/60447228000e0e420170d2547df9954a.ts
-博斯魅力,p5p://fccs.123178.top:9906/60445a120003530d0112b9a5dc60ca35.ts
-博斯運动1,p5p://fccs.123178.top:9906/604478f0000e964f018b4fb7c6ee22b4.ts
-博斯運动 II,p5p://fccs.123178.top:9906/6044799300093dbb018dcb11ecf6cc03.ts
-华藏衛视,p5p://fccs.123178.top:9906/60463e4f0004c7480876484c7d16a8e0.ts
-高點綜合,p5p://fccs.123178.top:9906/604640070003e1f8087cfed268004b6c.ts
-
-民视台湾,p5p://fccs.123178.top:9906/615cf04900025ed10c5ac1d0409f9eae
-民视第一,p5p://fccs.123178.top:9906/615cf01d000b41120c5a18366221dad4
-民视,p5p://fccs.123178.top:9906/615cefe0000b8a2b0c592a0127a8dd5a
-台视,p5p://fccs.123178.top:9906/615cf10c0001987d0c5dbb55bf9bd6ed
-台视财经,p5p://fccs.123178.top:9906/615cf1970005cb4c0c5fdb60d7e44abc
-台视新闻,p5p://fccs.123178.top:9906/615cf168000ad47e0c5f2512951989aa
-中视,p5p://fccs.123178.top:9906/615cee84000470af0c53d8d0e6dede6c
-中视新闻,p5p://fccs.123178.top:9906/615ceea900061b6e0c5469c546672e4d
-中视精彩,p5p://fccs.123178.top:9906/615cef2b000a183f0c56669a25583e1d
-中视經典,p5p://fccs.123178.top:9906/615ceee60007b48e0c555876520737b3
-华视,p5p://fccs.123178.top:9906/615cf279000322040c634d822dea28e8
-华视体育文化,p5p://fccs.123178.top:9906/615cf2bd000248ec0c6456eae60c58dc
-华视资讯,p5p://fccs.123178.top:9906/615cf34d0005241b0c668a26a861e2c8
-公视,p5p://fccs.123178.top:9906/615cef60000555d20c57346a9856fc87
-公视2,p5p://fccs.123178.top:9906/615cefb3000992f10c5879b8a9027fe8	
-公视3,p5p://fccs.123178.top:9906/615cf07e0008bb700c5b9279f928a1c0
-大愛电视2,p5p://fccs.123178.top:9906/60c5a836000cdeac10d361e80c6f7078
-大愛电视,p5p://fccs.123178.top:9906/6044917a0000fce101eb274c2044b550.ts
-好消息,p5p://fccs.123178.top:9906/60b575c30003189a05772bc6fbb8fc4f
-好消息2,tvbus://3FQvdv1Sunc7AoGmbq1W3S43ymkyebtb5rWwxgnoVC3bn2B11X
-台视綜合,p5p://fccs.123178.top:9906/615cf1d90008f3590c60ddff48ad15c3
-客家电视,p5p://fccs.123178.top:9906/615cf0b3000ee57c0c5c631584311880
-原民台,p5p://fccs.123178.top:9906/615cf0df00077fe20c5d0d102000e0a2
-ETtoday综合,p5p://fccs.123178.top:9906/6043494d000e362406c925d66b8448c9.ts
-壹新闻,p5p://fccs.123178.top:9906/61494a29000d70560d62917d35be0fae
-壹电影,p5p://fccs.123178.top:9906/60434a87000b209606cdef9cee9a8dfe.ts	
-壹电视,tvbus://3p3whpbQRZ9ATUezddN9tPF81BdQn5e4t8ebAFtvBQBXNfijAj
-寰宇新闻,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
-寰宇二台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
-寰宇综合,p5p://fccs.123178.top:9906/60434cfa0008763606d78025a8321e46.ts	
-年代新闻,p5p://fccs.123178.top:9906/618894540002fa6c0186e66d066b3e56
-东森新闻,p5p://fccs.123178.top:9906/6173ae660001b6721788b6c6ac08380c
-寰宇财经,p5p://fccs.123178.top:9906/60434e97000581d106ddccac446ea89d
-中天新闻,p5p://fccs.123178.top:9906/6174fe8b000be03302ae798f40145c4c
-民视新闻,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
-三立新闻,p5p://fccs.123178.top:9906/61494b62000a82d50d67576561464ccf
-TVBS新闻,p5p://fccs.123178.top:9906/61494c2100042a180d6a3fdd3c19ba48
-TVBS,p5p://fccs.123178.top:9906/61495191000f04ab0d7f8024a458a528
-东森财经,p5p://fccs.123178.top:9906/61494d6b00007a520d6f47fbe773e0a5
-非凡新闻,p5p://fccs.123178.top:9906/614991e2000e29550e7abc54c0c10ef6
-三立财经,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
-中天綜合,p5p://fccs.123178.top:9906/61494cc7000ea4840d6ccafbef48fe11
-中天娱樂,p5p://fccs.123178.top:9906/61495250000bf9d20d82697552901d6f
-中天亞洲,p5p://fccs.123178.top:9906/60449a27000cf419020d0e24d4fdafd9.ts	
-东森超视,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
-TVBS 歡樂,p5p://fccs.123178.top:9906/614942c70008d5e00d45b97fe1d761d3
-年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts	
-东森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
-东森戏剧,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
-东森电影,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
-东森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
-靖天育樂,p5p://fccs.123178.top:9906/60469f430002fd3e09f100f732da02a0.ts
-靖天育樂,p5p://fccs.123178.top:9906/60c5a45d000a99f910c459ab1ccabbf3
-纬來日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
-纬來戏剧,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-纬來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts	
-纬來体育,p5p://fccs.123178.top:9906/617505470005c9df02c8c6600f64eca5
-三立台湾,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
-三立都會,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
-衛视电影,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
-國興衛视,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts	
-JET 綜合,p5p://fccs.123178.top:9906/6149450a0008594b0d4e8f17d7ad923b
-八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
-八大戏剧,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
-八大綜合,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
-八大娱樂,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
-好萊塢电影,p5p://fccs.123178.top:9906/614953030008709d0d8523c592e3c647
-AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
-Cinemax,p5p://fccs.123178.top:9906/6149544b0008eb0b0d8a2524ddcf3ee6
-龍祥电影,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
-衛视中文,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
-纬來电影,p5p://fccs.123178.top:9906/614959e10009f39d0d9ff75817774dbe
-纬來綜合,p5p://fccs.123178.top:9906/614954e8000aa2000d8c8add3b487c6c
-TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af.ts
-纬來精彩,p5p://fccs.123178.top:9906/6044a30800006812022fb9d6202c684d.ts
-生命电视,p5p://fccs.123178.top:9906/60463d9a0001f1630873848a76accc36.ts
-华藏衛视,p5p://fccs.123178.top:9906/60463e4f0004c7480876484c7d16a8e0.ts
-星空衛视,p5p://fccs.123178.top:9906/60463ee9000522e20878a1f4688ea89f.ts
-人間衛视,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts	
-星空衛视,p5p://fccs.123178.top:9906/60eda96d000783c911d47fc0406d599e
-高點綜合,p5p://fccs.123178.top:9906/6149448d0007247b0d4ca68022a5f032
-东風衛视,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
-三立綜合,p5p://fccs.123178.top:9906/60441aa3000729ad001af109e515adad.ts
-三立戏剧,p5p://fccs.123178.top:9906/60441b4f00036f62001d8ff40f884e87.ts
-靖天歡樂,p5p://fccs.123178.top:9906/60c5a564000c898610c85d82cfc3a4e3
-靖天日本,p5p://fccs.123178.top:9906/6045b8aa000389cf066c3b7385e82ede.ts%20
-靖天资讯,p5p://fccs.123178.top:9906/6045b93800071301066e670ba6925741.ts
-靖洋戏剧,p5p://fccs.123178.top:9906/60441bcb000e6baf001f77240fd6acd8.ts
-靖天國际,p5p://fccs.123178.top:9906/60bd140b000e6170094be86cd1b01e57
-靖天电影,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
-Kantipur,p5p://fccs.123178.top:9906/61349379000143450a4ad11a33e7c5ab
-天映电影,p5p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts	
-星衛电影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
-美亞电影,p5p://fccs.123178.top:9906/60494bf1000472fc14638907b18fe55b.ts
-光影歐洲,p5p://fccs.123178.top:9906/604420030008e014002ff07922c6f89b.ts
-华艺影剧,p5p://fccs.123178.top:9906/61728417000b164612fb74944d3a5d26
-华艺MBC綜合,p5p://fccs.123178.top:9906/604421d400072b6600370871d6641107.ts
-星衛娱樂,p5p://fccs.123178.top:9906/6044229300000d0a0039f0b6a59d1511.ts
-TVBS精彩,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
-私人影院,p5p://fccs.123178.top:9906/612b76530005bddc0079e572c66e5249
-龍华影剧,p5p://fccs.123178.top:9906/604347a3000cc1fe06c2a567b371c0d6.ts
-龍华电影,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts	
-龍华洋片,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts	
-龍华戏剧,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts	
-龍华偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
-EYETV戏剧,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
-愛爾達影剧,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達綜合,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
-愛爾達体育1,p5p://fccs.123178.top:9906/617b742500015a6801fc459b61930f93
-愛爾達体育2,p5p://fccs.123178.top:9906/617b767a000873b0020563740ce34ccd
-愛爾達体育3,p5p://fccs.123178.top:9906/617b775e00020aaa0208dc70b179c11d
-霹靂台湾,p5p://fccs.123178.top:9906/61494391000129760d48cc98263e39d1
-旅游频道,p5p://fccs.123178.top:9906/604944bf0002e33c14476d50e1deb4e1.ts
-NBA,p5p://fccs.123178.top:9906/61728417000b164612fb74944d3a5d26
-龍华動畫,p5p://fccs.123178.top:9906/6044594300037550010f9116e9856cd9.ts
-博斯魅力,p5p://fccs.123178.top:9906/60445a120003530d0112b9a5dc60ca35.ts	
-Eleven運動1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
-Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
-Fight Sports,tvbus://3eWmpA35Hr5HXgWdjfzPMLgrWUinNVuZgztJtoSy28vc1x7qJM
-Eleven運動2,p5p://fccs.123178.top:9906/61495671000ab36e0d928a09ffb0ac85
-NHK World,p5p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
-美國高爾夫球,p5p://fccs.123178.top:9906/60447654000dbd4101811e203ac3ee9f.ts
-博斯高球1,p5p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
-博斯高球二,p5p://fccs.123178.top:9906/604477b3000746210186779063f54d2a.ts
-靖天綜合,p5p://fccs.123178.top:9906/614c7520000829c819c264fbe6b1d5dc
-博斯網球,p5p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
-博斯運動1,p5p://fccs.123178.top:9906/604478f0000e964f018b4fb7c6ee22b4.ts
-博斯運動 II,p5p://fccs.123178.top:9906/6044799300093dbb018dcb11ecf6cc03.ts
-靖天卡通,p5p://fccs.123178.top:9906/60bd172500015f0f095802a7f2bd13c9
-靖洋卡通,p5p://fccs.123178.top:9906/60bd169300057f1b0955c9653d8db6ac
-BOOMERANG,p5p://fccs.123178.top:9906/60447a4a00022e630190941a11afdf8e.ts
-靖天映畫,p5p://fccs.123178.top:9906/6045ba850003d28406737afe6daf6f4d.ts
-愛放動漫,p5p://fccs.123178.top:9906/60447b1e000e9a430193d36877b2a95b.ts
-曼迪日本,p5p://fccs.123178.top:9906/6068a12900029e3a13556dc2ad58c3d5.ts
-Dreamworks,p5p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
-Animax,p5p://fccs.123178.top:9906/611a8d5a000710970c22409682924b74
-MoMo親子,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
-CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
-东森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts	
-迪士尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
+MoMo综合,rtmp://59.124.75.157:1935/sat/tv761
 
 台视,p5p://fccs.mgiptv.top:19706/615cf10c0001987d0c5dbb55bf9bd6ed
 台视财经,p5p://fccs.mgiptv.top:19706/615cf1970005cb4c0c5fdb60d7e44abc
@@ -3578,6 +2456,16 @@ EBS 2,http://ye23.win/iptv/korea2021.php?id=EBS2
 EBS i,http://ye23.win/iptv/korea2021.php?id=EBSi
 EBS+2,http://ye23.win/iptv/korea2021.php?id=EBS_2
 EBS E,http://ye23.win/iptv/korea2021.php?id=EBS_E
+TOKYO MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+NHK WORLD JAPAN,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+群馬テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
+ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+日テレニュース24,https://www.news24.jp/livestream/index.m3u8
+Z频道,http://51.222.193.143:40004/3
+韩国娱乐KMTV,http://51.222.193.143:40004/4
+Boomerang,http://51.222.193.143:40004/5
+WarnerTV,http://51.222.193.143:40004/10
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 日本动画（越南语,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
 日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
@@ -3599,7 +2487,7 @@ NBS韩国农业部,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 动画高清,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 KBS 世界,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-KCTV 광주 CH05[1280*720],http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV 광주 CH05,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 여수MBC,https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
 日本QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 韩国EBS少儿频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
@@ -3621,7 +2509,6 @@ NHK WORLD,http://iptv.tvfix.org/hls/nhkworldzh.m3u8
 薄层色谱,http://50.7.61.147:30080/Entry/tlc
 WAKUWAKU JAPAN,http://59.125.101.187:8538/1.m3u8
 WAKUWAKU JAPAN,http://59.125.101.187:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-WAKUWAKU JAPAN,http://59.125.101.187:8538/http/192.168.77.24:8081/hls/61/803/ch03.m3u8
 WAKUWAKU JAPAN,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 日本新闻,https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -3636,168 +2523,6 @@ NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 NHK新闻,http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8
 NHK新闻,http://220.134.196.147:8587/http/116.50.42.18:8081/hls/62/804/ch06.m3u8
 
-Outdoor,p5p://45.92.126.18:9906/60434713000a12a206c07237b306369a
-ＢＳ釣りビジョン,p5p://45.92.126.18:9906/6163d87c000494010d63a6c83657671f
-日本旅游频道,p5p://45.92.126.18:9906/61304d2b000a9536136122700ecd28a5
-韩国娱乐台KMTV,p5p://45.92.126.18:9906/606bcab100003ef205c38d91720ec13b.ts
-tvN,p5p://45.92.126.18:9906/60440983000c3b9b09b7f844459e12ab.ts
-MTV Live,p5p://45.92.126.18:9906/60440af600097aa009bda0c8f60b1cae.ts	
-Channel V,p5p://45.92.126.18:9906/607396f000059e490994da3ca99473b4.ts
-Lifetime,p5p://45.92.126.18:9906/60440d6800025fd909c72c46337e9f6b.ts
-WAKUWAKU JAPAN,p5p://45.92.126.18:9906/6149539e0006e3320d8780d7a6f76be2
-NHK World HD,p5p://45.92.126.18:9906/6044741d0000e8b9017873ff81c638cb.ts
-NHK-総合,p5p://fccs.123178.top:9906/606ad628000168f9020856b5c61b191f.ts
-NHK-Eテレ,p5p://fccs.123178.top:9906/606ad7820005a9dc020d9f5c7b53d7d4.ts
-日テレ,p5p://fccs.123178.top:9906/606ad1b0000f259301f6e57a73c17bf6.ts
-フジテレビ,p5p://fccs.123178.top:9906/606ad3be000380a701fee92f192a715c.ts
-TOKYOMX,p5p://fccs.123178.top:9906/606ad3e4000d7baa01ff802d7df770e3.ts
-GREEN CHANNEL,p5p://fccs.123178.top:9906/606ad551000959fd020510e67c4baf0c.ts
-BSアニマックス,p5p://fccs.123178.top:9906/606ad7aa00025856020e3ac345df82b5.ts
-BSアニマックス,p5p://fccs.123178.top:9906/606ad57c000861930205b89ef48f3493.ts
-MBS毎日放送,p5p://fccs.123178.top:9906/606ad16a000616b301f5d1b861bbcdf6.ts
-MBS毎日放送,p5p://fccs.123178.top:9906/61334380000b077b052a6ef20a75cba9
-ホ-ムドラマチャンネル,p5p://fccs.123178.top:9906/606ad4b3000254650202a5ea92a8c504.ts
-テレビ大阪,p5p://fccs.123178.top:9906/606ad28c00016d0401fa3d56baa40d3b.ts
-読売テレビ,p5p://fccs.123178.top:9906/606ad2ae000221b901fac2557c559e4a.ts
-NHKBS1,p5p://fccs.123178.top:9906/606b4d900008402e03dac6b66eddb728.ts
-NHKBSプレミア,p5p://fccs.123178.top:9906/606ad22a0008ed1d01f8c0729861e9d9.ts
-Disney XD Japan,p5p://fccs.123178.top:9906/606b4eb7000372a103df45d3fd48b2de.ts
-Disney XD Japan,p5p://fccs.123178.top:9906/61302a8a0007ce5412d9dcd227424d50
-Music_Japan_TV,p5p://fccs.123178.top:9906/606ad50e000f420302040cb196c70d14.ts
-BSスカパー！,p5p://fccs.123178.top:9906/606ad3970005635201fe51528e8fc92e.ts
-BSフジ.181,p5p://fccs.123178.top:9906/606ad2cf000e304501fb46531e55a2fb.ts
-WOWOWライブ,p5p://fccs.123178.top:9906/606ad327000b1a7601fc9d49f763376b.ts
-WOWOWシネマ,p5p://fccs.123178.top:9906/606ad36000073ffc01fd7af4300db17f.ts
-スターチャンネ,p5p://fccs.123178.top:9906/606ad438000efb9d0200c8af4a74fd08.ts
-グリーンチャン,p5p://fccs.123178.top:9906/606ad45f000ef80b020161060a0ba882.ts
-TBSテレビ,p5p://fccs.123178.top:9906/606ad64e0006809c0208ec73cefee14b.ts
-関西テレビ,p5p://fccs.123178.top:9906/606ad18e00032f4601f65d9a65c73485.ts
-テレビ东京,p5p://fccs.123178.top:9906/606ad68b000227aa0209d99e10b32383.ts
-テレビ朝日,p5p://fccs.123178.top:9906/606ad6070006955b0207d72069cec474.ts
-WOWOWプライム,p5p://fccs.123178.top:9906/606ad2f200054abe01fbccc48b614ffb.ts
-ABSテレビ朝日,p5p://fccs.123178.top:9906/606ad26c000ca30e01f9c335103c65ce.ts
-日本映画専門,p5p://fccs.123178.top:9906/606ad7080002731a020bc1fa261255a8.ts
-时代剧専门チャンネル,p5p://fccs.123178.top:9906/606ad4870000e0650201f9aa2ac3ad99.ts
-ディズニーチャンネル,p5p://fccs.123178.top:9906/606ad7350009b854020c739e2f736ba0.ts
-スカイA,p5p://fccs.123178.top:9906/606ad4150004092602003d29e945df69.ts
-MBC,p5p://fccs.123178.top:9906/606bd6120002c11805f0011dd9394938.ts
-ＢＳ釣りビジョン,p5p://fccs.123178.top:9906/612b2de2000a5ad7193ec497cb88e49e
-鉄道チャンネル,p5p://fccs.123178.top:9906/61301f7e0002bdc212aeb4a6d540a053
-NEWS24,p5p://fccs.123178.top:9906/613021d7000a68ce12b7e24441f4cfb8
-スターチャンネル1,p5p://fccs.123178.top:9906/61302b6a000dc2ab12dd4958b77f833b
-スーパー！ドラマＴＶ ＨＤ,p5p://fccs.123178.top:9906/61302d73000db3a012e53c7cd1e9177a
-MONDO TV HD,p5p://fccs.123178.top:9906/61302e42000279f712e862347218a36c
-ゴルフネットワークHD,p5p://fccs.123178.top:9906/61302f090005152e12eb6c37eeae8bab
-ＢＢＣワールドニュース,p5p://fccs.123178.top:9906/61302fe50000be7512eec67bb4ac73da
-CNN/US HD,p5p://fccs.123178.top:9906/61303c280001e288131eac7e0db9e362
-Music Japan TV HD,p5p://fccs.123178.top:9906/61303dbc000608d41324d7aeeb17f2bc
-MUSIC ON! TV,p5p://fccs.123178.top:9906/61303f31000d10fd132a8a82dbf19fcf
-ヒストリーチャンネル? HD,p5p://fccs.123178.top:9906/61303ffe0001880e132da856261d98a3
-ＡＸＮ ＨＤ 海外ドラマ,p5p://fccs.123178.top:9906/613040a4000bb70013303362ae9777c0
-ＫＢＳ Ｗｏｒｌｄ ＨＤ,p5p://fccs.123178.top:9906/61304331000d8a17133a2aa16e1d178f
-NHK総合-大阪,p5p://fccs.123178.top:9906/6133457f00009c7a0532385f8fa04a87
-FIGHTING TV サムライ,p5p://fccs.123178.top:9906/61302321000a162312bceb3f5534a4ce
-スターチャンネル2,p5p://fccs.123178.top:9906/61302bf100033cee12df55fe298918e5
-アニマルプラネット,p5p://fccs.123178.top:9906/613023e6000a0a9d12bfecc45913b98d
-スターチャンネル３,p5p://fccs.123178.top:9906/61302cc00002634512e27e5f4198b069
-ムービープラスＨＤ,p5p://fccs.123178.top:9906/613046f80005a9981348e9f5a21874c2
-日テレG+ HD,p5p://fccs.123178.top:9906/613047c8000da191134c187f77f21fc5
-衛星剧場ＨＤ,p5p://fccs.123178.top:9906/61304873000e01d0134eb4904d6fb4b1
-ＧＡOＲＡ　ＨＤ,p5p://fccs.123178.top:9906/613049030004cca61350e4b58ee6c2a0
-ディスカバリーチャンネル,p5p://fccs.123178.top:9906/61304c42000cd1f9135d94da13743ea7
-ＷＯＷＯＷシネマ,p5p://fccs.123178.top:9906/61304e9b000de7111366c0c9937331df
-ＷＯＷＯＷライブ,p5p://fccs.123178.top:9906/61304f540009cbd713699264184e3d03
-ＷＯＷＯＷプライム,p5p://fccs.123178.top:9906/613052d00004a56c13772d73557bec0f
-テレ朝チャンネル２,p5p://fccs.123178.top:9906/6130534f000a1a9c13791ef03b67dca5
-テレ朝チャンネル１,p5p://fccs.123178.top:9906/613053d30008ee23137b2243f0fd5df7
-ミュージック?エア,p5p://fccs.123178.top:9906/61305515000a035f13800c5ae54329f3
-ＴＢＳチャンネル１,p5p://fccs.123178.top:9906/6130557b000b29c613819b16d82dba18
-フジテレビＮＥＸＴ,p5p://fccs.123178.top:9906/613056720008f74d13855f5e8d806907
-フジテレビＯＮＥ,p5p://fccs.123178.top:9906/613057db000b71fa138ae22888301964
-フジテレビＴＷＯ,p5p://fccs.123178.top:9906/613058a5000034b0138df45883905c5e
-銀河,p5p://fccs.123178.top:9906/613055f1000c34b11383684a54fba864
-NHK World HD,p5p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
-J SPORTS 1,p5p://fccs.123178.top:9906/606ad5bd0006520c0206b5ffd7614b79.ts
-J SPORTS 2,p5p://fccs.123178.top:9906/606ad5df000c1dc902073c4b588dd74d.ts
-J SPORTS 3,p5p://fccs.123178.top:9906/606ad6b1000f2f2a020a71640ab37d7f.ts
-J SPORTS 4,p5p://fccs.123178.top:9906/606ad6e40009cf36020b373c301e8c53.ts
-ＢＳ釣りビジョン,p5p://fccs.123178.top:9906/612b2de2000a5ad7193ec497cb88e49e.ts
-鉄道チャンネル,p5p://fccs.123178.top:9906/61301f7e0002bdc212aeb4a6d540a053.ts
-NEWS24,p5p://fccs.123178.top:9906/613021d7000a68ce12b7e24441f4cfb8.ts
-スターチャンネル1,p5p://fccs.123178.top:9906/61302b6a000dc2ab12dd4958b77f833b.ts
-スーパー！ドラマＴＶ ＨＤ,p5p://fccs.123178.top:9906/61302d73000db3a012e53c7cd1e9177a.ts
-MONDO TV HD,p5p://fccs.123178.top:9906/61302e42000279f712e862347218a36c.ts
-ゴルフネットワークHD,p5p://fccs.123178.top:9906/61302f090005152e12eb6c37eeae8bab.ts
-ＢＢＣワールドニュース,p5p://fccs.123178.top:9906/61302fe50000be7512eec67bb4ac73da.ts
-CNN/US HD,p5p://fccs.123178.top:9906/61303c280001e288131eac7e0db9e362.ts
-Music Japan TV HD,p5p://fccs.123178.top:9906/61303dbc000608d41324d7aeeb17f2bc.ts
-MUSIC ON! TV,p5p://fccs.123178.top:9906/61303f31000d10fd132a8a82dbf19fcf.ts
-ヒストリーチャンネル? HD,p5p://fccs.123178.top:9906/61303ffe0001880e132da856261d98a3.ts
-ＡＸＮ ＨＤ 海外ドラマ,p5p://fccs.123178.top:9906/613040a4000bb70013303362ae9777c0.ts
-ＫＢＳ Ｗｏｒｌｄ ＨＤ,p5p://fccs.123178.top:9906/61304331000d8a17133a2aa16e1d178f.ts
-FIGHTING TV サムライ,p5p://fccs.123178.top:9906/61302321000a162312bceb3f5534a4ce.ts
-スターチャンネル2,p5p://fccs.123178.top:9906/61302bf100033cee12df55fe298918e5.ts
-アニマルプラネット,p5p://fccs.123178.top:9906/613023e6000a0a9d12bfecc45913b98d.ts
-スターチャンネル３,p5p://fccs.123178.top:9906/61302cc00002634512e27e5f4198b069.ts
-ムービープラスＨＤ,p5p://fccs.123178.top:9906/613046f80005a9981348e9f5a21874c2.ts
-日テレG+ HD,p5p://fccs.123178.top:9906/613047c8000da191134c187f77f21fc5.ts
-衛星剧場ＨＤ,p5p://fccs.123178.top:9906/61304873000e01d0134eb4904d6fb4b1.ts
-ＧＡOＲＡ　ＨＤ,p5p://fccs.123178.top:9906/613049030004cca61350e4b58ee6c2a0.ts
-ディスカバリーチャンネル,p5p://fccs.123178.top:9906/61304c42000cd1f9135d94da13743ea7.ts
-旅チャンネルＨＤ,p5p://fccs.123178.top:9906/61304d2b000a9536136122700ecd28a5.ts
-ＷＯＷＯＷシネマ,p5p://fccs.123178.top:9906/61304e9b000de7111366c0c9937331df.ts
-ＷＯＷＯＷライブ,p5p://fccs.123178.top:9906/61304f540009cbd713699264184e3d03.ts
-テレ朝チャンネル２,p5p://fccs.123178.top:9906/6130534f000a1a9c13791ef03b67dca5.ts
-フジテレビＮＥＸＴ,p5p://fccs.123178.top:9906/613056720008f74d13855f5e8d806907.ts
-鉄道チャンネル,p5p://fccs.123178.top:9906/6163fa58000f19960de7ecd9276ed6b5
-NEWS24,p5p://fccs.123178.top:9906/6163fa82000ec77c0de890d444e4b40f
-FIGHTING TV サムライ,p5p://fccs.123178.top:9906/6163fa99000a67f70de8e98ec63704ec
-アニマルプラネット,p5p://fccs.123178.top:9906/6163faae000a32850de93b8843e13623
-Disney XD Japan,p5p://fccs.123178.top:9906/6163fad2000b65ef0de9c8776b55d158
-スターチャンネル1,p5p://fccs.123178.top:9906/6163fae4000bd7ae0dea0ee4a80d24c7
-スターチャンネル2,p5p://fccs.123178.top:9906/6163fafd00096e5e0dea6fee6382f378
-スターチャンネル３,p5p://fccs.123178.top:9906/6163fb11000589730deabd0e1d8365f7
-スーパー！ドラマＴＶ ＨＤ,p5p://fccs.123178.top:9906/6163fb280009d9b00deb18016bd980f2
-MONDO TV HD,p5p://fccs.123178.top:9906/6163fb410003bd290deb7819025833e7
-ゴルフネットワークHD,p5p://fccs.123178.top:9906/6163fb9b00058a0d0decd81f38470c0a
-ＢＢＣワールドニュース,p5p://fccs.123178.top:9906/6163fbc10003978e0ded6c0f0b629f55
-CNN/US HD,p5p://fccs.123178.top:9906/6163fbe0000960a10dede6a22930a24d
-Music Japan TV HD,p5p://fccs.123178.top:9906/6163fbf60005b93a0dee3ba3d634fd61
-MTV HD,p5p://fccs.123178.top:9906/6163fc0700066f0f0dee7e39db4999a5
-MUSIC ON! TV,p5p://fccs.123178.top:9906/617ca23b00078cb306984d21f662b04e
-ヒストリーチャンネル™ HD,p5p://fccs.123178.top:9906/6163fc38000b3a220def3edb417ca5a9	
-ＡＸＮ ＨＤ 海外ドラマ,p5p://fccs.123178.top:9906/6163fc4f000c36520def98f44de61dfd
-ナショナル ジオグラフィック チャンネル HD,p5p://fccs.123178.top:9906/6163fc96000b34c10df0ae0a77091af5
-ＫＢＳ Ｗｏｒｌｄ ＨＤ,p5p://fccs.123178.top:9906/6163fcab00042e720df0fe46ecd3493c
-FOX HD,p5p://fccs.123178.top:9906/6163fcc3000201850df15b77d1dfdfba
-东映チャンネルＨＤ,p5p://fccs.123178.top:9906/6163fcd90005fae50df1b26bfdb79ad3
-女性チャンネル♪LaLa TV(HD),p5p://fccs.123178.top:9906/6163fcee0004b9cd0df20421754ec672
-ムービープラスＨＤ,p5p://fccs.123178.top:9906/6163fd000005bc180df24ab3c125a950
-日テレG+ HD,p5p://fccs.123178.top:9906/6163fd1400035ae40df29837c446956d
-衛星剧場ＨＤ,p5p://fccs.123178.top:9906/6163fd28000509de0df2e6c6eb1cfbfe
-ＧＡOＲＡ　ＨＤ,p5p://fccs.123178.top:9906/6163fd3e000926800df33dc3dbb83a53
-フジテレビ,p5p://fccs.123178.top:9906/606ad3be000380a701fee92f192a715c.ts
-ザ・シネマＨＤ,p5p://fccs.123178.top:9906/6163fd51000eeceb0df38976ad19ebf2
-スカイ・A sports＋ ＨＤ,p5p://fccs.123178.top:9906/6163fd62000b33fb0df3caeab2643bc3
-ディスカバリーチャンネル,p5p://fccs.123178.top:9906/6163fd76000be6230df41937e513afe9
-旅チャンネルＨＤ,p5p://fccs.123178.top:9906/6163ef90000e2cc00dbdcf5dcb563908
-ホ-ムドラマチャンネル,p5p://fccs.123178.top:9906/606ad4b3000254650202a5ea92a8c504.ts
-ＷＯＷＯＷシネマ,p5p://fccs.123178.top:9906/6163efb60006ea500dbe61f1431b7474
-ＷＯＷＯＷライブ,p5p://fccs.123178.top:9906/6163efd7000071b40dbee1313fdc1060
-ＷＯＷＯＷプライム,p5p://fccs.123178.top:9906/6163eff400031a6c0dbf5327d5d57b51
-テレ朝チャンネル２,p5p://fccs.123178.top:9906/6163f010000380410dbfc0a10bbe559e
-テレ朝チャンネル１,p5p://fccs.123178.top:9906/6163f5a700075e190dd597768bf6b402
-ミュージック・エア,p5p://fccs.123178.top:9906/6163f5fd0001169a0dd6e5cb012f4d4a
-ＴＢＳチャンネル１,p5p://fccs.123178.top:9906/6163f6580007f0060dd84b0420c3bd2e
-銀河,p5p://fccs.123178.top:9906/6163f69200025edc0dd92c27c1094973
-フジテレビＮＥＸＴ,p5p://fccs.123178.top:9906/6163f6ac00001e830dd99123079962d0
-フジテレビＯＮＥ,p5p://fccs.123178.top:9906/6163f6e4000dfdf60dda6f7113350d44
-フジテレビＴＷＯ,p5p://fccs.123178.top:9906/6163f7040005306e0ddaea30ced35bcf
-J SPORTS 1,p5p://fccs.123178.top:9906/6163f826000d84c70ddf59224313dbf9
-J SPORTS 2,p5p://fccs.123178.top:9906/6163f84c00011a380ddfea64fb808978
-J SPORTS 3,p5p://fccs.123178.top:9906/6163f864000a6bb50de04a860b844554
-J SPORTS 4,p5p://fccs.123178.top:9906/6163f8d30006256b0de1fb065d8da9ca
-
 🌏全球海外,#genre#
 AXN,http://50.7.61.148:30080/Entry/axn
 HBO,http://50.7.61.148:30080/Entry/hbo
@@ -3810,43 +2535,7 @@ HBO高清,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 AXN电影,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 Cinemax,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 福克斯电影,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
-西洋电影,http://61.222.202.191/gt/gttv.php?id=11425&cid=11425
-亚洲电影,http://61.222.202.191/gt/gttv.php?id=11426&cid=11426
-电影原声,http://61.222.202.191/gt/gttv.php?id=14188&cid=14348
-欧洲电影,http://61.222.202.191/gt/gttv.php?id=14399&cid=14562
-最爱电影,http://61.222.202.191/gt/gttv.php?id=13624&cid=13776
-数位电影,http://61.222.202.191/gt/gttv.php?id=13695&cid=13848
-数位纪实,http://61.222.202.191/gt/gttv.php?id=14132&cid=14292
-CATCHPLAY电影,http://61.222.202.191/gt/gttv.php?id=14181&cid=14341
-ARIRAN阿里郎频道,http://61.222.202.191/gt/gttv.php?id=15810&cid=15973
-CATCHPLAY Beyond,http://61.222.202.191/gt/gttv.php?id=14401&cid=14564
-CATCHPLAY电影,http://61.222.202.191/gt/gttv.php?id=14183&cid=14343
-CNBC,http://61.222.202.191/gt/gttv.php?id=13693&cid=13846
-CNEX 文档频道,http://61.222.202.191/gt/gttv.php?id=13694&cid=13847
-CNN国际新闻,http://61.222.202.191/gt/gttv.php?id=13643&cid=13795
-CNN头条新闻,http://61.222.202.191/gt/gttv.php?id=13644&cid=13796
-电影世界,http://61.222.202.191/gt/gttv.php?id=14061&cid=14221
-达文西教学,http://61.222.202.191/gt/gttv.php?id=13625&cid=13777
-ELTV生活英语,http://61.222.202.191/gt/gttv.php?id=13983&cid=14136
-FUN精选电影院,http://61.222.202.191/gt/gttv.php?id=12451&cid=12444
-GINX电竞电视,http://61.222.202.191/gt/gttv.php?id=14397&cid=14560
-好电视一,http://61.222.202.191/gt/gttv.php?id=13696&cid=13849
-好电视二,http://61.222.202.191/gt/gttv.php?id=13711&cid=13864
-HITS频道,http://61.222.202.191/gt/gttv.php?id=14000&cid=14153
-LUXE 电视频道,http://61.222.202.191/gt/gttv.php?id=14398&cid=14561
-终生,http://61.222.202.191/gt/gttv.php?id=13664&cid=13817
 LiveABC互动英语频道,http://61.222.202.191/gt/gttv.php?id=15808&cid=15971
-热爱大自然,http://61.222.202.191/gt/gttv.php?id=14085&cid=14245
-宠物俱乐部电视,http://61.222.202.191/gt/gttv.php?id=15213&cid=15376
-摇滚至尊,http://61.222.202.191/gt/gttv.php?id=14084&cid=14244
-SBN全球财经,http://61.222.202.191/gt/gttv.php?id=13985&cid=14138
-智能知识,http://61.222.202.191/gt/gttv.php?id=14050&cid=14210
-史密森尼频道,http://61.222.202.191/gt/gttv.php?id=14184&cid=14344
-技术风暴,http://61.222.202.191/gt/gttv.php?id=15256&cid=15419
-追踪体育明星,http://61.222.202.191/gt/gttv.php?id=13704&cid=13857
-amc最爱电影,http://61.222.202.191/gt/gttv.php?id=14133&cid=14293
-i-Fun动漫,http://61.222.202.191/gt/gttv.php?id=13674&cid=13827
-历史2,http://61.222.202.191/gt/gttv.php?id=13640&cid=13792
 FOX频道,http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
 国家地理,http://59.125.101.187:8501/1.m3u8
 探索频道,http://211.23.114.106:8510/http /61.221.81.94:8088/hls/71/813/ch44.m3u8
@@ -3861,14 +2550,6 @@ TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 发现,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 旅游生活,http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
 动物星球,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
-德国之声电视,http://61.222.202.191/gt/gttv.php?id=14163&cid=14323
-东森财经新闻,http://61.222.202.191/gt/gttv.php?id=13636&cid=13788
-梅迪奇艺术频道,http://61.222.202.191/gt/gttv.php?id=13988&cid=14141
-空中英语教学,http://61.222.202.191/gt/gttv.php?id=13648&cid=13800
-美国之音,http://61.222.202.191/gt/gttv.php?id=13632&cid=13784
-麦卡贝运动2,http://61.222.202.191/gt/gttv.php?id=14062&cid=14222
-麦卡贝运动3,http://61.222.202.191/gt/gttv.php?id=18794&cid=18957
-麦卡贝运动频道,http://61.222.202.191/gt/gttv.php?id=13981&cid=14134
 tvN,http://iptv.tvfix.org/hls/tvn.m3u8
 Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
 Hands Up Channel,http://iptv.tvfix.org/hls/kid.m3u8
@@ -3897,7 +2578,6 @@ Atameken,http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u
 越南,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 Ytv,http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
 VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-越南PTP,http://113.161.4.48:8080/phuyen/tv.m3u8
 日本新闻24,http://www.news24.jp/livestream/index.m3u8
 越南坚江频道,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 OR音乐频道,http://rtmp.one.by:2200/
@@ -3941,269 +2621,26 @@ SONLA,https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 澎博财经,https://liveprodeuwest.akamaized.net:443/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 高清时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-高尔夫台,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 今日俄罗斯,https://rt-usa.gcdn.co:443/live/rtusa/playlist_4500Kb.m3u8
 法国国际台,http://v3plusinfo247hls-i.akamaihd.net:80/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 法国24新闻,http://f24hls-i.akamaihd.net:80/hls/live/221147/F24_EN_HI_HLS/01.m3u8
-
-HBO,p5p://45.92.126.18:9906/604340b2000af04c06a787875d674b81
-HBO 原创,p5p://45.92.126.18:9906/604339520007991f068ab7ad0427275f
-HBO 强档,p5p://45.92.126.18:9906/60442428000dc9020040224339113352
-HBO 家庭,p5p://45.92.126.18:9906/610b3ea6000bd4a6041b158a2a02ace5
-探索频道,p5p://45.92.126.18:9906/610b440f00018f2d04303511f19e7e5a
-探索亚洲,p5p://45.92.126.18:9906/60433ee00002fb7906a0692e6558cb55
-探索科学,p5p://45.92.126.18:9906/6043456f00065dec06ba08a499663c96
-探索动力,p5p://45.92.126.18:9906/6043467c000301e806be22909a147731
-探索家庭,p5p://45.92.126.18:9906/60689d110008d7a31345719a76b95329
-国家地理,p5p://45.92.126.18:9906/6043485f000c065106c583978afda437
-国家地理人文,p5p://45.92.126.18:9906/6043ffe3000c6f3709925f52585be323.ts
-国家野生,p5p://45.92.126.18:9906/604401050005fe790996ca7b4ed24991.ts
-动物星球,p5p://45.92.126.18:9906/60440362000e75bc09a007eeaa0519c7.ts
-狼谷竞技,p5p://45.92.126.18:9906/615cf384000c96f10c6762e6a78d90d1
-影迷数位电影,p5p://45.92.126.18:9906/6068a2650003dd4d135a407336ec164f.ts
-影迷数位纪实,p5p://45.92.126.18:9906/60494398000c2ccb1442ef592de01971.ts
-历史頻道,p5p://45.92.126.18:9906/6049468f0008dae6144e835756f6d068.ts
-历史頻道H2,p5p://45.92.126.18:9906/6049473c0005320614512630bb45841f.ts	
-BBC Lifestyle,p5p://45.92.126.18:9906/614955d2000d41ca0d901d9987bbb53c
-BBC Earth,p5p://45.92.126.18:9906/6044049e000eb7a609a4da5fcd30cc43.ts
-EYE TV旅遊,p5p://45.92.126.18:9906/60494553000b340f1449b191f22032d6.ts
-TLC旅遊台,p5p://45.92.126.18:9906/60440517000a918709a6b1f73be1eeb9.ts
-亚洲旅遊,p5p://45.92.126.18:9906/604405c80008412109a964c89ca82891.ts
-afc亚洲美食,p5p:/45.92.126.18:9906/6044065f0003bace09abb177a024828d.ts
-FOOD美食,p5p://45.92.126.18:9906/604407250006a38d09aeb7a6e70be747.ts
-幸福居家,p5p://45.92.126.18:9906/60bd15bb0008599f09527e60628a99c4
-时尚頻道,p5p://45.92.126.18:9906/61318fef00087c22184def86f768df3e
-美食星球,p5p://45.92.126.18:9906/604945ed00053a5b144c099a65029d36.ts
-Classica HD古典音乐,p2p://45.92.126.18:9906/60689dd9000cb8ae13487fd8feab0590.ts
-Mezzo Live,p5p://45.92.126.18:9906/6044084c000d934609b339c4b9e633ef.ts
-法国时装,p5p://45.92.126.18:9906/6131917c000da76e1853ffa122f43950
-MTV綜合,p5p://45.92.126.18:9906/604408e9000a103309b59e2621263caa.ts
-LUXE奢华頻道,p5p://45.92.126.18:9906/60689d7b000b57f61347104e33aa1e24.ts
-
-FOX 警匪,p5p://45.92.126.18:9906/60440e1600029d1f09c9d406f98d5158.ts
-FOX 頻道,p5p://45.92.126.18:9906/60440eb10006690c09cc32777254e90a.ts
-FX-HD,p5p://45.92.126.18:9906/60440f3c000c153709ce52e28565fc29.ts
-Bein sports 1,p5p://45.92.126.18:9906/6165658200031117137285d54842b1b6
-FOX 优质,p5p://45.92.126.18:9906/6173bd080007071617c1e0f237fbb6b4	
-Bein sports 2,p5p://45.92.126.18:9906/615ce3e1000a9ab80c2a4dac8efd70b5
-采昌影剧,p5p://45.92.126.18:9906/604411ec0004d59109d8d087e9645ce6.ts
-GAGLE EYE,p5p://45.92.126.18:9906/615ce4500007ece30c2bfe9463f0390e
-thrill电影,p5p://45.92.126.18:9906/604413240002c04b09dd92bffd4adc1b.ts
-KIX电影台,p5p://45.92.126.18:9906/6044145c000e8fb900026d95dbb7683a.ts
-罪案偵緝頻道,p5p://45.92.126.18:9906/604947cc00047a751453588132b90a12.ts
-华納Warner TV,p5p://45.92.126.18:9906/604414f400055b780004bcfa6ee82d22.ts
-CinemaWorld,p5p://45.92.126.18:9906/604415aa00054259000783e434297e54.ts
-衛视西片,p5p://45.92.126.18:9906/604416620003377d000a521e160e3141.ts
-BLUE ANT EXTREME,p5p://45.92.126.18:9906/60441771000d4807000e774ad2f62e16.ts
-Comedy Central Asia,p5p://45.92.126.18:9906/6044183b000d06f700118c4956df7f03.ts
-CatchPlay电影,p5p://45.92.126.18:9906/6044191d000d8b620014ff3bef2f4594	.ts
-欧洲Euronews,p5p://45.92.126.18:9906/6176aabc000c8d3309371923ea87bfc9
-Sports Plus1,p5p://45.92.126.18:9906/615cf47c000780400c6b2a5874b20000
-AXN,p5p://45.92.126.18:9906/6044d92d0004949903033b6f41d556d0.ts
-Cinemax,p5p://45.92.126.18:9906/6149544b0008eb0b0d8a2524ddcf3ee6
-TV5 Monde,p5p://45.92.126.18:9906/6046414f0008aa040882014b96694a71.ts
-CNN Internationa,p5p://45.92.126.18:9906/614941fe0007b8690d42a80e92bf1540
-BBC WORLD NEWS,p5p://45.92.126.18:9906/60464299000eba8708870be862b68160.ts
-Channel NewsAsia頻道,p5p://45.92.126.18:9906/604643330003bf3e088962a9042b90c4.ts
-CNBC Asia,p5p://45.92.126.18:9906/604643c100068849088b8e0fef813f1c.ts
-France 24,p5p://45.92.126.18:9906/616564d400040306136fde623656c5e4
-Sports Plus1,p5p://fccs.123178.top:9906/615cf47c000780400c6b2a5874b20000
-HBO 原創,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f.ts
-HBO 强档,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352.ts
-thrill电影,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
-KIX电影,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
-Fox Movies,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
-Fox Movies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
-Outdoor,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3.ts
-HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab.ts
-探索频道,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
-探索动力,p5p://fccs.123178.top:9906/6043467c000301e806be22909a147731.ts
-动物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
-狼谷育乐,p5p://fccs.123178.top:9906/6045b7460004ba730666cd212d07958d.ts
-TLC旅游,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
-亚洲旅游,p5p://fccs.123178.top:9906/604405c80008412109a964c89ca82891.ts
-afn亚洲美食,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
-法国时装,p5p://fccs.123178.top:9906/6131917c000da76e1853ffa122f43950.ts
-时尚频道,p5p://fccs.123178.top:9906/61318fef00087c22184def86f768df3e.ts
-BBC World News,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-TV5 Monde,p5p://fccs.123178.top:9906/6046414f0008aa040882014b96694a71.ts
-BBC WORLD NEWS,p5p://fccs.123178.top:9906/60464299000eba8708870be862b68160.ts
-Disney XD Japan,p5p://fccs.123178.top:9906/61302a8a0007ce5412d9dcd227424d50.ts
-BBC lifestyle,p5p://fccs.123178.top:9906/604347a3000cc1fe06c2a567b371c0d6.ts
-Cinemax,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts	
-ANIMAX,p5p://fccs.123178.top:9906/606b4e4f0004a33a03ddafe180ec2c65.ts
-FOX,p5p://fccs.123178.top:9906/6130442d0000201d133dff92bc0fef39
-Fox 家庭,p5p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
-Fox 家庭,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
-HBO 原创,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
-HBO 强档,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
-HBO 家庭,p5p://fccs.123178.top:9906/604339d800036fb3068cc20c2898df9c
-FOX 动作,p5p://fccs.123178.top:9906/60440fd1000e6f3b09d0998515d1967d.ts
-华納Warner TV,p5p://fccs.123178.top:9906/604414f400055b780004bcfa6ee82d22.ts
-CinemaWorld,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
-衛视西片,p5p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
-BLUE ANT EXTREME,p5p://fccs.123178.top:9906/60441771000d4807000e774ad2f62e16.ts
-Comedy Central Asia,p5p://fccs.123178.top:9906/6044183b000d06f700118c4956df7f03.ts
-KIDZON HD,tvbus://35bvYywJWcByGGxaNRUtEYqQ29CX2bC7SmMnNNzpk3MgHpAeac
-NBA体育,p5p://0198.02686.cc:16871/5f37fa45000952ee4322cd372e7f83d7
-K PLUS,p5p://0198.02686.cc:16871/5f380ea60005e9564372673f4fa697fd
-FS2,p5p://0198.02686.cc:16871/5f380e240003cc3b43706ae59184d531
-FOX体育2,p5p://0198.02686.cc:16871/5f2fad7f0006356c22b6e6fb18281642
-技擊運动,p5p://0198.02686.cc:16871/5f3805dd0003b40b43501587f25789b3
-国家地理悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
-罪案偵緝,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
-愛奇艺,p5p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts
-AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
-AOD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
-双星,p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
-欢喜台,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
-小太陽,p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts
-ONe,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
-BOOMERANG,p5p://fccs.123178.top:9906/60447a4a00022e630190941a11afdf8e.ts
-愛放动漫,p5p://fccs.123178.top:9906/60447b1e000e9a430193d36877b2a95b.ts
-曼迪日本,p5p://fccs.123178.top:9906/6068a12900029e3a13556dc2ad58c3d5.ts
-Dreamworks,p5p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
-Dreamworks,p5p://fccs.123178.top:9906/604477b3000746210186779063f54d2a.ts
-Animax,p5p://fccs.123178.top:9906/60447df7000cbc13019ef29677465e40.ts
-Animax,p5p://fccs.123178.top:9906/611a8d5a000710970c22409682924b74
-CatchPlay电影,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594	.ts
-CatchPlay电影,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594%20.ts
-WakuWakuJapan,p5p://fccs.123178.top:9906/604419f4000340840018447096a9f004.ts
-欧洲Euronews,p5p://fccs.123178.top:9906/60469e39000981f109ecf392ea2309d5.ts
-FOX 警匪,p5p://fccs.123178.top:9906/60440e1600029d1f09c9d406f98d5158.ts
-Outdoor,p5p://fccs.123178.top:9906/60434713000a12a206c07237b306369a
-Outdoor,p5p://fccs.123178.top:9906/60434713000a12a206c07237b306369a.ts
-FX-HD,p5p://fccs.123178.top:9906/60440f3c000c153709ce52e28565fc29.ts
-FX-HD,p2p://fccs.123178.top:98906/60440f3c000c153709ce52e28565fc29.ts
-HBO 家庭,p5p://fccs.123178.top:9906/610b3ea6000bd4a6041b158a2a02ace5
-探索频道,p5p://fccs.123178.top:9906/60433c22000c069b0695b54fa99695c8
-探索亚洲,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55
-探索亚洲,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55.ts
-探索科学,p5p://fccs.123178.top:9906/6043456f00065dec06ba08a499663c96
-探索家庭,p5p://fccs.123178.top:9906/60689d110008d7a31345719a76b95329
-国家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
-国家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
-国家地理人文,p5p://fccs.123178.top:9906/6043ffe3000c6f3709925f52585be323.ts
-国家野生,p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
-CNN Internationa,p5p://fccs.123178.top:9906/604641f8000e2252088496d9f8a5ad44.ts
-BBC Lifestyle,p5p://fccs.123178.top:9906/604403fd0002ca1a09a262690b80ac95.ts
-Channel NewsAsia頻道,p5p://fccs.123178.top:9906/604643330003bf3e088962a9042b90c4.ts
-CNBC Asia,p5p://fccs.123178.top:9906/604643c100068849088b8e0fef813f1c.ts
-VIE TV,p5p://fccs.123178.top:9906/61653e5f000689fa12d9a6009d77a29d
-Vien Thao TV,p5p://fccs.123178.top:9906/61653fc00005fd1212df08c404bbd366
-Tviet Network,p5p://fccs.123178.top:9906/616540140006601812e050fd68e35b94
-iMovie HD,p5p://fccs.123178.top:9906/616544cf000d213e12f2cd30ae3e15fa
-FBNC HD,p5p://fccs.123178.top:9906/6165452f00000a0712f440d62693ccca
-Quốc Hội HD,p5p://fccs.123178.top:9906/61654a90000125cc1309440733b0129c
-Thông Tấn Xã Việt Nam,p5p://fccs.123178.top:9906/61654ac50008b7dc130a14fffb820bde
-CNN,p5p://fccs.123178.top:9906/616540e1000379c612e37107b5b75c0b
-BBC Earth HD,p5p://fccs.123178.top:9906/616540fa0006e63f12e3d390430b19b7
-BBC News,p5p://fccs.123178.top:9906/616541100002c5f412e42871dce9c076
-BBC Lifestyle,p5p://fccs.123178.top:9906/61654125000bf07512e47cd210f0d3f6
-Bloomberg,p5p://fccs.123178.top:9906/61654137000ea57c12e4c3d33f38fbea
-Discovery HD,p5p://fccs.123178.top:9906/6165416a000e027b12e58ae209743984
-Travel-Living HD,p5p://fccs.123178.top:9906/616542dd0008b51c12eb32be1e9c0207
-HTVC Du Lịch,p5p://fccs.123178.top:9906/616550d7000c0a511321cc2990016e33
-HTVC Phụ Nữ,p5p://fccs.123178.top:9906/61655145000104b1132377067b35faa1
-France 24,p5p://fccs.123178.top:9906/6165523c0005fb5913273d24c173b87a
-VTV1 HD,p5p://fccs.123178.top:9906/61654b48000b7ac7130c156c3af5b1e5
-VTC7,p5p://fccs.123178.top:9906/61654d42000d0d3e1313ce635309015d	
-VTV4 HD,p5p://fccs.123178.top:9906/61655007000c77c5131e9fc5f8c39f19	
-VTV5 HD,p5p://fccs.123178.top:9906/6165502f000cd663131f3c1d46f0c094	
-VTV7 HD,p5p://fccs.123178.top:9906/6165504000038b7f131f7c241c7b0177	
-Phú Thọ HD,p5p://fccs.123178.top:9906/617291f80009da0b1331ab2b3331b776
-Cà Mau HD,p5p://fccs.123178.top:9906/6172922e000c97b313327ecf379d1e80
-Bình Dương 2 HD,p5p://fccs.123178.top:9906/6183a3a9000d56870823ccab88ce013a
-Trà Vinh HD,p5p://fccs.123178.top:9906/61729322000dd25d1336383fa8fad971
-Trans7,p5p://fccs.123178.top:9906/61871d36000bf82715b69b197d23d5de
-MNC TV,p5p://fccs.123178.top:9906/61655d6700067d9f1352dd3ddd39ede4	
-RCTI,p5p://fccs.123178.top:9906/61655d91000175e613538003db9eabcf	
-ANTV,p5p://fccs.123178.top:9906/61655ddd000887f41354aab33eed3673		
-MY-Useesport1,p5p://fccs.123178.top:9906/61655e02000dad4013553c8cc0f73016	
-Champions 2,p5p://fccs.123178.top:9906/61655e200007c2bf1355b0389c313d61	
-Champions 1,p5p://fccs.123178.top:9906/61655e3400048b1b1355fd85bc17dc4e	
-KBS WorlD,p5p://fccs.123178.top:9906/61655f0a0001ee25135940ca9b5ac0ce	
-TV9 NU,p5p://fccs.123178.top:9906/6183b6200004fee5086beb60ccee4564
-Fox Movies Action,p5p://fccs.123178.top:9906/616560750004a2ee135ecb73ed40a894	
-FOX Movie,p5p://fccs.123178.top:9906/61656082000dde7d135f0098cd0d855e	
-Cartoon Network,p5p://fccs.123178.top:9906/6165610d00061e1f13611d9462491f94	
-CCM,p5p://fccs.123178.top:9906/6165613b0004c1b61361d0ebf6b54882	
-Berita Satu,p5p://fccs.123178.top:9906/616561ec000b36de136485fa946bb936
-Lifetime,p5p://fccs.123178.top:9906/616561ff000bdea81364d05d41be910e	
-FOX Family Mov,p5p://fccs.123178.top:9906/616562800001f11f1366c5bbc8f968bd		
-HBO Hits,p5p://fccs.123178.top:9906/616562ee0005b92713687463321cb4d0	
-HBO Singature,p5p://fccs.123178.top:9906/61656300000efd9c1368bd121d8e6fa4	
-HBO Family,p5p://fccs.123178.top:9906/61656318000d926213691a75fde79ae8	
-HGTV,p5p://fccs.123178.top:9906/6165638f000792c5136ae9c4c6ce9c4e	
-iNews,p5p://fccs.123178.top:9906/616563a6000b8631136b449fc97c1eb5	
-Muslin,p5p://fccs.123178.top:9906/616563d0000b2314136be89528f1689f	
-HBO,p5p://fccs.123178.top:9906/616565140005033f1370d8a41ccc3201	
-Bein Sport 1,p5p://fccs.123178.top:9906/6165658200031117137285d54842b1b6	
-KIX,p5p://fccs.123178.top:9906/616566670008f07e137605ddefea23ec	
-Bioskop,p5p://fccs.123178.top:9906/617283a200000b8e12f9a8b81381e1a6
-Horee,p5p://fccs.123178.top:9906/617283dc0008834712fa8d73146ce99b
-HBO-HD,p5p://fccs.123178.top:9906/604340b2000af04c06a787875d674b81
-HBO原创,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
-HBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
-HBO 家庭,p5p://fccs.123178.top:9906/610b3ea6000bd4a6041b158a2a02ace5
-探索频道,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a
-探索亞洲频道,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55
-探索科學,p5p://fccs.123178.top:9906/6043456f00065dec06ba08a499663c96
-探索動力 DMAX,p5p://fccs.123178.top:9906/6043467c000301e806be22909a147731
-探索家庭 EVE,p5p://fccs.123178.top:9906/60689d110008d7a31345719a76b95329
-Outdoor,p5p://fccs.123178.top:9906/60434713000a12a206c07237b306369a
-ＢＳ釣りビジョン,p5p://fccs.123178.top:9906/6163d87c000494010d63a6c83657671f
-國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
-國家地理人文,p5p://fccs.123178.top:9906/6043ffe3000c6f3709925f52585be323.ts
-國家野生,p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
-動物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
-狼谷競技,p5p://fccs.123178.top:9906/615cf384000c96f10c6762e6a78d90d1
-视納华仁紀實台,tvbus://3BWP6X6HKY3jp6JHbqRBRSAxtoFRsF4iWQ3KeoCAc2cjmZgVLL
-影迷數位电影台,p5p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
-影迷數位紀實台,p5p://fccs.123178.top:9906/60494398000c2ccb1442ef592de01971.ts
-歷史頻道,p5p://fccs.123178.top:9906/6049468f0008dae6144e835756f6d068.ts
-歷史頻道H2,p5p://fccs.123178.top:9906/6049473c0005320614512630bb45841f.ts	
-BBC Lifestyle,p5p://fccs.123178.top:9906/614955d2000d41ca0d901d9987bbb53c
-BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
-日本旅游频道,p5p://fccs.123178.top:9906/61304d2b000a9536136122700ecd28a5
-EYE TV旅遊台,p5p://fccs.123178.top:9906/60494553000b340f1449b191f22032d6.ts
-TLC旅遊台,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
-亞洲旅遊,p5p://fccs.123178.top:9906/604405c80008412109a964c89ca82891.ts
-afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
-FOOD美食,p5p://fccs.123178.top:9906/604407250006a38d09aeb7a6e70be747.ts
-幸福居家,p5p://fccs.123178.top:9906/60bd15bb0008599f09527e60628a99c4
-時尚瘋高清頻道,p5p://fccs.123178.top:9906/61318fef00087c22184def86f768df3e
-美食星球,p5p://fccs.123178.top:9906/604945ed00053a5b144c099a65029d36.ts
-MTV HD,tvbus://31mfwjxXeK2sUVMvLLB7SeuyB91K1dhw1wNNkegSCb1cN39MyX
-Classica HD古典音樂,p5p://fccs.123178.top:9906/60689dd9000cb8ae13487fd8feab0590.ts
-Mezzo Live,p5p://fccs.123178.top:9906/6044084c000d934609b339c4b9e633ef.ts
-法國時裝,p5p://fccs.123178.top:9906/6131917c000da76e1853ffa122f43950
-MTV綜合,p5p://fccs.123178.top:9906/604408e9000a103309b59e2621263caa.ts
-LUXE奢华頻道,p5p://fccs.123178.top:9906/60689d7b000b57f61347104e33aa1e24.ts
-韓國娱樂台KMTV,p5p://fccs.123178.top:9906/606bcab100003ef205c38d91720ec13b.ts
-tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
-MTV Live,p5p://fccs.123178.top:9906/60440af600097aa009bda0c8f60b1cae.ts	
-Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
-Lifetime,p5p://fccs.123178.top:9906/60440d6800025fd909c72c46337e9f6b.ts
-FOX CRIME福斯警匪,p5p://fccs.123178.top:9906/60440e1600029d1f09c9d406f98d5158.ts
-FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
-FX-HD,p5p://fccs.123178.top:9906/60440f3c000c153709ce52e28565fc29.ts
-Bein sports 1,p5p://fccs.123178.top:9906/6165658200031117137285d54842b1b6
-FOX優質电影台,p5p://fccs.123178.top:9906/6173bd080007071617c1e0f237fbb6b4	
-Bein sports 2,p5p://fccs.123178.top:9906/615ce3e1000a9ab80c2a4dac8efd70b5
-采昌影剧,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
-GAGLE EYE,p5p://fccs.123178.top:9906/615ce4500007ece30c2bfe9463f0390e
-thrill电影台,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
-KIX电影台,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
-罪案偵緝頻道,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
-华納Warner TV,p5p://fccs.123178.top:9906/604414f400055b780004bcfa6ee82d22.ts
-CinemaWorld,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
-衛视西片,p5p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
-BLUE ANT EXTREME,p5p://fccs.123178.top:9906/60441771000d4807000e774ad2f62e16.ts
-Comedy Central Asia,p5p://fccs.123178.top:9906/6044183b000d06f700118c4956df7f03.ts
-CatchPlay电影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594	.ts
-WAKUWAKU JAPAN,p5p://fccs.123178.top:9906/6149539e0006e3320d8780d7a6f76be2
-歐洲Euronews,p5p://fccs.123178.top:9906/6176aabc000c8d3309371923ea87bfc9
+Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+CNBCHongKong,http://211.23.114.106:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
+BloombergTV,http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8
+Babes TV HD,http://37.19.203.217:8085/udp/239.10.10.69:5000
+Dorcel TV HD,http://37.19.203.217:8085/udp/239.10.10.155:5000
+Eroxxx HD,http://37.19.203.217:8085/udp/239.10.10.164:5000
+Hustler HD,http://37.19.203.217:8085/udp/239.100.10.58:5000
+wakuwaku,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+卫视中文,http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
+NHK,http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8
+卫视电影,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
+Star Movies Gold,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
+Discovery,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+Animax,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
+HBO,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+CINEMAX,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
+AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 
 Travel 旅游频道,p5p://fccs.mgiptv.top:19706/604944bf0002e33c14476d50e1deb4e1.ts
 NBA,p5p://fccs.mgiptv.top:19706/61728417000b164612fb74944d3a5d26
@@ -4284,8 +2721,11 @@ WAKUWAKU JAPAN,p5p://fccs.mgiptv.top:19706/6149539e0006e3320d8780d7a6f76be2
 欧洲Euronews,p5p://fccs.mgiptv.top:19706/6176aabc000c8d3309371923ea87bfc9
 
 🎭剧场频道,#genre#
-
-松鼠动作,http://106.53.212.251/daili/bili.php?id=6827037
+长津湖,https://vod.pipi.cn/8f6897d9vodgzp1251246104/882a6b98387702293846842541/f0.mp4
+长津湖,https://cdn.oss-cn-chengdu.myqcloud.com.zhegeyuming.top/m3u8/1641010714071.m3u8
+长津湖,https://yuncache.52e.cc/m3u8/e06c0ce1fce0eb8d1243d95cd57c9ace.m3u8
+高清电影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+辽沈战役,https://www2.88zy.live/20190813/%E8%BE%BD%E6%B2%88%E6%88%98%E5%BD%B9/index.m3u8
 盗墓方法论,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
 试胆大会,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
 高能烧脑时刻,http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
@@ -4323,7 +2763,6 @@ HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
 超级电视剧,http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8
 超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-香港鬼片,http://cn-sdjn3-cu-live-01.bilivideo.com/live-bvc/874778/live_22989278_9714011_1500.m3u8
 电影,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 虎牙港剧,https://txtest-xp2p.p2p.huya.com/huylive/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1_2000.xs
 中国功夫,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/1.m3u8
