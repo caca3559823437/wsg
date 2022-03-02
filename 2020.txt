@@ -505,17 +505,17 @@ CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 
 🇭🇰香港频道,#genre#
-凤凰中文,http://xztv.putids.com:80/user/dl/llllwww.php?id=24
-凤凰中文,http://xztv.putids.com:80/user/dl/llllwww.php?id=25
 凤凰资讯,http://xztv.putids.com:80/user/dl/llllwww.php?id=26
 凤凰资讯,http://xztv.putids.com:80/user/dl/llllwww.php?id=27
+凤凰中文,http://xztv.putids.com:80/user/dl/llllwww.php?id=24
+凤凰中文,http://xztv.putids.com:80/user/dl/llllwww.php?id=25
 凤凰香港,http://xztv.putids.com:80/user/dl/llllwww.php?id=28
 翡翠台,http://xztv.putids.com:80/user/dl/llllwww.php?id=0
 翡翠台,http://xztv.putids.com:80/user/dl/llllwww.php?id=1
 无线新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=3
 无线新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=4
 明珠台,http://xztv.putids.com:80/user/dl/llllwww.php?id=5
-TVB经典台,http://xztv.putids.com:80/user/dl/llllwww.php?id=6
+TVB经典,http://xztv.putids.com:80/user/dl/llllwww.php?id=6
 无线财经,http://xztv.putids.com:80/user/dl/llllwww.php?id=7
 J2,http://xztv.putids.com:80/user/dl/llllwww.php?id=8
 J2,http://xztv.putids.com:80/user/dl/llllwww.php?id=9
@@ -525,10 +525,10 @@ C+,http://xztv.putids.com:80/user/dl/llllwww.php?id=12
 ViuTV,http://xztv.putids.com:80/user/dl/llllwww.php?id=13
 ViuTV,http://xztv.putids.com:80/user/dl/llllwww.php?id=14
 ViuTV6,http://xztv.putids.com:80/user/dl/llllwww.php?id=15
-Now新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=16
-Now直播,http://xztv.putids.com:80/user/dl/llllwww.php?id=17
-Now财经,http://xztv.putids.com:80/user/dl/llllwww.php?id=18
-Now体育,http://xztv.putids.com:80/user/dl/llllwww.php?id=19
+NOW新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=16
+NOW直播,http://xztv.putids.com:80/user/dl/llllwww.php?id=17
+NOW财经,http://xztv.putids.com:80/user/dl/llllwww.php?id=18
+NOW体育,http://xztv.putids.com:80/user/dl/llllwww.php?id=19
 港版美亚(国),http://xztv.putids.com:80/user/dl/llllwww.php?id=20
 港版美亚(粤),http://xztv.putids.com:80/user/dl/llllwww.php?id=21
 TVB功夫(粤),http://xztv.putids.com:80/user/dl/llllwww.php?id=22
@@ -537,7 +537,7 @@ TVB功夫(国),http://xztv.putids.com:80/user/dl/llllwww.php?id=23
 有线新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=30
 有线新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=31
 有线财经,http://xztv.putids.com:80/user/dl/llllwww.php?id=32
-香港603,http://xztv.putids.com:80/user/dl/llllwww.php?id=33
+有线603,http://xztv.putids.com:80/user/dl/llllwww.php?id=33
 有线18台,http://xztv.putids.com:80/user/dl/llllwww.php?id=34
 有线体育,http://xztv.putids.com:80/user/dl/llllwww.php?id=35
 天映经典,http://xztv.putids.com:80/user/dl/llllwww.php?id=36
@@ -546,6 +546,39 @@ TVB功夫(国),http://xztv.putids.com:80/user/dl/llllwww.php?id=23
 星空卫视,http://xztv.putids.com:80/user/dl/llllwww.php?id=39
 RTHK31,http://xztv.putids.com:80/user/dl/llllwww.php?id=40
 RTHK32,http://xztv.putids.com:80/user/dl/llllwww.php?id=41
+
+凤凰资讯,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=99&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+凤凰中文,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=100&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+凤凰香港,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=98&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+开电视,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=95&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+香港卫视,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=93&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+翡翠台,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+明珠台,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=77&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+J2,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+无线新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+无线财经,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=79&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+TVB星河,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=76&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+有线新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=62&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+有线18台,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=59&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+有线603,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=92&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+RTHK32,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=97&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+viutv,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=94&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+凤凰资讯,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=099&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+凤凰中文,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=100&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+凤凰香港,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=098&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+开电视,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=095&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+香港卫视,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=093&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+翡翠台,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=078&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+明珠台,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=077&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+2,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=074&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+无线新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=073&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+无线财经,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=079&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+TVB星河,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=076&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+有线新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=062&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+有线18台,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=059&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+有线603,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=092&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+RTHK32,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=097&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+viutv,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=094&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
@@ -628,12 +661,12 @@ NOW新闻,http://hh0808.hk3.20212021.ml/iptv.php?tid=gt&id=16
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 国际财经,http://iptv.tvfix.org/hls/hkibc.m3u8
 国际财经,http://iptv.tvfix.org:80/hkdtmb/76/index.m3u8
-TVB星河台,http://iptv.tvfix.org/hls/tvbxh2.m3u8
-TVB星河台,http://iptv.tvfix.org/hls/tvbxh.m3u8
-TVB星河台,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
-TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
-TVB功夫台,http://iptv.tvfix.org/hls/tvbkf.m3u8
-TVB功夫台,http://iptv.tvfix.org/hls/tvbkf2.m3u8
+TVB星河,http://iptv.tvfix.org/hls/tvbxh2.m3u8
+TVB星河,http://iptv.tvfix.org/hls/tvbxh.m3u8
+TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+TVB经典,http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB功夫,http://iptv.tvfix.org/hls/tvbkf.m3u8
+TVB功夫,http://iptv.tvfix.org/hls/tvbkf2.m3u8
 TVB为食,http://iptv.tvfix.org/hls/tvbws.m3u8
 TVB直播,http://111.229.84.232/yulin/tvb.php?id=3
 有线财经,https://api.leonardpark.dev/live/icable/108
@@ -696,7 +729,7 @@ AATtv,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 有线体育,rtmp://59.124.75.157/sat/hk011
 
 🇹🇼台湾频道,#genre#
-TVBS,http://xztv.putids.com:80/user/dl/llllwww.php?id=42
+TVBS HD,http://xztv.putids.com:80/user/dl/llllwww.php?id=42
 TVBS新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=43
 中天新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=44
 中天新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=45
@@ -709,10 +742,41 @@ TVBS新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=43
 中视新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=52
 民视新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=53
 寰宇台湾,http://xztv.putids.com:80/user/dl/llllwww.php?id=54
-寰宇新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=54
+寰宇新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=55
 年代新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=56
 壹新闻台,http://xztv.putids.com:80/user/dl/llllwww.php?id=57
 非凡新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=58
+
+TVBS HD,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+TVBS新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=38&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+民视新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中视新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=19&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+东森新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+年代新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+非凡新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+壹新闻台,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=34&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+TVBS HD,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=037&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+TVBS新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=038&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+民视新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=05&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中视新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=019&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+东森新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=033&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+年代新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=07&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=042&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=026&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+非凡新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=06&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+壹新闻台,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=034&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+公视HD,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+民视HD,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+台视HD,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=45&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+华视HD,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中视HD,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+公视HD,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=043&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+民视HD,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=044&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+台视HD,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=045&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+华视HD,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=046&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中视HD,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=047&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
 年代新闻,http://hd0808.top/hky.php?id=7
 年代新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=56
@@ -4496,3 +4560,4 @@ BEAST蔡依琳,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.m
 快手美女613,http://txmov2.a.yximgs.com/upic/2018/09/29/20/BMjAxODA5MjkyMDQ4NTBfNzMwNTM2NzJfODIzNzYxMTQ0N18xXzM=_b_Bd064977cb709c479c1f48e3c69481c91.mp4
 快手美女614,http://jsmov2.a.yximgs.com/upic/2019/03/20/22/BMjAxOTAzMjAyMjIzMDlfNzEzNzc4ODNfMTE1NDg3MzQ4MDlfMV8z_b_B381b5bc5cc257cd7a5f25e1a1a109bb7.mp4
 快手美女615,http://txmov2.a.yximgs.com/upic/2019/05/04/21/BMjAxOTA1MDQyMTM4MDRfMTEzNzQyNTgxNF8xMjc4Mjg0NDY5NV8xXzM=_b_B55e38ea0369f722d0cdd5e80ceb60e9f.mp4
+
