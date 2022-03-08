@@ -650,6 +650,10 @@ RHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 RHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 RHK32,http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 有线新闻,http://flv3948069e.live.126.net/live/yxxw11/1.flv
+有线新闻,rtmp://flv3948069e.live.126.net/live/yxxw11/1
+有线新闻,http://dm1133.kglink.xyz/live/03.flv
+无线新闻,rtmp://flv3948069e.live.126.net:80/live/dabagqdszb8233jyumyn
+无线新闻,http://51.222.193.143:10010/1
 Now新闻,http://51.222.193.142:10011/9
 无线财经,http://iptv.tvfix.org/hls/finance.m3u8
 无线财经,http://iptv.tvfix.org/hls/finance2.m3u8
@@ -815,6 +819,8 @@ TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 台视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+中天新闻,rtmp://flv3948069e.live.126.net:80/live/dabadqdszbtest78612
+中天新闻,https://tv1.6zxr.xyz/1/ztxw/hls/index.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 东森财经,http://50.7.218.42:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
 非凡新闻,http://50.7.218.42:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
