@@ -729,22 +729,33 @@ Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 爆谷台,rtmp://v3948069e.live.126.net:80/live/Nowbg
 
 🇹🇼台湾频道,#genre#
-寰宇新闻,http://59.125.101.187:8528/1.m3u8
+TVBS新闻,http://206.2.170.228/ttbs.php?id=54
+TVBS新闻,rtmp://59.124.75.150/sat/tv551
+
+寰宇新闻,http://206.2.170.228/ttbs.php?id=63
 寰宇新闻,http://59.125.101.187:8528/playlist.m3u8
-寰宇新闻,http://59.125.101.187:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
-寰宇新闻,http://59.125.101.187:8528/http/192.168.77.24:8066/hls/210/10013/cstv13.m3u8
+
 寰宇新闻台湾,http://qq286780.v3.aihost6.top/ccav/ccav.php?id=84
 
 三立新闻,http://59.125.101.187:8590/playlist.m3u8
-
+LIVE三立,http://206.2.170.228/ttbs.php?id=57
+LIVE三立,https://dm1036.kglink.xyz/live/tw04
 壹新闻台,http://59.125.101.187:8613/playlist.m3u8
+壹新闻台,http://206.2.170.228/ttbs.php?id=58
 
-東森新闻,http://59.125.101.187:8588/playlist.m3u
+中天新闻,https://dm1036.kglink.xyz/live/tw06
+中天新闻,http://206.2.170.228/ttbs.php?id=5
 
+東森新闻,http://59.125.101.187:8588/playlist.m3u8
+
+東森LIVE,http://206.2.170.228/ttbs.php?id=55
+東森LIVE,https://dm1036.kglink.xyz/live/tw01
+
+民視新闻,https://dm1036.kglink.xyz/live/tw10
 民視新闻,http://59.125.101.187:8610/playlist.m3u8
+民視新闻,http://206.2.170.228/ttbs.php?id=59
 
 年代新闻,http://211.23.114.106:8617/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-
 年代新闻,http://59.125.101.187:8609/play.m3u8
 
 年代MUCH,http://59.125.101.187:8589/playlist.m3u8
@@ -752,12 +763,19 @@ Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 年代MUCH,http://211.23.114.106:8629/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 
 台視,http://59.125.101.187:8501/playlist.m3u8
+台視,http://206.2.170.228/ttbs.php?id=83
 台視,http://50.7.218.42:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 
+中視,http://206.2.170.228/ttbs.php?id=82
+
+中視新闻,http://206.2.170.228/ttbs.php?id=60
+
+华視,http://206.2.170.228/ttbs.php?id=86
 华視,http://59.125.101.187:8544/playlist.m3u8
 华視,http://59.125.101.187:8544/http/192.168.77.24:8088/hls/65/805/ch09.m3u8
 公視,http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 民視,http://59.125.101.187:8586/playlist.m3u8
+民視,http://206.2.170.228/ttbs.php?id=84
 
 天映频道,http://iptv.tvfix.org/hls/typd.m3u8
 星衛電影,http://data.3g.yy.com/live/hls/29900720/29900720
@@ -830,6 +848,10 @@ Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
 环球電視,http://live.cgtn.com/500/prog_index.m3u8
 三立都会,http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 龙华日韩,http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
+TVBS talk HD,http://206.2.170.228/ttbs.php?id=95
+TVBS欢乐,http://206.2.170.228/ttbs.php?id=97
+旅游台,http://206.2.170.228/ttbs.php?id=102
+影剧台,http://206.2.170.228/ttbs.php?id=103
 
 BaBy-TV,http://50.7.218.42:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
 東森幼幼,http://59.125.101.187:8515/playlist.m3u8
@@ -852,8 +874,10 @@ WakuWakuJapan,http://59.125.101.187:8538/http/192.168.77.24:8081/hls/61/803/ch03
 
 动物星球,http://211.23.114.106:8622/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 动物星球,http://211.23.114.106:8622/playlist.m3u8
+动物星球,http://206.2.170.228/ttbs.php?id=93
 动物星球,http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 国家地理,http://v.mp.haue.edu.cn/hls/natlgeo.m3u8
+
 国家地理,http://59.125.101.187:8501/playlist.m3u8
 国家地理野生,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 CNBC,http://59.125.101.187:8550/playlist.m3u8
