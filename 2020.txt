@@ -184,8 +184,6 @@ CGTN西班牙语,http://iptv.tvfix.org/hls/cgtnxhd.m3u8
 河南衛視,http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
 四川衛視,http://39.135.138.58:18890/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
 贵州衛視,http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
-北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
-北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
 安徽衛視,http://39.135.138.58:18890/PLTV/88888888/224/3221225691/index.m3u8
 東南衛視,http://39.134.66.110/PLTV/88888888/224/3221225863/index.m3u8
 東南衛視,http://39.135.138.58:18890/PLTV/88888888/224/3221225657/index.m3u8
@@ -310,7 +308,6 @@ CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 足球魅力,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 東方财经,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dfcj/1300000/mnf.m3u8
 上海都市,http://111.40.196.9/PLTV/88888888/224/3221225613/index.m3u8
-生活时尚,http://111.40.196.9/PLTV/88888888/224/3221225501/index.m3u8
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 劲爆体育,http://iptv.tvfix.org/hls/jbtyhd.m3u8
 新闻综合,http://iptv.tvfix.org/hls/shxwzhhd.m3u8
@@ -352,20 +349,7 @@ CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 第一财经,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6617141658685778844&livemode=1&stbId=4
 東方财经,http://112.25.48.70/live/program/live/dfcj/1300000/mnf.m3u8
 東方财经,http://39.135.55.105:6610/PLTV/88888888/224/3221227087/index.m3u8?servicetype=1
-北京影視,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
-北京文艺,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
-北京青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
-北京生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
-北京科教,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=
-北京财经,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=
 北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
-北京衛視,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
-北京文艺,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
-北京科教,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
-北京影視,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
-北京财经,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
-北京生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
-北京青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 北京衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 北京文艺,http://iptv.tvfix.org/hls/brtv2hd.m3u8
@@ -473,13 +457,17 @@ RHK32,http://radius.8866.org:880/hls/90/index.m3u8
 
 J2,http://120.84.96.29:808/hls/86/index.m3u8
 J2,http://120.84.96.130:808/hls/86/index.m3u8
-J2,
+J2,http://iptv.tvfix.org/hls/j2.m3u8
+J2(第2声道),http://iptv.tvfix.org/hls/j22.m3u8
 
+无线新闻,http://zb.688768.xyz/jiudian/jddb.php?playurl=http://27.46.125.103:808/hls/81/index.m3u8
 无线新闻,http://livesec.mudu.tv/watch/0t5ejs.m3u8
 无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
-无线新闻,无线新闻,http://iptv.tvfix.org/hls/inews2.m3u8
-https://dm1133.kglink.xyz/live/01
+无线新闻,http://iptv.tvfix.org/hls/inews2.m3u8
+
 无线财经,http://iptv.tvfix.org/hls/finance.m3u8
+无线财经(第2声道),http://iptv.tvfix.org/hls/finance2.m3u8
+无线财经海外版,http://iptv.tvfix.org/hls/financenhk.m3u8
 
 有线新闻,https://dm1133.kglink.xyz/live/03
 
@@ -519,6 +507,8 @@ Now财经,
 
 明珠台,http://120.84.96.130:808/hls/26/index.m3u8
 明珠台,http://radius.8866.org:880/hls/84/index.m3u8
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+明珠台(第2声道),http://iptv.tvfix.org/hls/pearl2.m3u8
 
 Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
 
@@ -526,7 +516,7 @@ Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
 有线18台,rtmp://219.80.97.35/sat/hk041
 
 有线603,
-有线体育,
+有线体育,http://iptv.tvfix.org/hls/starsports.m3u8
 有线财经,
 imode时尚,https://juyunlive.juyun.tv/live/24950198.m3u8
 
@@ -855,7 +845,7 @@ WakuWakuJapan,http://59.125.101.187:8538/http/192.168.77.24:8081/hls/61/803/ch03
 
 龙华卡通,
 
-探索频道,
+探索频道,http://iptv.tvfix.org/hls/discovery.m3u8
 
 动物星球,http://211.23.114.106:8622/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 动物星球3,http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
@@ -1786,7 +1776,6 @@ New Japan Pro Wrestling W,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls
 日本购物1[1280*720],http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-TBS Channel,http://211.21.12.236:11935/live/cs28.stream/playlist.m3u8
 tvN,https://tvn-seezn.pip.cjenm.com:443/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE&solsessionid=ced1d8fb89dd32a90e5dfa3d317ca053
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 KBC(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
@@ -1798,7 +1787,6 @@ NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playli
 日本Japan News 24,http://www.news24.jp/livestream/index.m3u8
 日本NHKworld,http://iptv.tvfix.org/hls/nhkworld.m3u8
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
 WAKUWAKU JAPAN,http://59.125.101.187:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
@@ -2488,7 +2476,6 @@ HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
 潮妈辣婆,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/1.m3u8
 军事评论,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
 军事评论,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
-动作電影,http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
 综艺铜艺,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/1.m3u8
 综艺铜艺,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/1.m3u8
 综艺铜艺,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/1.m3u8
@@ -2591,6 +2578,11 @@ CHC动作電影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888
 CHC动作電影,http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893/224/3221226465/index.m3u8
 CHC家庭影院,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
+CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+唐人街3,https://cdn.zoubuting.com/20210625/YAsZuFuS/1200kb/hls/index.m3u8
+哪吒重生粤语版 HD,https://v3.cdtlas.com/20211210/N7PIsGnX/1100kb/hls/index.m3u8
 
 🎭轮播壹区,#genre#
 1,http://txtest-xp2p.p2p.huya.com/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
@@ -2738,7 +2730,6 @@ CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 131659,http://121.51.249.48/tx.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 
 🐟斗鱼剧场,#genre#
-
 斗鱼2,http://zzy789.xyz/douyu1.php?id=6763930
 斗鱼3,http://zzy789.xyz/douyu1.php?id=122402
 斗鱼4,http://zzy789.xyz/douyu1.php?id=747764
@@ -2797,7 +2788,6 @@ CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 斗鱼電影67,http://epg.112114.xyz/douyu/2317390
 斗鱼電影70,http://epg.112114.xyz/douyu/6863367
 斗鱼電影71,http://epg.112114.xyz/douyu/2987100
-斗鱼電影72,http://epg.112114.xyz/douyu/6369954
 斗鱼電影73,http://epg.112114.xyz/douyu/771006
 斗鱼電影74,http://epg.112114.xyz/douyu/498772
 斗鱼電影75,http://epg.112114.xyz/douyu/5926392
@@ -2865,9 +2855,7 @@ CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 斗鱼电影6,http://zzy789.xyz/douyu1.php?id=52787
 斗鱼电影7,http://zzy789.xyz/douyu1.php?id=6140589
 斗鱼电影8,http://zzy789.xyz/douyu1.php?id=4246519
-斗鱼电影10,http://zzy789.xyz/douyu1.php?id=7116591
 斗鱼电影11,http://epg.112114.xyz/douyu/5635000
-斗鱼电影11,http://zzy789.xyz/douyu1.php?id=5635000
 斗鱼电影15,http://epg.112114.xyz/douyu/2288676
 斗鱼电影16,http://zzy789.xyz/douyu1.php?id=1979257
 斗鱼电影17,http://zzy789.xyz/douyu1.php?id=434971
@@ -2915,7 +2903,6 @@ CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 斗鱼电影69,http://zzy789.xyz/douyu1.php?id=4505431
 斗鱼电影70,http://zzy789.xyz/douyu1.php?id=6863367
 斗鱼电影71,http://zzy789.xyz/douyu1.php?id=2987100
-斗鱼电影72,http://zzy789.xyz/douyu1.php?id=6369954
 斗鱼电影77,http://zzy789.xyz/douyu1.php?id=2758565
 斗鱼电影79,http://zzy789.xyz/douyu1.php?id=805235
 斗鱼电影81,http://zzy789.xyz/douyu1.php?id=3870925
