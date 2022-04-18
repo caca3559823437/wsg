@@ -164,7 +164,6 @@ CCTV-10,http://117.169.120.140:8080/live/cctv-10/.m3u8
 CCTV-14,http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
 CCTV-12,http://39.135.138.59:18890/TVOD/88888910/224/3221225629/index.m3u8
 CCTV-13,http://39.134.115.163:8080/TVOD/88888910/224/3221225638/index.m3u8
-CCTV-13,http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
 CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-4,https://p.ggiptv.com/v/4k.m3u8
 CCTV-1,http://111.40.196.27/PLTV/88888888/224/3221225548/index.m3u8
@@ -484,15 +483,9 @@ CGTN阿语,http://39.135.55.105:6610/PLTV/88888888/224/3221227224/index.m3u8?ser
 纪实人文,http://39.135.55.105:6610/PLTV/88888888/224/3221225946/index.m3u8?servicetype=1
 纪实人文,http://39.135.55.105:6610/PLTV/88888888/224/3221227213/index.m3u8?servicetype=1
 北京冬奥纪实,http://39.135.55.105:6610/PLTV/88888888/224/3221225944/index.m3u8?servicetype=1
-全纪实,http://39.135.55.105:6610/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1
 动漫秀场,http://39.135.55.105:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1
-极速汽车,http://39.135.55.105:6610/PLTV/88888888/224/3221227186/index.m3u8?servicetype=1
-欢笑剧场,http://39.135.55.105:6610/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1
 游戏风云,http://39.135.55.105:6610/PLTV/88888888/224/3221227075/index.m3u8?servicetype=1
-生活时尚,http://39.135.55.105:6610/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
-都市剧场,http://39.135.55.105:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
 七彩戏剧,http://39.135.55.105:6610/PLTV/88888888/224/3221227212/index.m3u8?servicetype=1
-东方财经,http://39.135.55.105:6610/PLTV/88888888/224/3221227087/index.m3u8?servicetype=1
 法治天地,http://39.135.55.105:6610/PLTV/88888888/224/3221227176/index.m3u8?servicetype=1
 金色学堂,http://39.135.55.105:6610/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1
 哈哈炫动,http://39.135.55.105:6610/PLTV/88888888/224/3221225872/index.m3u8?servicetype=1
@@ -1419,7 +1412,6 @@ ABC,http://1080.youkucdn.live:25461/live/66325546/123/3856.ts
 OCBC,http://1080.youkucdn.live:25461/live/66325546/123/3857.ts
 OCBS,http://1080.youkucdn.live:25461/live/66325546/123/3858.ts
 DW,http://1080.youkucdn.live:25461/live/66325546/123/3860.ts
-CNN,http://1080.youkucdn.live:25461/live/66325546/123/3861.ts
 CNBC,http://1080.youkucdn.live:25461/live/66325546/123/3862.ts
 BBC,http://1080.youkucdn.live:25461/live/66325546/123/3863.ts
 Bloomberg,http://1080.youkucdn.live:25461/live/66325546/123/3864.ts
@@ -1432,7 +1424,6 @@ CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x72
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
 BBC,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
-BBCEarth,http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 BBCLifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CGTN 国际频道,http://live.cgtn.com/1000/prog_index.m3u8
@@ -1894,11 +1885,6 @@ CHC动作電影,http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893
 CHC家庭影院,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 唐人街3,https://cdn.zoubuting.com/20210625/YAsZuFuS/1200kb/hls/index.m3u8
-爱院线,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
-爱娱乐,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
-爱喜剧,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
-爱玩具,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
-
 百视通健身,http://39.135.55.105:6610/PLTV/88888888/224/3221227044/index.m3u8?servicetype=1
 百视通动漫,http://39.135.55.105:6610/PLTV/88888888/224/3221227053/index.m3u8?servicetype=1
 百视通少儿,http://39.135.55.105:6610/PLTV/88888888/224/3221227041/index.m3u8?servicetype=1
@@ -2169,18 +2155,17 @@ CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 特辑电影院,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=3637778
 贝爷MAX厅,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=4332
 花卷60帧,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=52787
-4K杜比,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=8663752
 米娅陪看,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=6537888
 怡宝国民女友陪看,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=434971
 S1134,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=248753
 枪战,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=10240510
 吃米滴虫,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=315457
-吃奶滴虫 ,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=263824
+吃奶滴虫,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=263824
 进击の神乐1,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=122402
 进击的神乐2,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=85894
 漫威鱼小丸梓,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=6140589
 一颗小丸子,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=8986148
-周星星 ,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=3990812
+周星星,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=3990812
 刘德华1,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=2516864
 刘德华2,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=8985415
 经典喜剧,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=9650887
@@ -2196,20 +2181,18 @@ S1134,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=248753
 小磊陪你看,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=9826611
 林林影视,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=9652323
 星星影院,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=315131
-放影师,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=5129261
 漫威嗷大喵,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=4282654
 鱼宝好困,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=1165374
 变种人,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=9651304
 UU娇哒哒呀,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=96577
 萌小鬼,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=3928
 兔兔陪看,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=1504768
-恐怖电影 ,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=310926
+恐怖电影,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=310926
 苹果zei妖,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=2793084
 怀旧90,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=9275635
 安全套不套,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=5423
 麓山迷踪,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=4505431
 无敌放映厅,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=10240553
-萌牛奶呦,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=7494871
 电影有你好看,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=10240539
 菜园小饼QvQ,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=1735337
 瑶瑶童年阴影,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=2935323
@@ -2217,20 +2200,15 @@ UU娇哒哒呀,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=96577
 网神影厅,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=508118
 演绎SSS,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=4833289
 甜味超标卡卡屋,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=10254810
-译制国语影片荟萃,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=2436390
-百看不厌,http://www.weetai.cn/cdn/iptv/tyzb09.php?id=9683979
 全新影片,http://akm-tct.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 周星驰,http://akm-tct.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 林正英,http://akm-tct.douyucdn.cn/live/218859rVm14aVo2V.flv?uuid=
 华语经典,http://akm-tct.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-科幻电影,http://akm-tct.douyucdn.cn/live/4332rMOaiOgoLRUO.flv?uuid=
-科幻动作,http://akm-tct.douyucdn.cn/live/252802r4adW4jo5L.flv?uuid=
 欧美大片,http://akm-tct.douyucdn.cn/live/2793084rGW3qQ3wX.flv?uuid=
 极致蓝光,http://akm-tct.douyucdn.cn/live/747764riNLjASiKM.flv?uuid=
 五分钟一部电影,http://akm-tct.douyucdn.cn/live/2758565rghjMAcIL.flv?uuid=
 动漫解说,http://akm-tct.douyucdn.cn/live/9527700rHuFg8qpC.flv?uuid=
 Running Man,http://akm-tct.douyucdn.cn/live/7298973rf8ZRAH9s.flv?uuid=
-韩国女团,http://akm-tct.douyucdn.cn/live/231464ro96SRoNws.flv?uuid=
 斗鱼電影2,http://zzy789.xyz/douyu1.php?id=6763930
 斗鱼電影2,http://epg.112114.xyz/douyu/6763930
 斗鱼電影3,http://zzy789.xyz/douyu1.php?id=122402
@@ -2267,7 +2245,6 @@ Running Man,http://akm-tct.douyucdn.cn/live/7298973rf8ZRAH9s.flv?uuid=
 斗鱼电影22,http://zzy789.xyz/douyu1.php?id=1979257
 斗鱼電影23,http://epg.112114.xyz/douyu/6949033
 斗鱼電影23,http://epg.112114.xyz/douyu/7494871
-斗鱼电影23,http://zzy789.xyz/douyu1.php?id=7494871
 斗鱼電影24,http://epg.112114.xyz/douyu/6808473
 斗鱼電影25,http://epg.112114.xyz/douyu/8661527
 斗鱼電影26,http://epg.112114.xyz/douyu/8413092
@@ -2383,8 +2360,6 @@ Running Man,http://akm-tct.douyucdn.cn/live/7298973rf8ZRAH9s.flv?uuid=
 斗鱼电影62,http://epg.112114.xyz/douyu/8656759
 斗鱼电影62,http://zzy789.xyz/douyu1.php?id=8656759
 斗鱼电影64,http://zzy789.xyz/douyu1.php?id=8611011
-斗鱼电影68,http://epg.112114.xyz/douyu/5422706
-斗鱼电影68,http://zzy789.xyz/douyu1.php?id=5422706
 斗鱼电影71,http://zzy789.xyz/douyu1.php?id=2987100
 斗鱼电影77,http://zzy789.xyz/douyu1.php?id=2758565
 斗鱼电影79,http://zzy789.xyz/douyu1.php?id=805235
