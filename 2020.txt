@@ -1414,7 +1414,6 @@ New Japan Pro Wrestling W,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls
 日本购物1[1280*720],http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-tvN,https://tvn-seezn.pip.cjenm.com:443/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE&solsessionid=ced1d8fb89dd32a90e5dfa3d317ca053
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 KBC(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
@@ -1531,11 +1530,9 @@ TV5mond,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 NASATVPublic,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 NBCNewsNow,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-VOA365,https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_0720_av-p.m3u8?sd=10rebase=on
 BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 euronews,https://goiptv.site/redir.php?acesso=79a7eb5929ce59fdaa0adab245f43c58&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
 France24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/index_1080_av-p.m3u8?sd=10rebase=on
 WFTVChannel9-Florida-Orlando(720p),https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
 MAVlife,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 OneAmericaNews(OAN),http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
@@ -1598,7 +1595,6 @@ FASTWAT NEWS,http://163.47.214.155:1935/fwnews/live/playlist.m3u8
 VOV TV,https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 CJBISBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
-HBO家庭,http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 VCOnline(546p),https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
 Abu Dubai Racing 2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
 M?S.TVCHILE,https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
@@ -1627,60 +1623,34 @@ CNN,http://190.83.119.67:8000/play/a0p8
 CNNE,http://190.83.119.67:8000/play/a0qs
 阿兹科拉松,http://190.83.119.67:8000/play/a0qg
 阿兹蒙多,http://190.83.119.67:8000/play/a0t4
-Pasiones HD,http://190.83.119.67:8000/play/a0uz
 RCN Novelas,http://190.83.119.67:8000/play/a0s7
 Telemundo,http://190.83.119.67:8000/play/a0qf
 Telemundo HD,http://190.83.119.67:8000/play/a0r9
-Univision高清,http://190.83.119.67:8000/play/a0v0
 EWTN,http://190.83.119.67:8000/play/a0qw
 Espn,http://190.83.119.67:8000/play/a0te
-Espn 高清,http://190.83.119.67:8000/play/a0up
 Espn 2,http://190.83.119.67:8000/play/a0tf
-Espn 2 高清,http://190.83.119.67:8000/play/a0ur
 Espn 3,http://190.83.119.67:8000/play/a0sc
-Espn 3 高清,http://190.83.119.67:8000/play/a0uq
-Espn 4,http://190.83.119.67:8000/play/a0u3
-Espn 4 高清,http://190.83.119.67:8000/play/a0ul
 Espn +,http://190.83.119.67:8000/play/a0qy
 FoxSports 2,http://190.83.119.67:8000/play/a0sd
-Foxsports 3 高清,http://190.83.119.67:8000/play/a0us
 福克斯体育3,http://190.83.119.67:8000/play/a0qm
 A&E,http://190.83.119.67:8000/play/a0t8
 A&E 高清,http://190.83.119.67:8000/play/a0r7
 AMC,http://190.83.119.67:8000/play/a0qr
 AMC高清,http://190.83.119.67:8000/play/a0r8
 AXN,http://190.83.119.67:8000/play/a0qp
-AXN高清,http://190.83.119.67:8000/play/a0um
-电影高清,http://190.83.119.67:8000/play/a0tm
-CineCanal,http://190.83.119.67:8000/play/a0uc
-CineMax,http://190.83.119.67:8000/play/a0ua
 FX,http://190.83.119.67:8000/play/a0s6
 FX高清,http://190.83.119.67:8000/play/a0ra
-FX电影,http://190.83.119.67:8000/play/a0u7
 FX电影高清,http://190.83.119.67:8000/play/a0rc
 金色,http://190.83.119.67:8000/play/a0sg
-HBO,http://190.83.119.67:8000/play/a0ud
-HBO 家庭,http://190.83.119.67:8000/play/a0ug
 HBO家庭高清,http://190.83.119.67:8000/play/a0pu
 HBO 高清,http://190.83.119.67:8000/play/a0pr
-HBO Plus,http://190.83.119.67:8000/play/a0uf
 HBO Plus 高清,http://190.83.119.67:8000/play/a0pt
-HBO XTREME,http://190.83.119.67:8000/play/a0uh
 HBO XTREME,http://190.83.119.67:8000/play/a0pv
-HBO2,http://190.83.119.67:8000/play/a0ue
 HBO2 高清,http://190.83.119.67:8000/play/a0ps
-Multipremier,http://190.83.119.67:8000/play/a0u8
 派拉蒙,http://190.83.119.67:8000/play/a0pl
-派拉蒙高清,http://190.83.119.67:8000/play/a0uu
 索尼,http://190.83.119.67:8000/play/a0t5
-索尼高清,http://190.83.119.67:8000/play/a0tl
-空间,http://190.83.119.67:8000/play/a0qh
-太空高清,http://190.83.119.67:8000/play/a0un
-明星频道,http://190.83.119.67:8000/play/a0ty
-明星频道高清,http://190.83.119.67:8000/play/a0tj
 STAR LIFE,http://190.83.119.67:8000/play/a0qe
 明星TVE高清,http://190.83.119.67:8000/play/a0rf
-环球影城,http://190.83.119.67:8000/play/a0ub
 Studio Universal HD,http://190.83.119.67:8000/play/a0r2
 SyFy,http://190.83.119.67:8000/play/a0t9
 SyFy 高清,http://190.83.119.67:8000/play/a0r3
@@ -1688,16 +1658,10 @@ SyFy 高清,http://190.83.119.67:8000/play/a0r3
 TLC,http://190.83.119.67:8000/play/a0td
 TNT,http://190.83.119.67:8000/play/a0qq
 TNT系列,http://190.83.119.67:8000/play/a0qi
-TNT系列高清,http://190.83.119.67:8000/play/a0uv
 环球影城,http://190.83.119.67:8000/play/a0pm
-环球影城高清,http://190.83.119.67:8000/play/a0v2
 环球喜剧,http://190.83.119.67:8000/play/a0sk
 环球犯罪,http://190.83.119.67:8000/play/a0sj
-环球首映,http://190.83.119.67:8000/play/a0ui
-环球首映,http://190.83.119.67:8000/play/a0uj
 通用现实,http://190.83.119.67:8000/play/a0si
-通用,http://190.83.119.67:8000/play/a0u6
-华纳高清,http://190.83.119.67:8000/play/a0tk
 华纳,http://190.83.119.67:8000/play/a0t6
 AZ 点击高清,http://190.83.119.67:8000/play/a0re
 动物星球,http://190.83.119.67:8000/play/a0tb
@@ -1705,12 +1669,6 @@ AZ 点击高清,http://190.83.119.67:8000/play/a0re
 DHE,http://190.83.119.67:8000/play/a0pk
 DHE 高清,http://190.83.119.67:8000/play/a0rd
 探索频道,http://190.83.119.67:8000/play/a0ta
-探索频道高清,http://190.83.119.67:8000/play/a0uw
-探索家居与健康,http://190.83.119.67:8000/play/a0u0
-发现ID高清,http://190.83.119.67:8000/play/a0v1
-探索科学,http://190.83.119.67:8000/play/a0p0
-探索加速,http://190.83.119.67:8000/play/a0tz
-探索世界高清,http://190.83.119.67:8000/play/a0uy
 E！,http://190.83.119.67:8000/play/a0t7
 E！娱乐高清,http://190.83.119.67:8000/play/a0r5
 El Gourmet,http://190.83.119.67:8000/play/a0ph
@@ -1720,10 +1678,8 @@ H2,http://190.83.119.67:8000/play/a0sa
 历史频道,http://190.83.119.67:8000/play/a0tc
 历史高清,http://190.83.119.67:8000/play/a0qx
 Hola!TV,http://190.83.119.67:8000/play/a0p1
-ID,http://190.83.119.67:8000/play/a0u1
 生命时间,http://190.83.119.67:8000/play/a0ql
 Mas Chic,http://190.83.119.67:8000/play/a0ow
-Nat Geo HD,http://190.83.119.67:8000/play/a0ut
 Nat Geo Wild,http://190.83.119.67:8000/play/a0s9
 国家地理,http://190.83.119.67:8000/play/a0qk
 
@@ -1813,13 +1769,10 @@ CHC动作电影,http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8
 吴京,http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
 周星驰,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
 周润发,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
-少林剧场,http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
 张国荣,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
 怀旧老片,http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
 成龙,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
 杨幂,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
-武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
-科幻电影,http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
 每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 爱情公寓,http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
 盗墓方法,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
@@ -1875,7 +1828,6 @@ HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
 新片放映,http://117.148.179.134/PLTV/88888888/224/3221231640/index.m3u8
 张国荣,http://117.148.179.134/PLTV/88888888/224/3221231790/index.m3u8
 云上電影,http://117.148.179.134/PLTV/88888888/224/3221231565/index.m3u8
-每日電影,http://117.148.179.134/PLTV/88888888/224/3221231568/index.m3u8
 葛优,http://117.148.179.134/PLTV/88888888/224/3221231754/index.m3u8
 刘德华,http://117.148.179.134/PLTV/88888888/224/3221231757/index.m3u8
 凌晨剧场,http://117.148.179.134/PLTV/88888888/224/3221231742/index.m3u8
@@ -2227,7 +2179,6 @@ CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 华语经典,http://akm-tct.douyucdn.cn/live/85894rmovieChow.flv?uuid=
 欧美大片,http://akm-tct.douyucdn.cn/live/2793084rGW3qQ3wX.flv?uuid=
 极致蓝光,http://akm-tct.douyucdn.cn/live/747764riNLjASiKM.flv?uuid=
-五分钟一部电影,http://akm-tct.douyucdn.cn/live/2758565rghjMAcIL.flv?uuid=
 动漫解说,http://akm-tct.douyucdn.cn/live/9527700rHuFg8qpC.flv?uuid=
 Running Man,http://akm-tct.douyucdn.cn/live/7298973rf8ZRAH9s.flv?uuid=
 斗鱼電影2,http://epg.112114.xyz/douyu/6763930
@@ -2346,7 +2297,6 @@ Running Man,http://akm-tct.douyucdn.cn/live/7298973rf8ZRAH9s.flv?uuid=
 斗鱼电影100,http://epg.112114.xyz/douyu/8168353
 斗鱼电影110,http://epg.112114.xyz/douyu/8415464
 斗鱼电影113,http://epg.112114.xyz/douyu/5522351
-斗鱼电影114,http://epg.112114.xyz/douyu/562225
 斗鱼电影115,http://epg.112114.xyz/douyu/223521
 斗鱼电影116,http://epg.112114.xyz/douyu/8651489
 斗鱼电影118,http://epg.112114.xyz/douyu/4631599
