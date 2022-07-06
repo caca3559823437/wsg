@@ -112,7 +112,6 @@ CCTV-风云足球,http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
 CCTV-女性时尚,http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8
 CCTV-1,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV-1,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
-CCTV-1,http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8
 CCTV-7,http://39.134.65.181/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-9,http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
 CCTV-11,http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
@@ -657,38 +656,47 @@ RAW,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-8633341678977024
 高三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
 🇭🇰香港频道,#genre#
-凤凰中文,mitv://fccs.word-tv.com:9906/6258281d0002e1400f06cef0fc77e330
-凤凰资讯,mitv://fccs.word-tv.com:9906/6258288b0006f4a60f087dab170cf23e
-凤凰香港,mitv://fccs.word-tv.com:9906/62582991000071710f0c7b707491d2e9
-ViuTV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
-ViuTVsix,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
-无线财经,mitv://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d5e
-明珠台,mitv://fccs.word-tv.com:9906/6258eaca00006a3411ff4217b567e90f
-互動新闻,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
-翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
-J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
-RTHK31,mitv://fccs.word-tv.com:9906/62595a6e000b3da213b35d7c1c92697f
-RTHK32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
-有线新闻,mitv://fccs.word-tv.com:9906/6258e930000d447111f903d1236f6fc8
-有线18台,mitv://fccs.word-tv.com:9906/626bc57e0002fcc70daa763a17885784
-有线财经,mitv://fccs.word-tv.com:9906/626bc59f000aad820daaf91ae564e9c6
-有线603,mitv://fccs.word-tv.com:9906/626bc5c00008e69a0dab798eb8ae558d
-有线电影,mitv://fccs.word-tv.com:9906/626bc5e5000b44cb0dac0ab18c230b75
-有线娱乐,mitv://fccs.word-tv.com:9906/626bc60b000392d40dac9d2923dd262b
-有线卫视电影,mitv://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
-TVB星河,mitv://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
-澳亚卫视,mitv://fccs.word-tv.com:9906/626b2c8b000e79480b5503f397803b16
-channel V,mitv://fccs.word-tv.com:9906/626b5cff00009d2e0c12458723c0effa
-星空卫视,mitv://fccs.word-tv.com:9906/626b5ba2000298700c0cf2c141db6327
-澳门蓮花,mitv://fccs.word-tv.com:9906/6258e686000e215f11ee9bf962767123
-澳视,mitv://fccs.word-tv.com:9906/62685209000bd522002f77760f5e6638
-澳视二,mitv://fccs.word-tv.com:9906/6268522f000aa0b200300b97a3d1af63
-
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-有线财经,https://api.leonardpark.dev/live/icable/108
-有线直播新闻,https://api.leonardpark.dev/live/icable/110
-香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰资讯,mitv://ns2.hellotvvod.com:9906/91c8e4fe4fca4c51a36900e64b1eff3f
+凤凰中文,mitv://ns2.hellotvvod.com:9906/e7b4279c9894444099f7a5ee3db33659
+凤凰香港,mitv://ns2.hellotvvod.com:9906/de5be0035519498b94b1c61523f06b9f
+RTHK31,mitv://ns2.hellotvvod.com:9906/394c3c7bd87042f1ba6f0ca09fb965d6
+RTHK32,mitv://ns2.hellotvvod.com:9906/58adac0e5b46416d92ebb0d23bf284e9
+香港開电视,mitv://ns2.hellotvvod.com:9906/a63eab2739944d199afc5a98e12036f9
+﻿翡翠台(備),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t
+J2,mitv://ns2.hellotvvod.com:9906/c7aacd365fc942a286971169fe60aa10
+无线新闻(備),mitv://ns2.hellotvvod.com:9906/85466b33dbfe41cdad2c0d7324604e18
+无线新闻,mitv://ns2.hellotvvod.com:9906/8826d0fa5b3240f7ad59732bda834979
+无线财经,mitv://ns2.hellotvvod.com:9906/88014e869abf453291e7d802d478af33
+ViuTVsix,mitv://ns2.hellotvvod.com:9906/26f00e97388741a6a05140e10ca14d95
+ViuTV,mitv://ns2.hellotvvod.com:9906/457dd5d672944fcab0bb4d31cf46f6cd
+TVB星河(粵),mitv://ns2.hellotvvod.com:9906/5250246e882b4d6196caf3e30490d3bf
+陽光衛视,mitv://ns2.hellotvvod.com:9906/5952778979e445e8ad54a13eb82f3649
+澳門-MACAU,mitv://ns2.hellotvvod.com:9906/e263dcf8a4114909b55052e42028d4e2
+澳門蓮花,mitv://ns2.hellotvvod.com:9906/2cced40aacaf491a9831974b78ba25ba
+now新闻台,mitv://ns2.hellotvvod.com:9906/ceb25ecafce546c2a6980fc1b552f51b
+now直播台,mitv://ns2.hellotvvod.com:9906/32d09d79e2ce4f09801f2f0523e2485c
+有线电影,mitv://ns2.hellotvvod.com:9906/8d0fcf095ac945c2b5a6780542917202
+凤凰电影,mitv://ns2.hellotvvod.com:9906/bd288d02a8f24a4b8b66fc8f22693fc1
+有线新闻,mitv://ns2.hellotvvod.com:9906/8cd27f0e752b424c82a97591123c6286
+有线财经,mitv://ns2.hellotvvod.com:9906/4ffe68ad2ffb4aa4ba780e74611cc9a9
+有线18台,mitv://ns2.hellotvvod.com:9906/8abd4e40bfa947798a4fa3846c2f4f08
+有线603,mitv://ns2.hellotvvod.com:9906/2010916b451e426ea1c82e07448260ba
+有线体育,mitv://ns2.hellotvvod.com:9906/cef75a8d7bc5491bb8d9aa4e71f20cd9
+有线 Sports Plus 1,mitv://ns2.hellotvvod.com:9906/332aa17728854ae4b5731fb4b097b876
+有线娱乐,mitv://ns2.hellotvvod.com:9906/9e45051b2d9348968e1e199670d5bad5
+TVB娱乐,mitv://ns2.hellotvvod.com:9906/ddd18af9e99a44618488c5b35793cea0
+翡翠台,mitv://ns2.hellotvvod.com:9906/7ec78b89ec4845f39548414f7f25cbb6
+TVB經典台,mitv://ns2.hellotvvod.com:9906/fa601e7167b846349514abf5c241195a
+Thrill,mitv://ns2.hellotvvod.com:9906/bc63af2cb9d64cf9903e217b1d8ad70b
+明珠台,mitv://ns2.hellotvvod.com:9906/a2f31afa89da4ba2bd6612b8b76aebbd
+18台,mitv://ns2.hellotvvod.com:9906/8702186aa8154c8189af414453e826d1
+爆谷星影台,mitv://ns2.hellotvvod.com:9906/08d731a18bf642e6ad7d6a7088fd7593
+美亞电影(粵語),mitv://ns2.hellotvvod.com:9906/8de3c00361c7486a90a04541434c2dc6
+Hands Up,mitv://ns2.hellotvvod.com:9906/2b0b09343e944f40a39b35d50f12a6ca
+粵語片台,mitv://ns2.hellotvvod.com:9906/aa908f830f5c406890401f310a963f3f
+亞洲劇台,mitv://ns2.hellotvvod.com:9906/bdafbbaa3e644d05945b36b415333d3d
+功夫台,mitv://ns2.hellotvvod.com:9906/a44c8bf9a5ca4fa0abc6b4ff186d2bf8
+爆谷台,mitv://ns2.hellotvvod.com:9906/f53ea4db2ea242d395fbaf634e971afd
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,http://198.204.239.194:27347/livehlsplay?channel_id=30014
@@ -767,6 +775,10 @@ J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/53
 明珠台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 翡翠台,http://198.204.239.194:27347/livehlsplay?channel_id=20127
 翡翠台,http://198.204.239.194:27347/livehlsplay?channel_id=20128
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+有线财经,https://api.leonardpark.dev/live/icable/108
+有线直播新闻,https://api.leonardpark.dev/live/icable/110
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 imode时尚,https://juyunlive.juyun.tv/live/24950198.m3u8
@@ -800,6 +812,9 @@ imode时尚,http://jc-qlive-play.jingchangkan.cn/3473_2b8b624d570bb2b67.m3u8
 时装模特imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8?zgangd
 TVB J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8?zgangd
+J2,https://tx-b2.xsafetech.com/live/11666.m3u8
+J2,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
+TVB,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -831,159 +846,206 @@ TVB J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-
 澳门葡语,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳门卫视,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门卫视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+
+
 有线18台,rtmp://219.80.97.35/sat/hk041
 有线18台,rtmp://59.124.75.138:1935/sat/hk041
 有线体育,rtmp://59.124.75.150/sat/hk021
 有线体育,rtmp://59.124.75.150/sat/us281
 
 🇹🇼台湾频道,#genre#
-TVBS HD,mitv://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
-TVBS新闻,mitv://fccs.word-tv.com:9906/6254121e00022e5c0955285ee55f9ec4
-寰宇新闻,mitv://fccs.word-tv.com:9906/6257feca0002d9980e6562b6716c1c5a
-寰宇台灣,mitv://fccs.word-tv.com:9906/6258370a000e53840f411fa6b1f19ad7
-壹新闻台,mitv://fccs.word-tv.com:9906/62541b7c0007f8c30979c109c2ede6a3
-年代新闻,mitv://fccs.word-tv.com:9906/62540c45000225da093e50b45b457d41
-东森新闻,mitv://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
-中天新闻,mitv://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
-民视新闻,mitv://fccs.word-tv.com:9906/625411d700086db70954149f159813c6
-三立新闻,mitv://fccs.word-tv.com:9906/625411f9000c761609549a782b245a4c
-东森财经,mitv://fccs.word-tv.com:9906/6254128d000e830c0956dd1ea31d7f59
-非凡新闻,mitv://fccs.word-tv.com:9906/6257f613000f40140e435b0b41c847c0
-中视新闻,mitv://fccs.word-tv.com:9906/626928b800072a99037611dc7cf5b636
-台视新闻,mitv://fccs.word-tv.com:9906/6269285d000bc5c40374af92643669c3
-台视财经,mitv://fccs.word-tv.com:9906/626928870002ef3e0375515fa02e33ba
-卫视电影,mitv://fccs.word-tv.com:9906/6256bd0a000359ee097c8cd7ea2af582
-龍祥电影,mitv://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1
-东森电影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
-纬來电影,mitv://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
-东森洋片,mitv://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93
-AXN,mitv://fccs.word-tv.com:9906/6258d52d000490df11aad5dfc8e0641c
-好萊塢电影,mitv://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af
-STAR MOVIES,mitv://fccs.word-tv.com:9906/6258d58f000430fa11ac54962a5c2d42
-CINEMAX,mitv://fccs.word-tv.com:9906/6258d81f000a40aa11b658a3fe101246
-HBO HD,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
-HBO HITS,mitv://fccs.word-tv.com:9906/6258e224000020c111dd7994321ef7ec
-HBO家庭,mitv://fccs.word-tv.com:9906/6258e2990005537411df43f0702258cf
-HBO原创,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
-星卫电影,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5
-美亚电影,mitv://fccs.word-tv.com:9906/62613d420000a1a0188e63d84b81b11c
-天映电影,mitv://fccs.word-tv.com:9906/6260fa83000c7b8e1789acc84075d31b
-壹电影台,mitv://fccs.word-tv.com:9906/62674e97000a6a59163e799316c3d943
-amc最愛电影,mitv://fccs.word-tv.com:9906/62674eb900041ef4163efcc6b4c8cd0b
-CinemaWorld,mitv://fccs.word-tv.com:9906/626750ba0002f9431646d0630173b458
-寰宇财经,mitv://fccs.word-tv.com:9906/626179de00005255197b252361cec9d5
-寰宇綜合,mitv://fccs.word-tv.com:9906/62617a13000860ad197bf63b948c0cc6
-影迷數位紀實,mitv://fccs.word-tv.com:9906/62674e25000e7546163cbd4c2de58212
-影迷數位电影,mitv://fccs.word-tv.com:9906/626a074600072a2c06db6c8c9af16e70
-民视第一,mitv://fccs.word-tv.com:9906/626927db000004640372b0c04cca9ca3
-民视台灣,mitv://fccs.word-tv.com:9906/62692823000550c80373cb5be6f7e438
-台视綜合,mitv://fccs.word-tv.com:9906/626929ef0001a650037acf4bc1fd630b
-中视經典,mitv://fccs.word-tv.com:9906/626928e3000ce0de0376bb4ad8c2f741
-中视菁采,mitv://fccs.word-tv.com:9906/6269290b000463f70377555ece4c7fca
-民视,mitv://fccs.word-tv.com:9906/62582da100098ec20f1c5c4698b437cf
-人間卫视,mitv://fccs.word-tv.com:9906/62582fff0009dab60f259b89f7464d63
-台视,mitv://fccs.word-tv.com:9906/6257e8850006de950e0e6636ac2abe87
-大愛,mitv://fccs.word-tv.com:9906/6257e958000647f20e119e47becddbf1
-中视,mitv://fccs.word-tv.com:9906/6257e968000a66d90e11ddd52825327a
-霹靂台灣,mitv://fccs.word-tv.com:9906/625835a900047b550f3bba39e271ea6f
-華视,mitv://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb
-公视,mitv://fccs.word-tv.com:9906/6257e9950008c4a20e128d3209b54839
-公视台語,mitv://fccs.word-tv.com:9906/6257e9a400000c300e12c58f9b595b1e
-好消息,mitv://fccs.word-tv.com:9906/62584be3000a4ec30f928e473488ad44
-原民台,mitv://fccs.word-tv.com:9906/6257e9ca0002ec200e135abbe97ac8ab
-客家电视,mitv://fccs.word-tv.com:9906/6257e9d70000ce760e138cf889fb92c2
-國家地理,mitv://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57
-探索頻道,mitv://fccs.word-tv.com:9906/62541db9000483b809827e6fdf85c22c
-TLC旅遊,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
-動物星球,mitv://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
-CN卡通,mitv://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
-MOMO親子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
-东森幼幼,mitv://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
-纬來綜合,mitv://fccs.word-tv.com:9906/62584fd10006d72b0fa1e71495ef5024
-八大第一,mitv://fccs.word-tv.com:9906/6258517d000953940fa86f978caa56ae
-八大綜合,mitv://fccs.word-tv.com:9906/625851bd000e8a2d0fa96aec6397d1ea
-三立台湾,mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc
-三立都會,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
-卫视中文,mitv://fccs.word-tv.com:9906/625853fa000f1f080fb2295a047a36dc
-东森綜合,mitv://fccs.word-tv.com:9906/6258543f000be6350fb3360fed87de8b
-东森超视,mitv://fccs.word-tv.com:9906/625854810005f8350fb4365bf7cd8f4e
-中天綜合,mitv://fccs.word-tv.com:9906/62585815000447950fc2300ce37be3da
-东風卫视,mitv://fccs.word-tv.com:9906/6258585d0007329c0fc34a0b3c4be606
-年代MUCH,mitv://fccs.word-tv.com:9906/625858aa000f2ee50fc478de23b3e0dd
-中天娱乐,mitv://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
-东森戲劇,mitv://fccs.word-tv.com:9906/625420c30002ef15098e5d177b7f38b1
-八大戲劇,mitv://fccs.word-tv.com:9906/6258594f0004c9c40fc6fabdb0e81edf
-TVBS歡樂,mitv://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
-纬來戲劇,mitv://fccs.word-tv.com:9906/62585f76000e7ba90fdf0591eb84257b
-高點綜合,mitv://fccs.word-tv.com:9906/62585fb8000970600fe0061669e3aba4
-JET 綜合,mitv://fccs.word-tv.com:9906/625860030000abdc0fe128cf548f1def
-非凡商業,mitv://fccs.word-tv.com:9906/626911890006d792031b822fdf86a38a
-三立财经,mitv://fccs.word-tv.com:9906/62614b9c0008ec3518c675877b79b6ea
-纬來育樂,mitv://fccs.word-tv.com:9906/6256bd41000a7a7c097d6582fe044cc4
-纬來體育,mitv://fccs.word-tv.com:9906/62541bbd000ba7f6097abfe357f9c565
-MOMO綜合,mitv://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
-纬來日本,mitv://fccs.word-tv.com:9906/62637c010003ce15074fddf26f0135da
-國興卫视,mitv://fccs.word-tv.com:9906/6258dc9e0003580511c7e6f78e3b1759
-中天亚洲,mitv://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
-STAR Word,mitv://fccs.word-tv.com:9906/6258dcea0002765e11c90f9d2d7fac5d
-狼谷娱乐,mitv://fccs.word-tv.com:9906/6258f82b00089b8f12338718bf84237d
-MTV,mitv://fccs.word-tv.com:9906/6258e40a000dc72411e4e7829de2c8b5
-八大娱乐,mitv://fccs.word-tv.com:9906/6258e45a000845a611e61e9a50bc5e3e
-Z頻道,mitv://fccs.word-tv.com:9906/6258e492000691dc11e6f8eac01761d4
-生命电视,mitv://fccs.word-tv.com:9906/6258e612000a9c7511ecd5f381cd413f
-時尚瘋,mitv://fccs.word-tv.com:9906/6258e626000f104a11ed2537d42ef8a8
-華藏卫星,mitv://fccs.word-tv.com:9906/6258e84a000a4dcb11f5809f32a54f53
-全大,mitv://fccs.word-tv.com:9906/62614c730008668f18c9bd3d40261639
-信大,mitv://fccs.word-tv.com:9906/62614ca00005778f18ca6c44cdea2031
-信吉,mitv://fccs.word-tv.com:9906/6258e362000ea49c11e2577b5ee3ce53
-國家地理野生,mitv://fccs.word-tv.com:9906/6258eb6f0008bb551201c8c015a4226c
-探索動力,mitv://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
-探索科學,mitv://fccs.word-tv.com:9906/6258ebf3000576221203cb8904668102
-EVE健康,mitv://fccs.word-tv.com:9906/6258ec270004be301204967a3d33f14a
-EYE TV旅遊,mitv://fccs.word-tv.com:9906/62595e910009221e13c385aa08f4d222
-亚洲旅遊,mitv://fccs.word-tv.com:9906/62595eed0008772713c4ecde7515ec18
-星卫娱乐,mitv://fccs.word-tv.com:9906/6259b4eb0005f6251514d46a93c04eb3
-TVBS精采,mitv://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
-古典音樂,mitv://fccs.word-tv.com:9906/6260fd970004b7061795b0eb2df29131
-三立戲劇,mitv://fccs.word-tv.com:9906/6259b5a1000d5db415179d3f530f1044
-三立綜合,mitv://fccs.word-tv.com:9906/6259b57f0003ca05151715fc95200be0
-亚洲旅遊,mitv://fccs.word-tv.com:9906/6260e4ab0008152e173457e810b3184d
-龍華洋片,mitv://fccs.word-tv.com:9906/62613bc2000a344018888a4b2452f6fd
-龍華經典,mitv://fccs.word-tv.com:9906/62618a40000060f919bb23f73fed9563
-龍華戲劇,mitv://fccs.word-tv.com:9906/6260e4c0000811ed1734a9ef0f8923c2
-龍華偶像,mitv://fccs.word-tv.com:9906/6260e4e9000627b41735499a8a2abd33
-龍華影劇,mitv://fccs.word-tv.com:9906/6260e4fc0003a35a1735932d66a9b4e5
-靖天資訊,mitv://fccs.word-tv.com:9906/62680bf30004db8219222787aaffbf79
-靖天卡通,mitv://fccs.word-tv.com:9906/62618c1e000132fa19c26f5d328c9a20
-晴天日本,mitv://fccs.word-tv.com:9906/6260e53d0006302e173691bcb1337e0a
-靖天國際,mitv://fccs.word-tv.com:9906/62618c820009926c19c3f821ebec02ee
-幸福居家,mitv://fccs.word-tv.com:9906/6260e5930002f4ee1737e0d8c16e8abc
-居家樂活,mitv://fccs.word-tv.com:9906/626197e30008e06719f06adc8c2c9e9a
-靖洋卡通Nice Bingo,mitv://fccs.word-tv.com:9906/6260e5f00006cfff17394d1df9bdf95d
-靖洋戏剧,mitv://fccs.word-tv.com:9906/6260e602000b292d1739948a4e6140fe
-韩国娱乐KMTV,mitv://fccs.word-tv.com:9906/6260fa95000d4aba1789f34d5039df1a
-歷史頻道,mitv://fccs.word-tv.com:9906/6261294500077fb31840515220a0a636
-美食星球頻道,mitv://fccs.word-tv.com:9906/626139fa00036cff1881934f1fc1ae06
-FOOD美食,mitv://fccs.word-tv.com:9906/62612f36000389e4185785b669c4f5bf
-罪案偵緝頻道,mitv://fccs.word-tv.com:9906/62612fc9000147ae1859c35a8e800dbf
-華视體育,mitv://fccs.word-tv.com:9906/62692aad0004ff59037db656efdee736
-華视資訊,mitv://fccs.word-tv.com:9906/62692acf000c5e7a037e3d0919397c0a
-公视3,mitv://fccs.word-tv.com:9906/62692af700080a87037ed82d98f82f9d
-愛爾達綜,mitv://fccs.word-tv.com:9906/62595f88000e134a13c74bc62a907482
-愛爾達影劇,mitv://fccs.word-tv.com:9906/62595fe00007a82a13c8a1e18c1171c7
-EYE TV戲劇,mitv://fccs.word-tv.com:9906/625960940003b62a13cb5fff85627bd1
-ETtoday綜合,mitv://fccs.word-tv.com:9906/6258604e000c87130fe250d0bb957895
-Eleven Sports 1,mitv://fccs.word-tv.com:9906/625854d4000964b10fb57b7382610c8d
-Eleven Sports 2,mitv://fccs.word-tv.com:9906/6258550f0001c6880fb65ff87e0ebc13
-愛爾達體育1,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141
-愛爾達體育2,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
-愛爾達體育3,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2
-博斯高球一,mitv://fccs.word-tv.com:9906/62596d9e000e5b6c13fe51c8c1ca116c
-博斯高球二,mitv://fccs.word-tv.com:9906/6259b7ea000cad1415208a3ab972be5a
-博斯運動一,mitv://fccs.word-tv.com:9906/6260e5500006db331736dc200a9d70bc
-博斯運動二,mitv://fccs.word-tv.com:9906/6261364f000a426f187341173b92f79b
-博斯魅力網,mitv://fccs.word-tv.com:9906/6260e5df0005c49317390a70b64c7b9b
-博斯網球,mitv://fccs.word-tv.com:9906/6259b8080009f08a1520feb706074e92
+TVBS HD,mitv://ns2.hellotvvod.com:9906/3aa89bcd46914e1ead810221e37f52cd
+TVBS新闻,mitv://ns2.hellotvvod.com:9906/0acbe402a64345d09be3002e2e50e045
+寰宇新闻,mitv://ns2.hellotvvod.com:9906/b855264ab2ce415e9723072650a87f60
+寰宇台灣,mitv://ns2.hellotvvod.com:9906/c48e9128df224139ae47ee3a3b1a4ca2
+壹新闻台,mitv://ns2.hellotvvod.com:9906/7e091989e1d44a3384ec773df963d88b
+年代新闻,mitv://ns2.hellotvvod.com:9906/03eff74c8812417496a0098796bcb2cd
+东森新闻,mitv://ns2.hellotvvod.com:9906/c27d0ffe472645b98548c9ed6c25f4e8
+中天新闻,mitv://ns2.hellotvvod.com:9906/a52f410139d94727918c7854c8391eaa
+民视新闻,mitv://ns2.hellotvvod.com:9906/c09e545038b24e68ae342c65a448bf8a
+三立新闻,mitv://ns2.hellotvvod.com:9906/adf7ae9ee37042a988ea4f5a3d7c4672
+东森财经,mitv://ns2.hellotvvod.com:9906/9427596f785247d98f20a5383af6525b
+非凡新闻,mitv://ns2.hellotvvod.com:9906/0108608989364966b0626fa0bf58091d
+中视新闻,mitv://ns2.hellotvvod.com:9906/9336a125a8364e3cb3c280314ec96d69
+台视新闻,mitv://ns2.hellotvvod.com:9906/7e0018b3040f418291156fd7b670efaf
+台视财经,mitv://ns2.hellotvvod.com:9906/da25bef1126e42eca9f3ff42249c6746
+華视新闻,mitv://ns2.hellotvvod.com:9906/8853a5434eaf429baba38de47f14b6b9
+衛视电影,mitv://ns2.hellotvvod.com:9906/93ef06867a4046adb64caa364dbbd594
+东森电影,mitv://ns2.hellotvvod.com:9906/ce2ea81270ee4a6e89651848ccfae2b6
+緯來电影,mitv://ns2.hellotvvod.com:9906/745426b7051043cea8a2de0ca1fb712a
+龍祥电影,mitv://ns2.hellotvvod.com:9906/befd4695fe8c4c0ea2901707ee883ad9
+美亞电影,mitv://ns2.hellotvvod.com:9906/c77ed2e8a3ce41e69c281c3104a72992
+龍華电影,mitv://ns2.hellotvvod.com:9906/dfeb19161fc346349edb5a0c960edb34
+星衛电影,mitv://ns2.hellotvvod.com:9906/885e1098abfe48b7a1534dd3e25d6a53
+靖天映畫,mitv://ns2.hellotvvod.com:9906/ff29a33dbc3649ae9c69eb6107d47279
+靖天电影,mitv://ns2.hellotvvod.com:9906/5435190c47d342c6a9419d39bbe65ed4
+WARNER TV,mitv://ns2.hellotvvod.com:9906/5f0db1cf663f4e1fa8e5793b771263f0
+Star Movies HD,mitv://ns2.hellotvvod.com:9906/027e7ba9979b418da95577b7d6afa9f9
+AMC最愛电影,mitv://ns2.hellotvvod.com:9906/2d4507b75d744358bee81c8d4a1726ff
+HBO Family,mitv://ns2.hellotvvod.com:9906/3ec4ba3fd82e4c0ca45a9a2e4110e566
+CatchPlay电影,mitv://ns2.hellotvvod.com:9906/69c43dbe5f6e4b589b23ae556e7df82b
+CinemaWorld,mitv://ns2.hellotvvod.com:9906/60d52ed4eacf4384909b72902092a693
+壹电影台,mitv://ns2.hellotvvod.com:9906/3aa125e8e3eb4a97ba424991bd156e66
+HBO,mitv://ns2.hellotvvod.com:9906/3a4a2848872d475ab92ed0f8a384c3bf
+东森洋片,mitv://ns2.hellotvvod.com:9906/613bb4086874433fbedb17d589ac6d0a
+AXN,mitv://ns2.hellotvvod.com:9906/f144188238d848ee852e997778a4e0f7
+好萊塢电影,mitv://ns2.hellotvvod.com:9906/61ba7c9523384c73927e945a1c23ce83
+CINEMAX,mitv://ns2.hellotvvod.com:9906/1e1084991ba848cda69df53575149d91
+CNN,mitv://ns2.hellotvvod.com:9906/d696ad5d361d414cbcaf20b295784de4
+民视,mitv://ns2.hellotvvod.com:9906/aae502bc979e44c0b3f9cd2f08db259d
+人間衛视,mitv://ns2.hellotvvod.com:9906/3a28a740eb1f4e81ae2f61b0b067f9a7
+台视,mitv://ns2.hellotvvod.com:9906/b7c15dace4e246fa8e0b25b0f10db057
+大愛,mitv://ns2.hellotvvod.com:9906/622667cb4a914504bc3c64f54b02ea6f
+中视,mitv://ns2.hellotvvod.com:9906/a75d26a4db7b4fedb2902bf6b9574086
+霹靂台灣,mitv://ns2.hellotvvod.com:9906/8e9568c9223c4886bc028778b08d64c7
+華视,mitv://ns2.hellotvvod.com:9906/5749b8f031d94c6796de8eaddb74be3c
+公视,mitv://ns2.hellotvvod.com:9906/e3848d80451447f5adf5df0498036486
+好消息,mitv://ns2.hellotvvod.com:9906/b4fda50c6bc04cdd87248fe93ba6473b
+原住民电视,mitv://ns2.hellotvvod.com:9906/ddc3d167c5b049c88a70b43707b84ce6
+客家电视,mitv://ns2.hellotvvod.com:9906/6cfd0943682c4bdc8187fc0c3926370f
+國家地理頻道,mitv://ns2.hellotvvod.com:9906/1a43ee61737e402e9f2eb9920d5be0d2
+探索頻道,mitv://ns2.hellotvvod.com:9906/1feae2a139734b66b519846fac34dabc
+TLC旅遊生活,mitv://ns2.hellotvvod.com:9906/4271f4c1c0624f96800339648fac09de
+動物星球,mitv://ns2.hellotvvod.com:9906/ca9f3cb1e1c5456694c6017ba741f16e
+CN卡通頻道,mitv://ns2.hellotvvod.com:9906/142e8929b396493a8a3043d66e8321bb
+MOMO親子,mitv://ns2.hellotvvod.com:9906/5b04e4d291b04ee4916c45d0b4a76dd5
+东森幼幼,mitv://ns2.hellotvvod.com:9906/ef09d99e0b05425ab17c9bcb4a621a0a
+緯來綜合,mitv://ns2.hellotvvod.com:9906/ae70fd7e9d8042f589c24b50f07ba6d8
+八大第一,mitv://ns2.hellotvvod.com:9906/0b7ce5adfc7747ada165477c746f643e
+八大綜合,mitv://ns2.hellotvvod.com:9906/867f11f9fe814ba38e10929c69fd2cdc
+三立台灣,mitv://ns2.hellotvvod.com:9906/3cf1ea4d366b4d2985877af248ad77dc
+三立都會,mitv://ns2.hellotvvod.com:9906/79e7b246bd3a4c47a4d0fabc5f235a40
+东森綜合,mitv://ns2.hellotvvod.com:9906/4c51b619f0294f0ca609f1ae7a1c2bcd
+超视,mitv://ns2.hellotvvod.com:9906/93050b2d7ed0473e8ae35405474bb711
+中天綜合,mitv://ns2.hellotvvod.com:9906/73d464a6dff64b6bb864584e69951f06
+中天娱乐,mitv://ns2.hellotvvod.com:9906/b84af527f7e34a6fadfa8a0c115e1283
+东森戏剧,mitv://ns2.hellotvvod.com:9906/f44fcd8844ad47af9ebdb9991084b286
+八大戏剧,mitv://ns2.hellotvvod.com:9906/3412c112154d433380252b6846459e7d
+TVBS歡樂,mitv://ns2.hellotvvod.com:9906/60a5fd500e324b81a485adc24c5b1ac1
+緯來戏剧,mitv://ns2.hellotvvod.com:9906/5fecfcbda10a4b22b17bdeec8cafdaf4
+高點綜合,mitv://ns2.hellotvvod.com:9906/557e43b99fa44261b9c48ab227d47a9e
+BBC World News,mitv://ns2.hellotvvod.com:9906/71b12453ec86473587437099938ab521
+Al Jazeera English,mitv://ns2.hellotvvod.com:9906/b4d709e7e1f848479a4e2c37510d4e71
+CNBC,mitv://ns2.hellotvvod.com:9906/ac5a16cacaae4e53b884affaf847dddd
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/abfbd1183b4742fe862723542083996d
+HITS,mitv://ns2.hellotvvod.com:9906/2a57f28743984a27a4448033273e9395
+緯來育樂,mitv://ns2.hellotvvod.com:9906/d904657a5c2a4f72a5d6c4d5f541381b
+緯來體育,mitv://ns2.hellotvvod.com:9906/ef54dd7b19aa488b89cec3e826eeaf36
+ELEVEN體育1,mitv://ns2.hellotvvod.com:9906/cf45538ec1304a05aa7aec4d45919ecb
+緯來日本,mitv://ns2.hellotvvod.com:9906/7ff0fedcde9a4158a6b8ac51f95cebca
+國興衛视,mitv://ns2.hellotvvod.com:9906/9e2a94dadc174e2d81895e7c06c86718
+FOX,mitv://ns2.hellotvvod.com:9906/525a71642ce0428893c2a44e76ac070e
+Z頻道,mitv://ns2.hellotvvod.com:9906/e76f1bc6aa05492da5cfd25b584b9b6c
+Animax,mitv://ns2.hellotvvod.com:9906/1c055faa00bb425bb7d49fcbc532758e
+尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/b420548dc5e5476bab28de950cb6b38d
+MTV,mitv://ns2.hellotvvod.com:9906/96a6443f54704e909ecfb327f6d12c2e
+八大娱乐,mitv://ns2.hellotvvod.com:9906/0d48b944decc4195aca7dfb650252e32
+三立iNEWS,mitv://ns2.hellotvvod.com:9906/9a91a319e0fb4e1eb664e4de0d82d3f5
+龍華偶像,mitv://ns2.hellotvvod.com:9906/fbde3c608cb64f48b2fe51018030d452
+Arirang,mitv://ns2.hellotvvod.com:9906/b63211b570244713839ab27b21b50dbd
+tvN,mitv://ns2.hellotvvod.com:9906/e5f9079d27e7479dad020afcdee8c633
+DW,mitv://ns2.hellotvvod.com:9906/84335cf89bfa46f8a5bdeaac2b507d51
+France24,mitv://ns2.hellotvvod.com:9906/5126c29b8d3b4e54bdca9dcf596f90a0
+非凡商業,mitv://ns2.hellotvvod.com:9906/9e91416638ae4b2ab5073ce52590d012
+公视3台,mitv://ns2.hellotvvod.com:9906/38f6d4c4416c40429e94f367feb291ea
+大愛2台,mitv://ns2.hellotvvod.com:9906/aaf8554cd1be4f8e81ca4525734e398d
+ELTV生活英語,mitv://ns2.hellotvvod.com:9906/d92e8f91561949548ba22fbc40a49b13
+靖洋卡通Nice Bingo,mitv://ns2.hellotvvod.com:9906/2c427d7b3a8f40838112df81d47c9979
+靖天卡通,mitv://ns2.hellotvvod.com:9906/89cd7dc3842a4b65b2375f759544b268
+達文西頻道,mitv://ns2.hellotvvod.com:9906/70f59959c65647b0ae28979a8203f5ae
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/34c9fd603cf241d1a71a26ccdd4386ca
+國會頻道1,mitv://ns2.hellotvvod.com:9906/488605bdbc474868bb4edd6011d0813a
+國會頻道2,mitv://ns2.hellotvvod.com:9906/d3241dadd51343e2a313668ba2bd8dc7
+MTV Live,mitv://ns2.hellotvvod.com:9906/8134e7ab46af4924ab202ef7300cb189
+Mezzo Live,mitv://ns2.hellotvvod.com:9906/580f08dd15b046249cc22bca88113f46
+CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/309e9357226847adb912d0d861dcce47
+CMusic,mitv://ns2.hellotvvod.com:9906/13f1d23bec5b4d1c8e60d53af62088ca
+愛爾達體育1台(備),mitv://ns2.hellotvvod.com:9906/a84d26ee2fc346e7878e06ee269d18af
+愛爾達體育2台(備),mitv://ns2.hellotvvod.com:9906/18e34288961f4b95aadd93d0bd64c7de
+愛爾達體育3台(備),mitv://ns2.hellotvvod.com:9906/f0460ec92d52459e8326c5fdc1c32919
+TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/449afc84ba654e19a3ca7417ad6cdcf3
+博斯高球,mitv://ns2.hellotvvod.com:9906/744195d94170473e82412210a66f2bce
+博斯高球二,mitv://ns2.hellotvvod.com:9906/eb723a6d2d7c442490e0901031d037e8
+博斯網球,mitv://ns2.hellotvvod.com:9906/b2b2e36c4450479fbdefe1ef6f9d46f0
+博斯魅力網,mitv://ns2.hellotvvod.com:9906/87340ca7a5184bd083f2122feee86eb0
+博斯無限,mitv://ns2.hellotvvod.com:9906/b4863af16b1743ae806be8ff998ad9c4
+博斯無限二,mitv://ns2.hellotvvod.com:9906/bb488cec56ec480eabda9755b3a01c98
+博斯運動,mitv://ns2.hellotvvod.com:9906/ac473f025f04476f88c5afea3631b887
+ELEVEN體育2,mitv://ns2.hellotvvod.com:9906/a2a644df86e34f96a0e0cadf6b2158f0
+智林體育,mitv://ns2.hellotvvod.com:9906/e3b97400caed418695413716925c56d2
+博斯運動二,mitv://ns2.hellotvvod.com:9906/95ed8752105442b2bbf679d920da3e92
+OUTDOOR,mitv://ns2.hellotvvod.com:9906/b02050cd4645421ba7927f38acc5c953
+HBO強檔鉅獻,mitv://ns2.hellotvvod.com:9906/eecea45ed5c44969b43b9f6bfe354cbc
+HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/2813151bff4245a08b9fd78d195599c3
+國家地理高畫質野生頻道,mitv://ns2.hellotvvod.com:9906/3a0959a9260740fa89804972bf386b73
+BBC Earth,mitv://ns2.hellotvvod.com:9906/24fdbb19e6f94ae3b66628f035859f65
+Discovery Asia,mitv://ns2.hellotvvod.com:9906/64825abe302b400b83d994f9c60f2fbf
+Discovery科學頻道,mitv://ns2.hellotvvod.com:9906/6866e69ee2184ee2bf16526d3b3c6fc6
+DMAX,mitv://ns2.hellotvvod.com:9906/69d2fc5722a349a890ee2ef869901fb8
+EVE,mitv://ns2.hellotvvod.com:9906/8fae26c66ea740678d0ba1f92da99966
+HISTORY 2,mitv://ns2.hellotvvod.com:9906/7373df7bdbb54801bde561c0e942fcd2
+歷史頻道,mitv://ns2.hellotvvod.com:9906/27381a461f2044108f13855f143b6bfa
+罪案偵緝頻道,mitv://ns2.hellotvvod.com:9906/a3372c09d3024f178005af87d9bf6068
+BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/66ede0eebef7486dac54e40e92cbe6d2
+LUXE TV,mitv://ns2.hellotvvod.com:9906/31a08398ba454aa8a9763149ebfe071a
+Lifetime,mitv://ns2.hellotvvod.com:9906/512b7514a9944a428659e52b04d1592c
+KLT-靖天國際,mitv://ns2.hellotvvod.com:9906/03e7567257a04604b96d52ff9b5634ac
+HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/75f217b71af944b0873fdda24ffac0c6
+Love Nature,mitv://ns2.hellotvvod.com:9906/3dfbd947eb9448a4a3f4d5dd49f5c056
+美食星球,mitv://ns2.hellotvvod.com:9906/125e1f507f284617b301d865892db1b4
+亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/de0aca36a0b84910b99c34af284c2982
+亞洲旅遊,mitv://ns2.hellotvvod.com:9906/282c1f1000ff4213b127ba035e4458a3
+EYE TV旅遊,mitv://ns2.hellotvvod.com:9906/43410cc36b214c05886f0b9f616cc1a5
+時尚頻道,mitv://ns2.hellotvvod.com:9906/43dd4aa06c2f4155b2b026bf5f90510b
+好消息2台,mitv://ns2.hellotvvod.com:9906/b262dadd8eee44f6a281b27b7f50f726
+三立綜合,mitv://ns2.hellotvvod.com:9906/7c287d7732eb42d1a3aed3a0a3421356
+靖天资讯,mitv://ns2.hellotvvod.com:9906/548327a23b1041ecada99110b0ae87d1
+靖天綜合,mitv://ns2.hellotvvod.com:9906/ff6e1219ef81421aac745251272f12c8
+靖天育樂,mitv://ns2.hellotvvod.com:9906/192f33fe6e9848e5aa92391ce1a584e2
+中视經典,mitv://ns2.hellotvvod.com:9906/3523abab30084b9b83a15ef0e04cdabf
+中视菁采,mitv://ns2.hellotvvod.com:9906/a218f9ed07ac44d5a71762577502de90
+TVBS精采,mitv://ns2.hellotvvod.com:9906/b2e2bb3fd0e744f290a41792c6a469ef
+壹綜合台,mitv://ns2.hellotvvod.com:9906/f04959bb65b54496bb02a093c8b0f4f8
+緯來精采,mitv://ns2.hellotvvod.com:9906/8a4c3909e5c64a0c8bb9dd87f6b3be47
+ETtoday綜合,mitv://ns2.hellotvvod.com:9906/e35bb56c45764e4caac18a9eadb69288
+民视第一,mitv://ns2.hellotvvod.com:9906/c8534551009e495b864c6b5f2a8bb074
+民视台灣,mitv://ns2.hellotvvod.com:9906/9b866c8a58774c409073ef137e522070
+Nice TV靖天歡樂,mitv://ns2.hellotvvod.com:9906/b1a149f3732f4bb3b47aa468dd62e4d5
+八大優頻道,mitv://ns2.hellotvvod.com:9906/de66128da87b4aa8ade269e96f08a736
+三立戏剧,mitv://ns2.hellotvvod.com:9906/8e0ebdcca5d5411d8d15752f9f2693e9
+龍華戏剧,mitv://ns2.hellotvvod.com:9906/b33a69e48e644e6aa67154d47f5c68aa
+靖天戏剧,mitv://ns2.hellotvvod.com:9906/8128de7d62c045699bb57fb5341e1df3
+靖洋戏剧,mitv://ns2.hellotvvod.com:9906/4a9367446db74e63a6669929a77d5a38
+靖天日本,mitv://ns2.hellotvvod.com:9906/94d49d6825dd49fdb1726137144e5c34
+i-Fun動漫,mitv://ns2.hellotvvod.com:9906/019560813fa5473abd944d8cb44cc453
+韓國娱乐,mitv://ns2.hellotvvod.com:9906/ec977f086971429e92f39ab0037c4856
+星衛娱乐,mitv://ns2.hellotvvod.com:9906/e5b2214168354c9fb2fe9f59f555fc2d
+ROCK Extreme,mitv://ns2.hellotvvod.com:9906/363d299b8b73425a8c7bdb74cd0a52d6
+采昌影劇,mitv://ns2.hellotvvod.com:9906/ea2a161b47dd49c1b9917a61d9d3f131
+佛衛慈悲,mitv://ns2.hellotvvod.com:9906/c5df6feec5aa46ee83a3b90c24a63f31
+TV5Monde,mitv://ns2.hellotvvod.com:9906/27ff104f8d524588815cf6cacb52eabe
+Cbeebies,mitv://ns2.hellotvvod.com:9906/ab87a2e4a7254aa2a855befb676a090d
+EYE TV戏剧,mitv://ns2.hellotvvod.com:9906/bdfd7816f48443d489595b93e9b82b0f
+NHK新闻资讯,mitv://ns2.hellotvvod.com:9906/3ae2c99f871f4a66b7ea67efb7182dfc
+愛爾達綜合,mitv://ns2.hellotvvod.com:9906/4a50de8949e84e6f8106eee5f039d2a7
+愛爾達影劇台,mitv://ns2.hellotvvod.com:9906/33083f5fe81943f39bfc4c3a9115e4c1
+ROCK Entertainment,mitv://ns2.hellotvvod.com:9906/58344b94d8344dea842a5792e4558c65
+民视(備),mitv://ns2.hellotvvod.com:9906/a0796266527e4cc8a6325ff86e2799b1
+三立台灣台(備),mitv://ns2.hellotvvod.com:9906/3c657ecc033b4ce891e3f35c5de00742
+Dreamworks,mitv://ns2.hellotvvod.com:9906/ecb6456f10dc4a37a1e7fe6d06aad2e6
+TV5MONDE Style 生活時尚,mitv://ns2.hellotvvod.com:9906/5154f3c67fd743b180548143abcae0bb
+Travel Channel,mitv://ns2.hellotvvod.com:9906/fd8ad277fbfe47f5a94f2b3494442d92
+影迷數位电影台,mitv://ns2.hellotvvod.com:9906/35974441e26743cdb97d57736988b032
+衛视中文台,mitv://ns2.hellotvvod.com:9906/ad2ac743e2094fb2893f9eb354fbe4d3
+愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/71a3bae56abd414fb30499dd0c6ef844
+愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/6d2c46d4068b420ba8ab5e17725c4f41
+愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/2d7497b5bb3c4a56b2531cb3a597ebd5
+台视(備),mitv://ns2.hellotvvod.com:9906/88fa15667b9f4020bbcdd72cd38e304a
+大愛(備),mitv://ns2.hellotvvod.com:9906/eac0915f6fa54ef98be5b65e433ae4e0
+中视(備),mitv://ns2.hellotvvod.com:9906/c19c12d1dad24a5bae363988a8465769
+華视(備),mitv://ns2.hellotvvod.com:9906/84e717ef82044c52a4e69f70bdb78013
+公视(備),mitv://ns2.hellotvvod.com:9906/cc2f17933c1a4c11888b0ca0aec52f2c
+东森新闻(備),mitv://ns2.hellotvvod.com:9906/80087cedc0354ab3b44397e89456763f
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 寰宇新闻,https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
 华视新闻,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
@@ -1001,7 +1063,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
 龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8
 龙华偶象,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 天映频道,http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 天映频道,http://203.77.246.50:5000/udp/239.1.2.162:5000
 东森超视,http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
@@ -1070,7 +1131,6 @@ TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 民视综艺,http://seb.sason.top/ptv/ftv.php?id=zy
 民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
 靖天卡通,http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-博斯運動II,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 求索动物,http://111.11.123.49:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 求索动物,http://111.11.123.49:6610/000000001000/6000000002000010046/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429143132239553&channel-id=wasusyt&Contentid=6000000002000010046
 求索记录,http://111.11.123.49:6610/000000001000/6000000002000032052/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429142822239451&channel-id=wasusyt&Contentid=6000000002000032052
@@ -1172,6 +1232,8 @@ MOMO亲子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+HBO,http://gg.gg/HaNoiIPTV-HBO_HD
+HD 365,https://netstreaming.eu:8080/hls/hd365.m3u8
 台视,rtmp://59.124.75.150/sat/tv071
 台视,rtmp://59.124.75.138/sat/tv071
 台视,rtmp://59.124.75.157/sat/tv071
@@ -1289,89 +1351,70 @@ ELEVEN2,rtmp://59.124.75.150/sat/md021
 ELEVEN2,rtmp://59.124.75.138/sat/md021
 
 🇯🇵日韩频道,#genre#
-NHK-G综合台,mitv://fccs.word-tv.com:9906/6263af600003da7a0818890d1c4df804
-NHK-E教育,mitv://fccs.word-tv.com:9906/6263b02b00030580081ba1ce1d98224d
-TBS,mitv://fccs.word-tv.com:9906/6263b06e0008704e081ca8e99ff0f421
-フジテレビ,mitv://fccs.word-tv.com:9906/6263b26a000a9460082469d6539eed10
-テレビ东京,mitv://fccs.word-tv.com:9906/6263b26a000a9460082469d6539eed10
-日本テレビ,mitv://fccs.word-tv.com:9906/6263b2bc000763bd0825a955be8e315c
-ABC朝日,mitv://fccs.word-tv.com:9906/6263b2d700079f90082612dc1ea0923e
-テレビ大阪,mitv://fccs.word-tv.com:9906/6263b2f200011c5808267aa931edbb62
-鉄道チャンネル,mitv://fccs.word-tv.com:9906/6263b67f0006730608345acf30c8550b
-NEWS24,mitv://fccs.word-tv.com:9906/6263b69c000b1bc60834cd481bfab74d
-FIGHTING TV サムライ,mitv://fccs.word-tv.com:9906/6263b6c1000aa98708355db3962f617a
-アニマルプラネット,mitv://fccs.word-tv.com:9906/6263b9e4000d471308419f16f8b7ecbf
-Disney XD Japan,mitv://fccs.word-tv.com:9906/6263b9ff000f138308420904b67dc9ce
-スターチャンネル１,mitv://fccs.word-tv.com:9906/6263ba1c000df48208427a039443a422
-スターチャンネル２,mitv://fccs.word-tv.com:9906/6263ba35000a41f60842dab86eb1b1b8
-スターチャンネル３,mitv://fccs.word-tv.com:9906/6263ba4f0003ee8408433eaabfc2d499
-スーパー！ドラマＴＶ ＨＤ,mitv://fccs.word-tv.com:9906/6263ba6900036e2f0843a419383e71a9
-MONDO TV HD,mitv://fccs.word-tv.com:9906/6263ba8300099b9908440b3e8caee3c6
-ゴルフネットワークHD,mitv://fccs.word-tv.com:9906/6263ba9c00019bed08446ada9642a1e6
-ＢＢＣワールドニュース,mitv://fccs.word-tv.com:9906/6263bab7000419620844d4f5cc04e408
-CNN/US HD,mitv://fccs.word-tv.com:9906/6263bad6000dd02508455089ee82ea3f
-Music Japan TV HD,mitv://fccs.word-tv.com:9906/6263f32800006cf109214d6c10abb241
-MTV HD,mitv://fccs.word-tv.com:9906/6263f34d000cbe8d0921e11bcd9ae757
-MUSIC ON! TV,mitv://fccs.word-tv.com:9906/6263f37d000ec3d409229d2010e7fb4c
-ヒストリーチャンネル™ HD,mitv://fccs.word-tv.com:9906/6263f3990008aff5092308f256029678
-ＡＸＮ ＨＤ 海外ドラマ,mitv://fccs.word-tv.com:9906/6263f3b6000f0e4c09237bdb1b1a9c7d
-AXNミステリー HD,mitv://fccs.word-tv.com:9906/6263f3d70005b5990923fa5e060ad42f
-ナショナル ジオグラフィック チャンネル HD,mitv://fccs.word-tv.com:9906/6263f3f500069e6a09246fca711384a1
-ＫＢＳ Ｗｏｒｌｄ ＨＤ,mitv://fccs.word-tv.com:9906/6263f44500038e930925a7810bee53ab
-FOX HD,mitv://fccs.word-tv.com:9906/6263f45f000de69509260fb755770301
-東映チャンネルＨＤ,mitv://fccs.word-tv.com:9906/6263f47f0001202009268972cfb9e898
-ムービープラスＨＤ,mitv://fccs.word-tv.com:9906/6263f4b800057420092769360e24cba9
-日テレG+ HD,mitv://fccs.word-tv.com:9906/6263f4d5000d11ea0927dc71009a8ac3
-衛星劇場ＨＤ,mitv://fccs.word-tv.com:9906/6263f52a000e40e2092928c6650161b1
-ＧＡOＲＡ　ＨＤ,mitv://fccs.word-tv.com:9906/6263f545000766f10929907dd1979bf7
-ザ・シネマＨＤ,mitv://fccs.word-tv.com:9906/6263f56000078dbb0929f9ff860b259b
-スカイ・A sports＋ ＨＤ,mitv://fccs.word-tv.com:9906/6263f57a00058727092a5f0b06915664
-ディスカバリーチャンネル,mitv://fccs.word-tv.com:9906/6263f59400004a6f092ac3438bc45750
-旅チャンネルＨＤ,mitv://fccs.word-tv.com:9906/6264ce480003e4670c79434fc22710ba
-釣りビジョンＨＤ,mitv://fccs.word-tv.com:9906/626939f40003d6dc03b96362a9cd7a6d
-ＷＯＷＯＷシネマ,mitv://fccs.word-tv.com:9906/62693a1b00002b2403b9faca61c33fc1
-ＷＯＷＯＷライブ,mitv://fccs.word-tv.com:9906/62693a4800068b0e03baac33be46cd78
-ＷＯＷＯＷプライム,mitv://fccs.word-tv.com:9906/62693a6d0009811603bb3d7db01e6f0c
-テレ朝チャンネル１,mitv://fccs.word-tv.com:9906/62693aae0004970d03bc3a23d2d0ccad
-テレ朝チャンネル２,mitv://fccs.word-tv.com:9906/62693a8e0006364a03bbbd8edca52fd5
-ミュージック・エア,mitv://fccs.word-tv.com:9906/62693ad5000cbca703bcd4918f30a1b1
-ＴＢＳチャンネル１,mitv://fccs.word-tv.com:9906/62693af500075f4303bd5032116ff95f
-銀河,mitv://fccs.word-tv.com:9906/62693b1c00033d9303bde77bad287aef
-フジテレビＮＥＸＴ,mitv://fccs.word-tv.com:9906/62693b410002191603be77b893b12387
-フジテレビＯＮＥ,mitv://fccs.word-tv.com:9906/62693b76000b4fb203bf491c95a2f04d
-フジテレビＴＷＯ,mitv://fccs.word-tv.com:9906/62693b92000ee9b803bfb7682964be08
-J SPORTS 1,mitv://fccs.word-tv.com:9906/62693bb8000a631203c04aaf37cd8e88
-J SPORTS 2,mitv://fccs.word-tv.com:9906/62693bdb0004012003c0d1c50f9e8e29
-J SPORTS 3,mitv://fccs.word-tv.com:9906/62693bfe00003b9903c15986a1340f94
-J SPORTS 4,mitv://fccs.word-tv.com:9906/62693c20000c2a0c03c1e164c32f251c
-NHKBS1,mitv://fccs.word-tv.com:9906/62693c72000aa5af03c321500546bab5
-NHK BS Premium,mitv://fccs.word-tv.com:9906/62693c9500057b0703c3a8b6296d58a1
-BS日テレ,mitv://fccs.word-tv.com:9906/62693cbc000029a203c43fb142c01cdb
-BS朝日,mitv://fccs.word-tv.com:9906/62693cde00029e3403c4c5229e92b136
-BS-TBS,mitv://fccs.word-tv.com:9906/62693d2a000f275003c5f138e225dd0f
-BSテレ東,mitv://fccs.word-tv.com:9906/62693d4d000ebdaa03c679d5761b2308
-BS Sky PerfecTV!,mitv://fccs.word-tv.com:9906/62693d6e000a42ef03c6f9979f2a03e8
-BS 11,mitv://fccs.word-tv.com:9906/62693d9b000d0b7b03c7aa15a4867b48
-NHK word,mitv://fccs.word-tv.com:9906/626193dc00042c1e19e0ae50e7db21fc
-sbs,mitv://fccs.word-tv.com:9906/626b614c000404ac0c23132e23ac6367
-mbc,mitv://fccs.word-tv.com:9906/626b61a8000c30850c247ca5b35e020f
-tvn,mitv://fccs.word-tv.com:9906/626b61e5000831810c2569e731f0dffc
-JTBC,mitv://fccs.word-tv.com:9906/626b621a00034fb20c2637af441b9eed
-JTBC_GOLF,mitv://fccs.word-tv.com:9906/626b622e000b83760c2687e9743aafcc
-Mnet,mitv://fccs.word-tv.com:9906/626b62760007538f0c27a0176a4708f2
-inet,mitv://fccs.word-tv.com:9906/626b62aa000376240c286a394144fa67
-mbc sports,mitv://fccs.word-tv.com:9906/626b62d2000c2a870c2908b476057e9b
-kbs1,mitv://fccs.word-tv.com:9906/626b63d50001600c0c2cf9a9c22671ac
-kbs2,mitv://fccs.word-tv.com:9906/626b6b2a0004a5a20c499e87a5dddfc1
-kbsdram,mitv://fccs.word-tv.com:9906/626b6b0c000c97e10c492b60c9e6b665
-YTN,mitv://fccs.word-tv.com:9906/626b6b3f000bbb6f0c49f25f76d0e7ae
-SPO TV,mitv://fccs.word-tv.com:9906/626b6b70000f323d0c4ab2aafbabb633
-SPO TV2,mitv://fccs.word-tv.com:9906/626b6b8d0005f70d0c4b21950a3625f2
-OCN,mitv://fccs.word-tv.com:9906/626b6ba1000a9f060c4b70e76cf38c79
-cgv,mitv://fccs.word-tv.com:9906/626b6c930002c9c80c4f2035de97b6c4
-mbn,mitv://fccs.word-tv.com:9906/626b6ca3000601660c4f5f88ee8aa471
-kbsjoy,mitv://fccs.word-tv.com:9906/626b6cc6000e76740c4fea6afb20cdaa
-Bloomberg TV,http://59.125.98.83:8551/playlist.m3u8
+NHK-G综合,mitv://ns2.hellotvvod.com:9906/fe7f5dfb495b4de8abee553be1bd9d3d
+NHK-E教育,mitv://ns2.hellotvvod.com:9906/9bceb6cbb87a4ab3ac8674eb63b61230
+日本テレビ,mitv://ns2.hellotvvod.com:9906/19acc89126ed4765bc56687e57ab763d
+TBSテレビ,mitv://ns2.hellotvvod.com:9906/4bf56b7e457c47dfa3399c828e552b04
+テレビ东京,mitv://ns2.hellotvvod.com:9906/f780c734d4e043c98ceeeb922bfcf58d
+フジテレビ,mitv://ns2.hellotvvod.com:9906/398aa7541f4d4a0596aec2b76bee644d
+読売テレビ,mitv://ns2.hellotvvod.com:9906/ebd316425d10420394baeb48dae23f3d
+関西テレビ,mitv://ns2.hellotvvod.com:9906/34419106528f48d5880374704c6d0fac
+KBS京都,mitv://ns2.hellotvvod.com:9906/c792508667f9426983d61df7c604b9fa
+毎日放送,mitv://ns2.hellotvvod.com:9906/065796be4e614104ac527e68f39fa3ba
+朝日放送,mitv://ns2.hellotvvod.com:9906/1ea4a2d3c3a243d0a9bb21ec5bf1504e
+テレビ大阪,mitv://ns2.hellotvvod.com:9906/27d0b554371440029c52099b87ac25e0
+テレビ朝日,mitv://ns2.hellotvvod.com:9906/52fb4e5e73fa4705bf9bb1e2b00cdb2b
+BS-1,mitv://ns2.hellotvvod.com:9906/d30a4950681f4ed093c9e71a055778eb
+BSプレミアム,mitv://ns2.hellotvvod.com:9906/a6c8d497506e4eba8ca967b27c9dc6a8
+BS日テレ,mitv://ns2.hellotvvod.com:9906/8a6db5a122264a0ebde44ac246640de9
+BS朝日,mitv://ns2.hellotvvod.com:9906/2932f1d7f03e40cc8897df3c05465dea
+BS-TBS,mitv://ns2.hellotvvod.com:9906/0b2efd45f385464f8e5c195efa48eddb
+BS11,mitv://ns2.hellotvvod.com:9906/f951d1a4e3034fb9b0cd24c5e961cd06
+BSフジ,mitv://ns2.hellotvvod.com:9906/ea9c1e4facd848df8b8a5103bce8bfbb
+WOWOWプライム,mitv://ns2.hellotvvod.com:9906/99d87d9426cc4eb08d500c8f079f4c9f
+WOWOWライブ,mitv://ns2.hellotvvod.com:9906/e39cf63db470439dae08c15d952db692
+WOWOWシネマ,mitv://ns2.hellotvvod.com:9906/3821019d712e421bb704c9a5d8cc4e72
+スター・チャンネル1,mitv://ns2.hellotvvod.com:9906/9a40a7b5334c4c34995242ca6e0cc58a
+スター・チャンネル2,mitv://ns2.hellotvvod.com:9906/21ce1a6a70d14cc6ad8e530ae0b06365
+スター・チャンネル3,mitv://ns2.hellotvvod.com:9906/24c4ebd21bd5448491465cee9d0b0f39
+BSアニマックス,mitv://ns2.hellotvvod.com:9906/9ceb8e2715c84e2890ddbe0b3bad93a1
+J Sports 1,mitv://ns2.hellotvvod.com:9906/35ee6ab4eccf4ba18a4281284a9a201d
+J Sports 2,mitv://ns2.hellotvvod.com:9906/afc95fa6cc484bf6959d1c7ff0ea383b
+J Sports 3,mitv://ns2.hellotvvod.com:9906/f1ea9bccddde46c9b243529e39f20900
+J Sports 4,mitv://ns2.hellotvvod.com:9906/002d22d99c3b4e63bbcc23f22afd6a72
+BS12,mitv://ns2.hellotvvod.com:9906/19e70f559e004ed282cf9dd06b0cb5c2
+ゴルフネットワークHD,mitv://ns2.hellotvvod.com:9906/8668fd8782fb4a42843d46b922d3abff
+時代劇専門チャンネル,mitv://ns2.hellotvvod.com:9906/f2088c218f914af2b14a409222b48306
+Music Japan TV,mitv://ns2.hellotvvod.com:9906/af98c9a469784b72be0ae6a05f5f694e
+キッズステーションHD,mitv://ns2.hellotvvod.com:9906/590f54cf0dde434d8fcaa88822b2bcd3
+ディスカバリーチャンネル,mitv://ns2.hellotvvod.com:9906/22e3ddfb347742c8ae7c1a9ef09f5f30
+ナショナルジオグラフィック,mitv://ns2.hellotvvod.com:9906/16a0ba8945e641ed9660e8cd23012858
+日テレNEWS 24,mitv://ns2.hellotvvod.com:9906/e75d99b54ccb4092bac3e738ee4d1beb
+旅チャンネル,mitv://ns2.hellotvvod.com:9906/98dd7df823ba434eb54f9382aba8b8d6
+ファミリー劇場,mitv://ns2.hellotvvod.com:9906/a4bd6551a6c44ace87cb2f52feb16e9d
+
+Arirang,mitv://ns2.hellotvvod.com:9906/b63211b570244713839ab27b21b50dbd
+KBS1,mitv://ns2.hellotvvod.com:9906/e3b2697ef8944a90a985f1dc97087a84
+KBS2,mitv://ns2.hellotvvod.com:9906/6f8c341fccc14f8f82485426d837dd97
+KBS Drama,mitv://ns2.hellotvvod.com:9906/c9b15523be604107bd50bb2013781078
+KBS Joy,mitv://ns2.hellotvvod.com:9906/e14f6530439647abb0363e60df32ba2f
+SBS,mitv://ns2.hellotvvod.com:9906/c80c247dcb1d4ec4b6c38e6c0063e924
+SBS Biz,mitv://ns2.hellotvvod.com:9906/26752d5ba41248f59628ea7d7f0016cd
+JTBC,mitv://ns2.hellotvvod.com:9906/88796bcf03e2477ebb3b2b13c3067319
+EBS,mitv://ns2.hellotvvod.com:9906/167fd51c4b6e4d719beabf986cae1e51
+YTN,mitv://ns2.hellotvvod.com:9906/3c0a229a89df41f99cbcce78ea1ae2c0
+Mnet,mitv://ns2.hellotvvod.com:9906/d6c4e63336dd4e419eab1611abb1d08a
+tvN,mitv://ns2.hellotvvod.com:9906/e5f9079d27e7479dad020afcdee8c633
+OCN,mitv://ns2.hellotvvod.com:9906/4aebdb9bd77b41f09a7fe272a3dcecbd
+OCN Movies,mitv://ns2.hellotvvod.com:9906/604a3fd216e54e0bad2455a273462ccc
+TV Chosun,mitv://ns2.hellotvvod.com:9906/d6896406379a44f2aae6083c0aa44f25
+MBC,mitv://ns2.hellotvvod.com:9906/8e7e21b18971409493832782d5949873
+MBN,mitv://ns2.hellotvvod.com:9906/5d4f0d48280f47f3b9e736c7c3e4b528
+Tooniverse,mitv://ns2.hellotvvod.com:9906/e81e534737d34269886556506441da24
+SPOTV,mitv://ns2.hellotvvod.com:9906/a53b23abd8f64cc191a8f1d9532adccb
+SPOTV 2,mitv://ns2.hellotvvod.com:9906/6b35a6bc7f61478fb8865526d08ec49e
+JTBC GOLF,mitv://ns2.hellotvvod.com:9906/5ba7e3dc548140f3ab0f8e6f6129f8b9
+
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -1502,30 +1545,234 @@ EBS KIDS,http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
 dema,http://ye23.win/iptv/korea2021.php?id=dema
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
+NHK-日本国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+韩国-KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+韩国-TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
+NHK G,http://jptv.dinhluong.jp:8080/hls/nhkg/index.m3u8
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 🇺🇸欧美频道,#genre#
-BBC World News,mitv://fccs.word-tv.com:9906/6257e7ef0003fddd0e0c1b89963d6947
-CNN Internationa,mitv://fccs.word-tv.com:9906/62582a520008e9c70f0f6f8479cb96d1
-HISTORY 2,mitv://fccs.word-tv.com:9906/62612b2d000c46021847c4cb0d2536d1
-BBC Earth,mitv://fccs.word-tv.com:9906/62612d0100000350184ee5c7d2e06684
-BBC Lifestyle,mitv://fccs.word-tv.com:9906/62612d25000c2e05184f7584a93f9e5e
-DreamWorks,mitv://fccs.word-tv.com:9906/6259b527000085d61515bd669d7ec89a
-medici-arts,mitv://fccs.word-tv.com:9906/6260e56600092796173732a63095dc7a
-mezzo live,mitv://fccs.word-tv.com:9906/6259b5420005dbab1516283bb17231c9
-France 24,mitv://fccs.word-tv.com:9906/62618b8d0007241819c03a7a7bfe8708
-DW-TV,mitv://fccs.word-tv.com:9906/626191960005358319d7cd241ef843c4
-CNBC Asia Channel,mitv://fccs.word-tv.com:9906/626854f2000c5c52003ad5c1393ee879
-Bloomberg News,mitv://fccs.word-tv.com:9906/626191ed0001b05319d92015e4a6cb61
-新加坡新闻,mitv://fccs.word-tv.com:9906/6261934a0007e00f19de74f21e2709b4
-TV5 Monde,mitv://fccs.word-tv.com:9906/62619385000ca19e19df5ca2f9eb4def
-LOVE NATURE,mitv://fccs.word-tv.com:9906/6260e5a4000e4c4817382627a71c329e
-tvN,mitv://fccs.word-tv.com:9906/6260e5b8000664c11738724174984fec
-Warner TV,mitv://fccs.word-tv.com:9906/6260fa2e000ad4fb17886054ef6e4e06
-LUXE TV Channel,mitv://fccs.word-tv.com:9906/6259b55f000cba8815169b462e40e185
-Travel Channel,mitv://fccs.word-tv.com:9906/626141950004f9a5189f492c02913ec0
-Discovery Asia,mitv://fccs.word-tv.com:9906/6258ebd80002c54f12036161f9ac3eb0
-Boomerang,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
+CNN,mitv://ns2.hellotvvod.com:9906/d696ad5d361d414cbcaf20b295784de4
+TV1,mitv://ns2.hellotvvod.com:9906/afdee8af7e114ad8ad22c08ba5d75a61
+TV2,mitv://ns2.hellotvvod.com:9906/8963211073024321bb5efe84499f87ea
+TV3,mitv://ns2.hellotvvod.com:9906/6e1211a1a7fa454f86c71a0d8f72b57a
+NTV7,mitv://ns2.hellotvvod.com:9906/32ede6cb8208484e9dcab627fe4cd6f0
+八度空間,mitv://ns2.hellotvvod.com:9906/44b92b5fdf2748338fc2bb4a17e7fdbe
+TV9,mitv://ns2.hellotvvod.com:9906/ade75b4e83654520bdcf230f9cace4db
+Astro Ria HD,mitv://ns2.hellotvvod.com:9906/d71223024ea74dc6a76dac6dc91e4308
+Astro Prima HD,mitv://ns2.hellotvvod.com:9906/7b98a81405784688a2a42f6e17ccb0a9
+Astro Oasis HD,mitv://ns2.hellotvvod.com:9906/63e31ad2fe8c4c1597904c103842de20
+Astro Warna HD,mitv://ns2.hellotvvod.com:9906/e8cedfe66fee48659944adf7598d61a9
+Astro Citra HD,mitv://ns2.hellotvvod.com:9906/22116b4dfe8b4ead98f6b69a57a238fc
+Astro Rania HD,mitv://ns2.hellotvvod.com:9906/2d2adcdc4dc34ce091cb15b6b3705fc4
+Astro Aura HD,mitv://ns2.hellotvvod.com:9906/184b9b1dbdee49cea3fb75b00c57efd6
+Al-Hijrah,mitv://ns2.hellotvvod.com:9906/84c20f182ed24ac9824b57cad5f4dadf
+TV Okey,mitv://ns2.hellotvvod.com:9906/b896670b43ea4a6cb6d16221c22578ac
+SUN TV,mitv://ns2.hellotvvod.com:9906/6170942fd6f74a53a81a3a7478944316
+Astro Cricket,mitv://ns2.hellotvvod.com:9906/227478f32a1f4567be50d2cdfcd663e7
+愛奇藝,mitv://ns2.hellotvvod.com:9906/bb9851dc1482405a8a37d3529b8e2d52
+Astro小太陽,mitv://ns2.hellotvvod.com:9906/8dfce73c336045dda22a7fafd64b4137
+Astro AEC(備),mitv://ns2.hellotvvod.com:9906/13582f541fbb486fa0d5d8ca7667cb23
+Astro雙星,mitv://ns2.hellotvvod.com:9906/1964b645fce643e2a6294cb7be6b393d
+Astro全佳,mitv://ns2.hellotvvod.com:9906/f68b44a9efd64dcaa112ab21ee7b6191
+天映頻道,mitv://ns2.hellotvvod.com:9906/70e5550f91164be489864238b76cf358
+翡翠台(華麗台),mitv://ns2.hellotvvod.com:9906/90c0e559ae7349b3bbe7358f6324db17
+Astro AOD HD 311,mitv://ns2.hellotvvod.com:9906/d8c9259eed6e4121b16533fb993cf741
+中天亞洲台,mitv://ns2.hellotvvod.com:9906/ae1eca84c7de4022900d92660fea3bd7
+TVB星河(粵),mitv://ns2.hellotvvod.com:9906/5250246e882b4d6196caf3e30490d3bf
+天映經典,mitv://ns2.hellotvvod.com:9906/e2890c7f576642279acbb408de009922
+Astro歡喜台(備),mitv://ns2.hellotvvod.com:9906/d4ee13d1905840f4b01d313b69db022c
+KBS World,mitv://ns2.hellotvvod.com:9906/5d5b2c81a19c4e40a0ab155bfc9c427c
+ONE,mitv://ns2.hellotvvod.com:9906/b4d7b5b6901144289fbba183a27ac676
+Oh!K,mitv://ns2.hellotvvod.com:9906/fadfa54c8f384c0e87fce6a9beb1b1f7
+Colors Hindi,mitv://ns2.hellotvvod.com:9906/ad25258f7d6e4b52a47cb056fe4c40c7
+TVS,mitv://ns2.hellotvvod.com:9906/11526ea5cc154e0ba20b5a7e26c42f60
+Astro Vaanavil,mitv://ns2.hellotvvod.com:9906/e3c5a6694edd478286b9dc8116bdeb35
+tvN Movies HD,mitv://ns2.hellotvvod.com:9906/240d58821e2f444fada7253324c56428
+Astro Awani,mitv://ns2.hellotvvod.com:9906/730e6ee1ed324cb88035b903679e3be6
+BERNAMA,mitv://ns2.hellotvvod.com:9906/e319f29931a342e8b4e9e65c1f0eba1a
+CGTN,mitv://ns2.hellotvvod.com:9906/97fd18657ca340e29cf5670f9ff9f063
+BBC World News,mitv://ns2.hellotvvod.com:9906/71b12453ec86473587437099938ab521
+Al Jazeera English,mitv://ns2.hellotvvod.com:9906/b4d709e7e1f848479a4e2c37510d4e71
+CNBC,mitv://ns2.hellotvvod.com:9906/ac5a16cacaae4e53b884affaf847dddd
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/abfbd1183b4742fe862723542083996d
+Astro Ceria,mitv://ns2.hellotvvod.com:9906/cbe61db2f0c34437a62ff799ff72f69b
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/1853934b1c2242a8bf23b05cc273f0f2
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/9a32c0428f2d4c969768dcdd39e01baa
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/b3a14bdd28254633aaed3ef0aa417e20
+Boomerang,mitv://ns2.hellotvvod.com:9906/71b472b2863f4bf6bcf73d93ae23d0ba
+AXN亞洲,mitv://ns2.hellotvvod.com:9906/6de70da25336411188b0d9ed0565bf84
+KIX,mitv://ns2.hellotvvod.com:9906/9ec23d6c4565440a880a6f83a561fcf0
+HITS,mitv://ns2.hellotvvod.com:9906/2a57f28743984a27a4448033273e9395
+Astro Arena,mitv://ns2.hellotvvod.com:9906/c89c6d2c4f0742ef98f9e7aebe97fec3
+Astro SuperSport,mitv://ns2.hellotvvod.com:9906/eea3c852af0043afa182c76e5ee8995f
+Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/23cc86ae904c4bd996483a3a221821c1
+Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/1ce079b5624b4676ad82c4260c3be239
+Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/8aadbdc5df7840628234f80f5e59bdcc
+beIN Sports 3,mitv://ns2.hellotvvod.com:9906/38185c2afd63401489ddaed3f8a5c95d
+WWE,mitv://ns2.hellotvvod.com:9906/6c3879908dd8451499966ef5b2760007
+Sky News,mitv://ns2.hellotvvod.com:9906/0be3ecdadc3a4b039d904070a61a6988
+八度空間(備),mitv://ns2.hellotvvod.com:9906/c1f5c83cd6554d38bda09ba149d7764c
+Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/bfcd765fae5c4a9d839130a9ef36401c
+tvN,mitv://ns2.hellotvvod.com:9906/e5f9079d27e7479dad020afcdee8c633
+Drama Sangat,mitv://ns2.hellotvvod.com:9906/224939102bf34370a02cb67875194fbc
+RTM Sport,mitv://ns2.hellotvvod.com:9906/135834637a1d44f9a381b70bf4ae9d35
+Berita RTM,mitv://ns2.hellotvvod.com:9906/8df71a6945c04a7986ad6378615e5b7c
+DW,mitv://ns2.hellotvvod.com:9906/84335cf89bfa46f8a5bdeaac2b507d51
+France24,mitv://ns2.hellotvvod.com:9906/5126c29b8d3b4e54bdca9dcf596f90a0
+SPOTV,mitv://ns2.hellotvvod.com:9906/c2eedd5dd88847acb8ee196ecb068516
+beIN Sports,mitv://ns2.hellotvvod.com:9906/817799dc859a4b7fab3b4c3dfc6a82fc
+TVB娱乐新闻台,mitv://ns2.hellotvvod.com:9906/ddd18af9e99a44618488c5b35793cea0
+Astro AEC,mitv://ns2.hellotvvod.com:9906/d90d3951521a4e758c496aac655afe03
+Awesome TV,mitv://ns2.hellotvvod.com:9906/d68eb89ccd7c4d15a4baeb6599df9c2b
+ABO Movies Thangathirai HD,mitv://ns2.hellotvvod.com:9906/3373aec2bb554f03abe10806b417e21f
+Colors Tamil,mitv://ns2.hellotvvod.com:9906/09cd9a135761471fa0d4a24ccb41e4da
+BOO,mitv://ns2.hellotvvod.com:9906/e50b00221acc4eb0b6a7ad33dc057ede
+TVB經典台,mitv://ns2.hellotvvod.com:9906/fa601e7167b846349514abf5c241195a
+ABC Australia,mitv://ns2.hellotvvod.com:9906/07c6a4c5c894472c9e87ad08649d8a86
+Eurosport HD,mitv://ns2.hellotvvod.com:9906/2e812d5c1ca241238c06bd70a3cfa6d9
+Astro Arena 2,mitv://ns2.hellotvvod.com:9906/cd038863c71d4641b0e2be7e0f1b351c
+Astro SuperSport 5,mitv://ns2.hellotvvod.com:9906/ef94ce7a97d04b6d845567055e745c3b
+Astro Vinmeen,mitv://ns2.hellotvvod.com:9906/f18a6f3d85cb49a7882a729d535d6725
+Sun Music,mitv://ns2.hellotvvod.com:9906/d44e2c6043444295abf050e6f0e5e505
+Chutti TV,mitv://ns2.hellotvvod.com:9906/bf84262ada584983a9217e66b2f2bd67
+Adithya,mitv://ns2.hellotvvod.com:9906/0577555e5ef9496ca95a305b05b6f282
+Star Vijay,mitv://ns2.hellotvvod.com:9906/bcba5dcca38048b3874802f0e296d5b0
+Zee Tamil,mitv://ns2.hellotvvod.com:9906/377dee065d2243a58c553b557d92af60
+TVBS亞洲,mitv://ns2.hellotvvod.com:9906/8bd2e7b648b8482d93cbc997774a4081
+Astro AOD 352,mitv://ns2.hellotvvod.com:9906/1cfc3645df594dae99b0df60a2a342c9
+Astro AOD 354,mitv://ns2.hellotvvod.com:9906/9f722420aca84ac0a078e52a0644c47c
+Astro Tutor TV SK,mitv://ns2.hellotvvod.com:9906/e34418f08ec448179ea69717773f0aab
+Astro Tutor TV SPM,mitv://ns2.hellotvvod.com:9906/027e5b091868494b8dbb6dd3a604ba10
+Premier Sports,mitv://ns2.hellotvvod.com:9906/4ee797cdce254d66835ce8ea638d9a8c
+TA-DAA!,mitv://ns2.hellotvvod.com:9906/4630a068614c41eca6ab6459ed8a0811
+eGG Network,mitv://ns2.hellotvvod.com:9906/3d40df7f23c2491b91bf3947cef159b8
+BollyOne,mitv://ns2.hellotvvod.com:9906/21e41dd40088446cb176dabe173ddb30
+HITS Movies,mitv://ns2.hellotvvod.com:9906/2d863bb3d8a84e4db5bbba11797ab023
+SHOWCASE MOVIES,mitv://ns2.hellotvvod.com:9906/20e874b794f44137b01858b25990455e
+PrimeTime Channel,mitv://ns2.hellotvvod.com:9906/af84c9c9de0845488bd1b261ce55ffe8
+Golf Channel,mitv://ns2.hellotvvod.com:9906/c103e76609ef4b80b5a707db83283a47
+Astro歡喜台,mitv://ns2.hellotvvod.com:9906/66a9ee5314044b49a8662635acb0f3c8
+Baby TV,mitv://ns2.hellotvvod.com:9906/5f525b4f543a4ef099da577732073135
+TLC,mitv://ns2.hellotvvod.com:9906/5201fc0be3cf47868d97de76b81b0268
+beIN Sports 2,mitv://ns2.hellotvvod.com:9906/1542f4d3c7704c8c9a9dec5e8b23f946
+新加坡
+天映頻道,mitv://ns2.hellotvvod.com:9906/70e5550f91164be489864238b76cf358
+中天亞洲台,mitv://ns2.hellotvvod.com:9906/ae1eca84c7de4022900d92660fea3bd7
+TVB星河(粵),mitv://ns2.hellotvvod.com:9906/5250246e882b4d6196caf3e30490d3bf
+天映經典,mitv://ns2.hellotvvod.com:9906/e2890c7f576642279acbb408de009922
+KBS World,mitv://ns2.hellotvvod.com:9906/5d5b2c81a19c4e40a0ab155bfc9c427c
+ONE,mitv://ns2.hellotvvod.com:9906/b4d7b5b6901144289fbba183a27ac676
+Oh!K,mitv://ns2.hellotvvod.com:9906/fadfa54c8f384c0e87fce6a9beb1b1f7
+Colors Hindi,mitv://ns2.hellotvvod.com:9906/ad25258f7d6e4b52a47cb056fe4c40c7
+CGTN,mitv://ns2.hellotvvod.com:9906/97fd18657ca340e29cf5670f9ff9f063
+BBC World News,mitv://ns2.hellotvvod.com:9906/71b12453ec86473587437099938ab521
+CNBC,mitv://ns2.hellotvvod.com:9906/ac5a16cacaae4e53b884affaf847dddd
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/abfbd1183b4742fe862723542083996d
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/1853934b1c2242a8bf23b05cc273f0f2
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/9a32c0428f2d4c969768dcdd39e01baa
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/b3a14bdd28254633aaed3ef0aa417e20
+Boomerang,mitv://ns2.hellotvvod.com:9906/71b472b2863f4bf6bcf73d93ae23d0ba
+AXN亞洲,mitv://ns2.hellotvvod.com:9906/6de70da25336411188b0d9ed0565bf84
+HITS,mitv://ns2.hellotvvod.com:9906/2a57f28743984a27a4448033273e9395
+beIN Sports 3,mitv://ns2.hellotvvod.com:9906/38185c2afd63401489ddaed3f8a5c95d
+Mediacorp 5,mitv://ns2.hellotvvod.com:9906/cf6e6d3a3f7b4855aec004b8a5ff7f40
+Mediacorp 8,mitv://ns2.hellotvvod.com:9906/7cf161a88b1e4ab9b4171b3cf279c5bd
+Suria,mitv://ns2.hellotvvod.com:9906/fab4fca6002344f7beb6079d75a68906
+Vasantham,mitv://ns2.hellotvvod.com:9906/e775e7c0a5d9453c8582a90cfa06e302
+CNA,mitv://ns2.hellotvvod.com:9906/07f719ca4d384a2eba726e034ddef867
+Mediacorp U,mitv://ns2.hellotvvod.com:9906/0f2dfca3fab84f6cab6079c9a4a21bc0
+衛视电影台,mitv://ns2.hellotvvod.com:9906/93ef06867a4046adb64caa364dbbd594
+Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/bfcd765fae5c4a9d839130a9ef36401c
+Arirang,mitv://ns2.hellotvvod.com:9906/b63211b570244713839ab27b21b50dbd
+Euronews,mitv://ns2.hellotvvod.com:9906/da975b140b9f4b468ca9b0ae31b8f943
+Fight Sports,mitv://ns2.hellotvvod.com:9906/a7765a3bf3bf4b9a987c23adca34bf8b
+GEM,mitv://ns2.hellotvvod.com:9906/449268f33495452a80097371ec125ec7
+Horse Racing 89,mitv://ns2.hellotvvod.com:9906/d7792e4344a74bd4b75a853550577504
+Fox News,mitv://ns2.hellotvvod.com:9906/b6635fdede3747a2b4944b4f59d49f72
+beIN Sports,mitv://ns2.hellotvvod.com:9906/817799dc859a4b7fab3b4c3dfc6a82fc
+HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/75f217b71af944b0873fdda24ffac0c6
+TV5Monde,mitv://ns2.hellotvvod.com:9906/27ff104f8d524588815cf6cacb52eabe
+东森亞洲衛视,mitv://ns2.hellotvvod.com:9906/01ab055352b84ebe97c36aab6f377aab
+Thrill,mitv://ns2.hellotvvod.com:9906/bc63af2cb9d64cf9903e217b1d8ad70b
+Hub都會台,mitv://ns2.hellotvvod.com:9906/ead05e3ded8c4204a041460d3ac30f34
+TVBS亞洲,mitv://ns2.hellotvvod.com:9906/8bd2e7b648b8482d93cbc997774a4081
+Hub娛家,mitv://ns2.hellotvvod.com:9906/9752da265eed4044b313b99050225cc6
+NBA,mitv://ns2.hellotvvod.com:9906/1c88c5b38de345518b3360beb18bb44c
+beIN Sports 2,mitv://ns2.hellotvvod.com:9906/1542f4d3c7704c8c9a9dec5e8b23f946
+Hub Sports 1,mitv://ns2.hellotvvod.com:9906/1b1baa19b22e49ecb1f79ced64bb2260
+Hub Sports 2,mitv://ns2.hellotvvod.com:9906/cee4ddd6bfa84076a82d1bae81540a07
+Hub Sports 3,mitv://ns2.hellotvvod.com:9906/fac5d6bb0bfe41a5bf03f65cb95ba311
+Horse Racing 88,mitv://ns2.hellotvvod.com:9906/f73aabdaa8b540a38959083ba74539e4
 
+tvN Movies HD,mitv://ns2.hellotvvod.com:9906/240d58821e2f444fada7253324c56428
+Indosiar,mitv://ns2.hellotvvod.com:9906/564ca3d76842483b936a8bbef2c9a9ef
+RCTI,mitv://ns2.hellotvvod.com:9906/35e8b3e9cd314af79ef744c1bfea3873
+泰國
+Channel 5,mitv://ns2.hellotvvod.com:9906/fc95359e37944fd98c4d96c3119a291d
+NBT,mitv://ns2.hellotvvod.com:9906/972e774c47db4d73b7f6dca1c4ff27fa
+TNN 16,mitv://ns2.hellotvvod.com:9906/d38c83daefe246bc9a24e389f8ef9ff7
+JKN 18,mitv://ns2.hellotvvod.com:9906/74fbbc1c01914b9e9aa199bc9a795d9e
+Voice TV,mitv://ns2.hellotvvod.com:9906/c738c2c7e0df4f44b9d76c536c063c68
+Nation TV,mitv://ns2.hellotvvod.com:9906/0ae10e01f50d43e4a8ae6d3b1639e879
+Workpoint TV,mitv://ns2.hellotvvod.com:9906/35406a7114c44a928d1b75ba65bd1bb0
+true4U,mitv://ns2.hellotvvod.com:9906/85c7ee9ab8164f96a9672e932060b1df
+GMM 25,mitv://ns2.hellotvvod.com:9906/b95529511c994934bd5947ab1974e7a8
+Channel 8,mitv://ns2.hellotvvod.com:9906/c3eed47753ce460ca65fb0ee96e4e9ca
+Mono 29,mitv://ns2.hellotvvod.com:9906/89f35ced64314518b1ddf9a137c0e735
+MCOT,mitv://ns2.hellotvvod.com:9906/33610e5d10c547af8aa29c3568c56ed5
+ONE,mitv://ns2.hellotvvod.com:9906/c0523f5548a14fd48febfa97c68a69d9
+Thairath TV,mitv://ns2.hellotvvod.com:9906/18eadbbc3e404414991b6e3cd4628aa6
+Channel 3,mitv://ns2.hellotvvod.com:9906/2b3428c4b93b413bb40f5da82072e4b7
+Amarin TV,mitv://ns2.hellotvvod.com:9906/83f041cdcd0040ce800bcf98a98aa763
+Channel 7,mitv://ns2.hellotvvod.com:9906/197f34b577044fe0b98544d84e54bf1c
+PPTV,mitv://ns2.hellotvvod.com:9906/c682e91ace8b4c209ebd653806034ff8
+Boomerang,mitv://ns2.hellotvvod.com:9906/182fde8ab2ce4471842f585642df9670
+Toonee,mitv://ns2.hellotvvod.com:9906/30995146ef31459399ed0c447afb955d
+Thai Parliament TV,mitv://ns2.hellotvvod.com:9906/aeaeaf850def4f5c8cacd860f4ff24ff
+Thai PBS,mitv://ns2.hellotvvod.com:9906/4ab13d73657e409b960fa128add73320
+News 1,mitv://ns2.hellotvvod.com:9906/8daeaeb7f6824536a6282b6b8afda56e
+Channel 4050,mitv://ns2.hellotvvod.com:9906/67c563e3538e4b979b13ea634948e3be
+TVB Thai,mitv://ns2.hellotvvod.com:9906/66b2c2c1fef34b548219cd5b26706cc9
+Bluesky,mitv://ns2.hellotvvod.com:9906/98b6e1501ed641ddaa7d9d56c83dabe2
+Top News,mitv://ns2.hellotvvod.com:9906/3d7eb0abe37b47f2b30faac08be52c10
+True Sport 2,mitv://ns2.hellotvvod.com:9906/3ae54bd28e724ceab6b90fea9d9155fc
+True Sport 3,mitv://ns2.hellotvvod.com:9906/b08234feb46a498686d33bfab283dc2d
+True Sport 4,mitv://ns2.hellotvvod.com:9906/83dcadb37ace48878d1bfa26f7074c24
+True Sport 5,mitv://ns2.hellotvvod.com:9906/31489fb2771b4cdf92d358e3f7f1e23e
+True Sport 7,mitv://ns2.hellotvvod.com:9906/199918ed18dc42c099b7ca91b2b54b06
+菲律賓
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/1853934b1c2242a8bf23b05cc273f0f2
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/9a32c0428f2d4c969768dcdd39e01baa
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/b3a14bdd28254633aaed3ef0aa417e20
+Boomerang,mitv://ns2.hellotvvod.com:9906/71b472b2863f4bf6bcf73d93ae23d0ba
+TV5,mitv://ns2.hellotvvod.com:9906/e82d0b6cd7064e9a9a316deb5eb2f1f3
+Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/41500885d1a1462e91bbddf16543d48b
+印度
+SUN TV,mitv://ns2.hellotvvod.com:9906/6170942fd6f74a53a81a3a7478944316
+CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/af8b8dedafe94107b8286b40ce902adc
+India TV,mitv://ns2.hellotvvod.com:9906/31aa08f05ae744ca8fe015303bed6d41
+Janam TV,mitv://ns2.hellotvvod.com:9906/b3a4ad7f43be49e78120e57e7d21f8ad
+Colors Tamil,mitv://ns2.hellotvvod.com:9906/09cd9a135761471fa0d4a24ccb41e4da
+NDTV,mitv://ns2.hellotvvod.com:9906/8127a7a9844942d38af659cdc79cfc35
+Sun Music,mitv://ns2.hellotvvod.com:9906/d44e2c6043444295abf050e6f0e5e505
+Chutti TV,mitv://ns2.hellotvvod.com:9906/bf84262ada584983a9217e66b2f2bd67
+Adithya,mitv://ns2.hellotvvod.com:9906/0577555e5ef9496ca95a305b05b6f282
+Star Vijay,mitv://ns2.hellotvvod.com:9906/bcba5dcca38048b3874802f0e296d5b0
+Zee Tamil,mitv://ns2.hellotvvod.com:9906/377dee065d2243a58c553b557d92af60
+美國
+CNN,mitv://ns2.hellotvvod.com:9906/d696ad5d361d414cbcaf20b295784de4
+CNBC,mitv://ns2.hellotvvod.com:9906/ac5a16cacaae4e53b884affaf847dddd
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/abfbd1183b4742fe862723542083996d
+ESPN,mitv://ns2.hellotvvod.com:9906/9ce53aaca2894770af7ae45124380437
+CBSN,mitv://ns2.hellotvvod.com:9906/cc29c6775fed4c4ca8f06cd2ef6cfdbf
+Fox News,mitv://ns2.hellotvvod.com:9906/b6635fdede3747a2b4944b4f59d49f72
+Food Network,mitv://ns2.hellotvvod.com:9906/c102c71f55954d6e8ce8228d5063b704
+NBA,mitv://ns2.hellotvvod.com:9906/1c88c5b38de345518b3360beb18bb44c
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 罪案侦辑,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=MDED2146129621461296&ct=18392&tsum=5d3635ae16593892965af78a8a1c402c
 CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
@@ -1635,12 +1882,7 @@ Bloomberg TV Europe,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS
 Bloomberg TV US,https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 FTV Magazine,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 Miami TV,https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/playlist.m3u8
@@ -1665,6 +1907,33 @@ World Poker Tour,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b
 美女走秀,https://vdse.bdstatic.com//07542a16fc71689e380ba5e8b1d3b790.mp4
 迈阿密风景,https://vd3.bdstatic.com/mda-kaumxbnnkfz5sk37/hd/mda-kaumxbnnkfz5sk37.mp4
 ABC Australia,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+KH-BayonTV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+KH-FreshNewsTV,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
+蒙古-HHGZ,http://spacetv.in/stream/WUQP6BVK17/56.m3u8
+5AABTV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+Inwonder,https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+BadenTV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+MDF.1,http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+QVC,http://ios-stream.qvc.de/qvc.m3u8
+SuperTV,http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+TVRS,http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+Astrakhan24(Opt-2),http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+MostVideoTV1,http://w4.mostvideo.tv/tv/ch1.m3u8
+MuzSojuz,http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+ShansonTV(Opt-2),http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+TjumenskoeVremja,http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+TROSoyuz,http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+IZ电视,http://live.m2.tv/hls3/stream.m3u8
+RUTV,http://92.50.128.180/utv/1358/index.m3u8
+Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+Орск,http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+RBC,http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
+ТВ,http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
+TVBRICS(ENG),http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+Hope俄罗斯,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
+Bloomberg TV,http://59.125.98.83:8551/playlist.m3u8
 
 🎭劇场频道,#genre#
 爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
@@ -1836,18 +2105,13 @@ ABC Australia,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc
 爱浪漫,http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
 爱都市,http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
 爱谍战,http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
-爱经典,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
 爱悬疑,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
-爱科幻,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
-爱喜剧,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
-爱玩具,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
 魅力潇湘,http://111.40.196.36/0000000000000000/0/index.m3u8?channel-id=ystenlive&livemode=1&stbId=1&Contentid=1000000001000006197
 动作电影,http://111.40.196.36/0000000000000000/0/index.m3u8?channel-id=ystenlive&livemode=1&stbId=1&Contentid=8103864434730665389
 动作电影,http://39.134.66.3/PLTV/88888888/224/3221225555/index.m3u8
 军旅剧场,http://39.134.66.5/PLTV/88888888/224/3221225560/index.m3u8
 惊悚悬疑,http://111.40.196.36/0000000000000000/0/index.m3u8?channel-id=ystenlive&livemode=1&stbId=1&Contentid=7151256057701199617
 惊悚悬疑,http://39.134.66.5/PLTV/88888888/224/3221225553/index.m3u8
-海外剧场,http://111.40.196.36/0000000000000000/0/index.m3u8?channel-id=ystenlive&livemode=1&stbId=1&Contentid=7681593242002292003
 武搏世界,http://111.40.196.36/0000000000000000/0/index.m3u8?channel-id=ystenlive&livemode=1&stbId=1&Contentid=bokesen
 明星大片,http://111.40.196.36/0000000000000000/0/index.m3u8?channel-id=ystenlive&livemode=1&stbId=1&Contentid=5595720619887440144
 爱情喜剧,http://111.40.196.36/0000000000000000/0/index.m3u8?channel-id=ystenlive&livemode=1&stbId=1&Contentid=8393829412396288037
@@ -2126,7 +2390,6 @@ CHC动作电影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888
 周星驰,http://akm-tct.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 华语經典,http://akm-tct.douyucdn.cn/live/85894rmovieChow.flv?uuid=
 极致蓝光,http://akm-tct.douyucdn.cn/live/747764riNLjASiKM.flv?uuid=
-斗鱼电影5,http://epg.112114.xyz/douyu/5423
 斗鱼电影45,http://epg.112114.xyz/douyu/2337939
 斗鱼电影51,http://epg.112114.xyz/douyu/1226741
 斗鱼电影52,http://epg.112114.xyz/douyu/6896398
@@ -2138,7 +2401,6 @@ CHC动作电影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888
 斗鱼电影88,http://epg.112114.xyz/douyu/4360596
 斗鱼电影89,http://epg.112114.xyz/douyu/4373285
 斗鱼电影113,http://epg.112114.xyz/douyu/5522351
-斗鱼电影114,http://epg.112114.xyz/douyu/562225
 斗鱼电影115,http://epg.112114.xyz/douyu/223521
 斗鱼电影116,http://epg.112114.xyz/douyu/8651489
 斗鱼电影120,http://epg.112114.xyz/douyu/5354713
@@ -2146,7 +2408,6 @@ CHC动作电影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888
 斗鱼电影130,http://epg.112114.xyz/douyu/8014467
 斗鱼电影133,http://epg.112114.xyz/douyu/5192695
 斗鱼电影137,http://epg.112114.xyz/douyu/1274132
-斗鱼电影149,http://epg.112114.xyz/douyu/6582435
 斗鱼电影150,http://epg.112114.xyz/douyu/3980787
 斗鱼电影157,http://epg.112114.xyz/douyu/8362978
 斗鱼电影158,http://epg.112114.xyz/douyu/8788687
@@ -2158,6 +2419,7 @@ CHC动作电影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888
 斗鱼电影172,http://epg.112114.xyz/douyu/2040822
 斗鱼电影174,http://epg.112114.xyz/douyu/8317926
 斗鱼电影177,http://epg.112114.xyz/douyu/9292492
+斗鱼电影135,http://epg.112114.xyz/douyu/7476264
 斗鱼科普2,http://epg.112114.xyz/douyu/9447974
 斗鱼科普3,http://epg.112114.xyz/douyu/9369468
 斗鱼科普4,http://epg.112114.xyz/douyu/9738854
@@ -2201,8 +2463,6 @@ CHC动作电影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888
 邵氏-108佛跳墙,https://50069.njc.svp.tencent-cloud.com/0b78euaaeaaakuanzzkpfnqvajodaisqaaqa.f10003.mp4
 邵氏-出笼马骝,https://50069.njc.svp.tencent-cloud.com/0bf2kuabgaaadaabeb3binqvavodcnkqaeya.f10003.mp4
 邵氏-069霹雳十杰,https://50069.njc.svp.tencent-cloud.com/0bf2maaacaaatiagrccrk5qvaygdafqaaaia.f10003.mp4
-斗鱼电影35,http://epg.112114.xyz/douyu/248753
-斗鱼电影135,http://epg.112114.xyz/douyu/7476264
 
 💎👧韩国女团,#genre#
 韩国歌团002ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
@@ -2428,6 +2688,65 @@ CHC动作电影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888
 热舞186,http://epg.112114.xyz/douyu/329667
 
 🔊DJ舞曲,#genre#
+8首串烧歌曲,https://vd3.bdstatic.com/mda-mmpgmu9qnrdctwza/hd/cae_h264/1640350134589718126/mda-mmpgmu9qnrdctwza.mp4
+劲爆DJ串烧,https://vd4.bdstatic.com/mda-mmncsg2n2cc3xdeg/480p/h264/1640253222392397868/mda-mmncsg2n2cc3xdeg.mp4
+劲爆DJ串烧,https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4
+女生DJ串烧,https://vd4.bdstatic.com/mda-mmncsg3gspc9rq5m/480p/h264/1640253169234879704/mda-mmncsg3gspc9rq5m.mp4
+最新伤感5首歌,https://vd4.bdstatic.com/mda-mmm51m2ep4vqhhst/480p/h264/1640146053815826024/mda-mmm51m2ep4vqhhst.mp4
+伤心酒吧串烧,https://vd4.bdstatic.com/mda-mkkr6vrrwp7uv7nu/hd/cae_h264/1637518093908994596/mda-mkkr6vrrwp7uv7nu.mp4
+车载必备DJ舞曲,https://vd2.bdstatic.com/mda-mm33bvw7zymzhwgx/1080p/cae_h264/1638591344918378556/mda-mm33bvw7zymzhwgx.mp4
+超好听的情歌,https://vd4.bdstatic.com/mda-mmh42td9ea0c1cjm/1080p/cae_h264/1639797853752669407/mda-mmh42td9ea0c1cjm.mp4
+酒吧劲爆中文舞曲,https://vd4.bdstatic.com/mda-mm0b66vfp7wt1u2z/1080p/cae_h264/1638380807362057569/mda-mm0b66vfp7wt1u2z.mp4
+车载DJ舞曲精选,https://vd3.bdstatic.com/mda-mktgbuw1tgftu9r3/1080p/cae_h264/1638416019802849347/mda-mktgbuw1tgftu9r3.mp4
+2021一夜爆红歌曲,https://vd2.bdstatic.com/mda-mmcdm04add2nws28/1080p/cae_h264/1639608593870785368/mda-mmcdm04add2nws28.mp4
+音乐520,https://vdse.bdstatic.com//7b2f1b020851df0037ed7b5013a8887d.mp4
+澳门酒吧音乐DJ,https://vd3.bdstatic.com/mda-mkpi5r0xe92ja446/480p/h264/1637759253085791346/mda-mkpi5r0xe92ja446.mp4
+网络情歌精选DJ,https://vd3.bdstatic.com/mda-mm1eqirhmt0293u0/480p/h264/1638443831616522299/mda-mm1eqirhmt0293u0.mp4
+精选6首洗脑曲,https://vd3.bdstatic.com/mda-mjgmwij68mqdp5qc/480p/h264/1634485877945514484/mda-mjgmwij68mqdp5qc.mp4
+超强车载重音乐,https://vdse.bdstatic.com//be2987198eb242f59daaea05ac1d95ee.mp4
+5首伤感音乐舞曲,https://vd3.bdstatic.com/mda-mkh8vtjpfn1iq9ei/480p/h264/1637216574377274148/mda-mkh8vtjpfn1iq9ei.mp4
+5首绝美情歌,https://vd3.bdstatic.com/mda-mjtb7bbvk98u8z58/480p/h264/1635409459813822543/mda-mjtb7bbvk98u8z58.mp4
+伤感情歌串烧舞曲,https://vd3.bdstatic.com/mda-mkva4u307sie5api/hd/cae_h264/1638265271419100623/mda-mkva4u307sie5api.mp4
+全民蹦迪洗脑神曲,https://vd3.bdstatic.com/mda-mm72pcq75p29jy3y/480p/h264/1638928782018074273/mda-mm72pcq75p29jy3y.mp4
+2021最新中文DJ,https://vd3.bdstatic.com/mda-mkp3aqpf8f57j32h/480p/h264/1637720602923307246/mda-mkp3aqpf8f57j32h.mp4
+精选大江南北歌曲,https://vd3.bdstatic.com/mda-mkudm4eq9p8p3u86/480p/h264/1638178700564898831/mda-mkudm4eq9p8p3u86.mp4
+网络爆红DJ舞曲,https://vd3.bdstatic.com/mda-mki529nvmkxde6x8/480p/h264/1637293395968208020/mda-mki529nvmkxde6x8.mp4
+6首火遍全网歌曲,https://vd3.bdstatic.com/mda-mkf63gabjer51i9c/480p/h264/1637037550863164410/mda-mkf63gabjer51i9c.mp4
+劲歌热舞网络DJ,https://vd3.bdstatic.com/mda-mku3r3h9uxyjxpjf/480p/h264/1638153592661083380/mda-mku3r3h9uxyjxpjf.mp4
+热门DJ笑纳,https://vd3.bdstatic.com/mda-mkn4pytp5id88k1n/hd/cae_h264/1637642343249797600/mda-mkn4pytp5id88k1n.mp4
+火爆DJ串烧渇望,https://vd3.bdstatic.com/mda-mkmhuih1w2cmza3u/480p/h264/1637585190624896109/mda-mkmhuih1w2cmza3u.mp4
+酒吧爆火DJ舞曲,https://vd4.bdstatic.com/mda-mmgf5h3qfy82g3p6/1080p/cae_h264/1639741043433716746/mda-mmgf5h3qfy82g3p6.mp4
+酒吧爆火DJ舞曲②,https://vd4.bdstatic.com/mda-mmgf9k7sqr771a0d/1080p/cae_h264/1639739439753027337/mda-mmgf9k7sqr771a0d.mp4
+DJ音乐情歌选,https://vd2.bdstatic.com/mda-mm595gmdf11p2pf0/1080p/cae_h264/1638806041749745133/mda-mm595gmdf11p2pf0.mp4
+一夜火爆i网络DJ舞曲,https://vdse.bdstatic.com//692b9306c06b72d223c9d714f8ebe579.mp4
+2021年最火伤感音乐,https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
+2021年网络火爆伤感情歌6首,https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4
+2021年6首网络伤感情歌,http://39.165.32.235:88/v1.go2yd.com/video/fcaf341a6038ed4d8dbd50deaf3036c1.mp4_bd.mp4
+几首比较火的DJ情歌,https://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4
+精选6首DJ情歌,https://vdse.bdstatic.com//2ead9cf04f5e9e3a99eea79534c3c104.mp4
+蹦迪DJ,https://vdse.bdstatic.com//e94b56d691d790f43b6dad9969c98af9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-03-08T16%3A50%3A57Z%2F-1%2Fhost%2Fde133e984bd8cc25dc90226c07060de2d0e7e5cf54cebf13db588c88b2a3aa50
+DJ,https://vdse.bdstatic.com//89125075c8eff065022858f7ab9f45ac.mp4
+夜店DJ,http://listen.92kk.com:8811/%2F2020%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2F2020-08%2F2020-08-22%2F%5BMp4%5D%E6%9D%80%E6%AD%BB%E6%88%91%E7%9A%84%E6%B8%A9%E6%9F%94-%E9%BA%A6%E5%AE%B6%E7%91%9C-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E5%A4%9C%E5%BA%97DJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+10首车载dj,https://vd3.bdstatic.com/mda-nbhgwre9iykh09ya/hd/cae_h264_delogo/1645187028018958500/mda-nbhgwre9iykh09ya.mp4
+DJ歌曲多想抱抱,https://vd4.bdstatic.com/mda-nc8hy0n0zmv8p9jr/480p/h264_delogo/1646829628996348347/mda-nc8hy0n0zmv8p9jr.mp4
+DJ版《真的为你哭了 》,https://vd2.bdstatic.com/mda-me5chwexudvzcayg/fhd/cae_h264_nowatermark/1620297137821103617/mda-me5chwexudvzcayg.mp4
+《唱着情歌流着泪》,https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
+6首DJ情歌[640*360],https://vdse.bdstatic.com//e0ad4d203cd7d7ffa943544c8d2ddbd3.mp4
+抖音热歌《大风吹+夜夜夜漫长》[640*360],https://vdse.bdstatic.com//13da18e12728e9d7849f6589a3070b4c.mp4
+DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
+车载DJ《今夜为你醉...》,https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
+忘记你需要多久(DJ小鱼儿版),https://vd2.bdstatic.com/mda-mc1sm1r5s9azchjv/v1-cae/1080p/mda-mc1sm1r5s9azchjv.mp4
+韩可可《错位时空》DJ版,https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
+精选五首DJ男声串烧,https://vd2.bdstatic.com/mda-maqfk730tsig88wr/v2-hknm/1080p/mda-maqfk730tsig88wr.mp4
+林翠萍经典歌曲联唱FHD,https://vdse.bdstatic.com//a5f8fb2b65eb2c8100487f0daf8e520d.mp4
+高胜美经典歌曲专辑FHD,https://vdse.bdstatic.com//ff9ca37b153c35642888b38d07b039a5.mp4
+六首伤感DJ舞曲《为爱受尽相思罪》《爱过了头心伤透》FHD,https://vdse.bdstatic.com//f27d59d8b75915e122f53c173e27a32e.mp4
+伤感情歌DJ舞曲FHD,https://vdse.bdstatic.com//cb6b4890452ee647d62828fdc70e4752.mp4
+车载DJ舞曲《大风吹》《浪子闲话》《玛尼情歌》《沙漠骆驼》FHD,https://vdse.bdstatic.com//7002925e04c4c451cfa8aafc9b4190c7.mp4
+七首DJ情歌《拈花一笑》《对面的小姐姐》《想你了小哥哥》等FHD,https://vdse.bdstatic.com//ed10354ac1acc37c9922074fd88d3697.mp4
+《拈花一笑》《对面的小姐姐》《想你了小哥哥》《一朵情花开》FHD[1921*1080],https://vdse.bdstatic.com//7cfaf27a4db89583e069a40fbc2ed84b.mp4
+网络金曲《拈花一笑》《陪你千山万水》《对面小姐姐》FHD,https://vdse.bdstatic.com//c2deba4d320384736569e542ac531aff.mp4
+情歌DJ《拈花一笑》《对面的小姐姐》《酒醉的蝴蝶》FHD,https://vdse.bdstatic.com//4eece717c6cc2fb9086a59a13ce30623.mp4
 DJ版《秒针》,https://vd3.bdstatic.com/mda-ncceyqpywz4ttnzk/720p/h264_delogo/1647167736192140920/mda-ncceyqpywz4ttnzk.mp4
 包房专嗨音乐视频-车载DJ音乐精品美女热舞DJ视频,http://listen.92kk.com:8811//2020/车载视频/2020-08/2020-08-22/[Mp4]三月里的小雨-王恰恰-车载DJ音乐精品美女热舞DJ视频[独].mp4
 抖音热播榜私货旋律慢摇音乐-车载DJ音乐精品美女热舞DJ视频,http://listen.92kk.com:8811//2020/车载视频/2020-03/2020-03-09/[Mp4]风小筝-别丢下我不管-车载DJ音乐精品美女热舞DJ视频[独].mp4
@@ -2463,7 +2782,6 @@ DJ《心在跳情在烧》,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/c
 《人间惊鸿客》,https://vd3.bdstatic.com/mda-mh2bbyjcqjxjhzkd/1080p/cae_h264/1627978577559447916/mda-mh2bbyjcqjxjhzkd.mp4
 DJ版《三月里的小雨》,https://vd2.bdstatic.com/mda-mgwegh0bzv4cy6cb/1080p/cae_h264/1627727251470197083/mda-mgwegh0bzv4cy6cb.mp4
 DJ版《望爱却步》,https://vd4.bdstatic.com/mda-mh3ei4sg2jypty79/1080p/cae_h264/1628072927342489970/mda-mh3ei4sg2jypty79.mp4
-《唱着情歌流着泪》,https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
 DJ版《一个人挺好》,https://vd3.bdstatic.com/mda-mh6gqq4b59z26cjx/1080p/cae_h264/1628504623473300938/mda-mh6gqq4b59z26cjx.mp4
 《爱你到最后一刻》,https://vd3.bdstatic.com/mda-mhr9c7q9xzgy1812/1080p/cae_h264/1630062648077583523/mda-mhr9c7q9xzgy1812.mp4
 伤感DJ《等》,https://vd2.bdstatic.com/mda-mhq92a7nafrh8dma/1080p/cae_h264/1629977686796490849/mda-mhq92a7nafrh8dma.mp4
@@ -2491,13 +2809,6 @@ DJ 流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/162
 车载DJ视频3,https://vd4.bdstatic.com/mda-mkn4zfrh0vb08hb5/sc/cae_h264/1637640146423960927/mda-mkn4zfrh0vb08hb5.mp4
 车载DJ视频4,https://vd2.bdstatic.com/mda-mkp4150d2kdnain6/sc/cae_h264/1637724460813620547/mda-mkp4150d2kdnain6.mp4
 车载DJ视频5,https://vd4.bdstatic.com/mda-mkj6mgsuic4gdknp/sc/cae_h264/1637383677947993989/mda-mkj6mgsuic4gdknp.mp4
-六首伤感DJ舞曲《为爱受尽相思罪》《爱过了头心伤透》FHD,https://vdse.bdstatic.com//f27d59d8b75915e122f53c173e27a32e.mp4
-伤感情歌DJ舞曲FHD,https://vdse.bdstatic.com//cb6b4890452ee647d62828fdc70e4752.mp4
-车载DJ舞曲《大风吹》《浪子闲话》《玛尼情歌》《沙漠骆驼》FHD,https://vdse.bdstatic.com//7002925e04c4c451cfa8aafc9b4190c7.mp4
-七首DJ情歌《拈花一笑》《对面的小姐姐》《想你了小哥哥》等FHD,https://vdse.bdstatic.com//ed10354ac1acc37c9922074fd88d3697.mp4
-《拈花一笑》《对面的小姐姐》《想你了小哥哥》《一朵情花开》FHD,https://vdse.bdstatic.com//7cfaf27a4db89583e069a40fbc2ed84b.mp4
-网络金曲《拈花一笑》《陪你千山万水》《对面小姐姐》FHD,https://vdse.bdstatic.com//c2deba4d320384736569e542ac531aff.mp4
-情歌DJ《拈花一笑》《对面的小姐姐》《酒醉的蝴蝶》FHD,https://vdse.bdstatic.com//4eece717c6cc2fb9086a59a13ce30623.mp4
 动感音乐1,https://vd3.bdstatic.com/mda-mkf63gabjer51i9c/480p/h264/1637037550863164410/mda-mkf63gabjer51i9c.mp4?pd=19&vt=1
 动感音乐2,https://vd3.bdstatic.com/mda-mjgmwij68mqdp5qc/480p/h264/1634485877945514484/mda-mjgmwij68mqdp5qc.mp4?pd=19&vt=1
 动感音乐3,https://vdse.bdstatic.com//12f0db7bb81b6ead8a9721255c66883c.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-01-03T01%3A33%3A24Z%2F-1%2Fhost%2Fb508f1e81383c8267d20ecd0b4abd74d78ad4b259e7aa3172151672196d8076a
@@ -2508,20 +2819,6 @@ DJ 流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/162
 动感音乐8,https://vd3.bdstatic.com/mda-mm54irwkccvyrz2j/480p/h264/1638761150379655997/mda-mm54irwkccvyrz2j.mp4?pd=19&vt=1
 动感音乐9,https://vd3.bdstatic.com/mda-mma2eqqug8shcf44/480p/h264/1639187331279357822/mda-mma2eqqug8shcf44.mp4?pd=19&vt=1
 动感音乐10,https://vd3.bdstatic.com/mda-mma2eqqhiz6s3rg3/480p/h264/1639187329216305069/mda-mma2eqqhiz6s3rg3.mp4?pd=19&vt=1
-凤舞九天召唤,https://vd3.bdstatic.com/mda-ma5d9z96hupwrjd9/hd/mda-ma5d9z96hupwrjd9.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
-凤舞九天,https://vdse.bdstatic.com//ccbc85445a868b7a35e8ca6a0b7fc60d.mp4
-夜慢长,https://vd3.bdstatic.com/mda-mmjctfnwhg1feren/480p/h264/1639991307500489482/mda-mmjctfnwhg1feren.mp4
-流浪兄弟,https://vdse.bdstatic.com//67e938750c1a340a341f780278fdd8c9.mp4
-好听歌曲,https://vd3.bdstatic.com/mda-na43dwtsm11dzpin/480p/h264/1641353122464317502/mda-na43dwtsm11dzpin.mp4
-恋人心,https://vd3.bdstatic.com/mda-mkn3rrhuqzvqfu5r/480p/h264/1637635367933609921/mda-mkn3rrhuqzvqfu5r.mp4
-秒钟,https://vd3.bdstatic.com/mda-mm6k87sg56dez43c/480p/h264/1638886878218664636/mda-mm6k87sg56dez43c.mp4
-好听歌曲1,https://vd3.bdstatic.com/mda-nau8s6nsyj96mffw/480p/h264_delogo/1643441061627872991/mda-nau8s6nsyj96mffw.mp4
-好听歌曲2,https://vd3.bdstatic.com/mda-nau8s7vhuzc0yk80/480p/h264_delogo/1643441110772997050/mda-nau8s7vhuzc0yk80.mp4
-好听歌曲3,https://vdse.bdstatic.com//32c9a01557cb93eb1d70f8a085319580.mp4
-好听歌曲4,https://vdse.bdstatic.com//f30d4d42b65ef30224537da8c5776535.mp4
-好听歌曲5,https://vdse.bdstatic.com//d1040c8f99278bed51fa37319e71924e.mp4
-好听歌曲,https://vdse.bdstatic.com//3d2f7556a9a0d75ff6d9df6fa9e0717e.mp4
-好听歌曲6,https://vd4.bdstatic.com/mda-na80443ndqdjn9a5/480p/h264_delogo/1641689489102824916/mda-na80443ndqdjn9a5.mp4
 5首劲爆dj,https://vd2.bdstatic.com/mda-mm69dxgtcqg28j9j/sc/cae_h264/1638860024910192032/mda-mm69dxgtcqg28j9j.mp4
 女人心，海底针,https://vd2.bdstatic.com/mda-mm59nqndr55xc962/sc/cae_h264/1638774944857594565/mda-mm59nqndr55xc962.mp4
 动感超人dj,https://vd3.bdstatic.com/mda-mm49pxqfvevcqbx4/sc/cae_h264/1638687905397245214/mda-mm49pxqfvevcqbx4.mp4
@@ -2593,22 +2890,6 @@ SING女团】《风陵渡口》歌词版PV,https://vdse.bdstatic.com//a499dfbec3
 5首伤感情歌DJ,https://vdse.bdstatic.com//a34f76474b9bdfca8c487761861fb603.mp4
 几首绝美情歌DJ精选,https://vdse.bdstatic.com//c5c64b60c9fdfbdfa3e959bb1d56c4b0.mp4
 2021爆红伤感DJ情歌,https://vdse.bdstatic.com//92fae64ee11e2684faa61924be62c8ef.mp4
-《涛声依旧》《潇洒走一回》《昨夜星辰》《女儿情》《潮湿的心》,https://vdse.bdstatic.com//f07a3d6a6489458c717c07dc5faf8523.mp4
-《天路》《驼铃》《鸿雁》《九儿》《绒花》《小芳》,https://vdse.bdstatic.com//e4b7325ebf3010673a51a24f948a8a97.mp4
-《驼铃》《卓玛》《天边》《鸿雁》《天路》草原歌曲,https://vdse.bdstatic.com//f8f4740a4ca7ff31c3a2d8386fc14598.mp4
-六字真言颂,https://vdse.bdstatic.com//0b589b87f310e0aa4e460ab6ecdb8fa8.mp4
-降央卓玛：这几首歌曲太动听,https://vdse.bdstatic.com//0ce1279c88ff9ab48f48d4e86860cd46.mp4
-<可可托海的牧羊人><送亲><站着等你三千年><红尘情歌>,https://vdse.bdstatic.com//695c59600d85d94047f091d3dc8c35d0.mp4
-<可可托海的牧羊人><送亲><站着等你三千年><有一种思念叫永远>,https://vdse.bdstatic.com//7cb310d32d15912afadd19d15be7039b.mp4
-刀郎經典老歌《手心里的温柔》《西海情歌》《披着羊皮的狼》,https://vdse.bdstatic.com//2f53687e421524efba9ba2b528f7bd12.mp4
-毛宁《涛声依旧》《晚秋》《心雨》《春风吻上我的脸》《大中国》,https://vdse.bdstatic.com//21736d388636d7648510b2a36fc7cbfd.mp4
-山歌《阿里山的姑娘》《康定情歌》《山路十八弯》《敖包相会》,https://vdse.bdstatic.com//ae82f5b93166f47d85ff12124a021323.mp4
-《涛声依旧》《雾里看花》《窗外》《心雨》《听心》《晚秋》《母亲》,https://vdse.bdstatic.com//db8ba0fda2aad9cb15aa32887a160f06.mp4
-《窗外》《同桌的你》《心太软》《心雨》《小芳》,https://vdse.bdstatic.com//97183ae857df5213fcfaf0fabc18efc3.mp4
-张也《望星空/为了谁/人间第一情/红梅赞/高天上流云》,https://vdse.bdstatic.com//038c6250208e42b9427a885e0370e1a2.mp4
-《来生再去拥抱你》《梨花飞情人泪》《落雨的秋》《梦醉荷塘》,https://vdse.bdstatic.com//d5e3237c7ef186217ea1c9b24d58e2ae.mp4
-宇宁《千里江山（大型纪录片《紫禁城》主题歌,https://vdse.bdstatic.com//688046e42c39cf6585106f945e2798e7.mov
-經典老歌精选八首《闽南语》,https://vdse.bdstatic.com//4933aab0ea147ecb82b047c44b4ae055.mp4
 經典老歌DJ版精选六首,https://vdse.bdstatic.com//f203048340fe15016fbec9a72905680d.mp4
 【老歌DJ版】《精选8首》,https://vdse.bdstatic.com//525174705415c8773bd465ce4b88b18d.mp4
 2021一夜火爆几首DJ舞曲,https://vdse.bdstatic.com//1fc9fd16e02ca272bb81666b85bf4135.mp4
@@ -2621,50 +2902,18 @@ SING女团】《风陵渡口》歌词版PV,https://vdse.bdstatic.com//a499dfbec3
 让人陶醉的几首DJ舞曲,https://vdse.bdstatic.com//0f464b2beaf5887f90ac36b68fcd342f.mp4
 2021催泪情歌DJ,https://vdse.bdstatic.com//b3a011133da73776af09309a9ee4d4c9.mp4
 女生DJ伤感情歌,https://vdse.bdstatic.com//8fe41305b5c64f8e11715b4dfd442c67.mp4
-巨星珍藏系列:邓丽君經典歌曲精选(1),https://vdse.bdstatic.com//d2b16e989b950ad5db5461066c8dbf46.mp4
-巨星珍藏系列:邓丽君經典歌曲精选(2),https://vdse.bdstatic.com//9b36b59762cdf4a47f8c27672b35e343.mp4
-巨星珍藏系列：邓丽君經典歌曲精选（3),https://vdse.bdstatic.com//a43cab220b1ac8f879a1b5e29592c9f3.mp4
-巨星珍藏系列:邓丽君經典歌曲精选(4),https://vdse.bdstatic.com//286f53c579b11eecd2d70f985a685ae9.mp4
-精选邓丽君經典歌曲8首,https://vdse.bdstatic.com//6fdc7d09e2f04a19745752bb60fbcc76.mp4
-邓丽君 歌曲精选九首 經典歌曲,https://vdse.bdstatic.com//432792ba00998e73655101c9e706e1e2.mp4
-邓丽君經典歌曲联唱,https://vdse.bdstatic.com//e4ef0d3bbf543b6ad61553680052a800.mp4
-金典老歌,https://vdse.bdstatic.com//36ea0ffcf8156a44b9d524d999eb088a.mp4
-刀郎經典歌曲7首：《西海情歌》《敖包相会》《情人》冲动的惩罚,https://vdse.bdstatic.com//628ca08719cef5987ea2ae3c6f0d2386.mp4
-刀郎經典歌曲精选,https://vdse.bdstatic.com//4fcca19a19aa4974230c5ee70ab5fa55.mp4
-刀郎經典老歌合集《披着羊皮的狼》《西海情歌》《冲动的惩罚》,https://vdse.bdstatic.com//bfbb0871ed01eb3328497faae6a8531b.mp4
-經典【刀郎】歌曲精选《冲动的惩罚》《西海情歌》《驼铃》等,https://vdse.bdstatic.com//32366fcdc5f95486daaebcc32bec1135.mp4
-云朵、刀郎、孙露、张雨生等經典怀旧歌曲6首,https://vdse.bdstatic.com//fa0ed7ad8657cc4d13972c3d9aa5ddbf.mp4
-怀旧金曲:刀郎《黄玫瑰》,https://vdse.bdstatic.com//893331fdfab5d04e5c93e2adbbf1e949.mp4
-刀郎經典歌曲《情人/为什么我泪水成行/2002年的第一场雪》等,https://vdse.bdstatic.com//9b34ac60de14344db632ced1bdac9ef3.mp4
-電子琴經典曲目《故乡/片片枫叶情》等,https://vdse.bdstatic.com//4132f92618c08f23b618c12ea86ae767.mp4
-《偏偏喜欢你》《千千阙歌》《光辉岁月》《海阔天空》《上海滩》,https://vdse.bdstatic.com//c1e04e418d20de0e27b5bf09722d96e7.mp4
-红尘只是个过客,https://vd2.bdstatic.com/mda-mhq68s6g444n437t/hd/cae_h264/1629865742325435508/mda-mhq68s6g444n437t.mp4
 經典老歌DJ舞曲七首,https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4
-精选五首DJ男声串烧,https://vd2.bdstatic.com/mda-maqfk730tsig88wr/v2-hknm/1080p/mda-maqfk730tsig88wr.mp4
-韩可可《错位时空》DJ版,https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
-忘记你需要多久(DJ小鱼儿版),https://vd2.bdstatic.com/mda-mc1sm1r5s9azchjv/v1-cae/1080p/mda-mc1sm1r5s9azchjv.mp4
-车载DJ《今夜为你醉...》,https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
-DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
-抖音热歌《大风吹+夜夜夜漫长》,https://vdse.bdstatic.com//13da18e12728e9d7849f6589a3070b4c.mp4
 21年DJ爆红网络洗脑神曲,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
-劲爆DJ串烧,https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4
 2021年最好听的DJ串烧,https://vdse.bdstatic.com//cd396057d1fbcb12f0600d38a16effbc.mp4
 《哑巴新娘...》,https://vdse.bdstatic.com//1a3fdd4def6feeef6a49f4c2bfd9fec2.mp4
 女生版DJ洗脑神曲,https://vdse.bdstatic.com//6d2f84ad5762c818efd8dc210d8743c6.mp4
-一夜火爆i网络DJ舞曲,https://vdse.bdstatic.com//692b9306c06b72d223c9d714f8ebe579.mp4
-2021年最火伤感音乐,https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
-2021年网络火爆伤感情歌6首,https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4
 2021热门伤感DJ,https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4
-6首DJ情歌,https://vdse.bdstatic.com//e0ad4d203cd7d7ffa943544c8d2ddbd3.mp4
-几首比较火的DJ情歌,https://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4
-精选6首DJ情歌,https://vdse.bdstatic.com//2ead9cf04f5e9e3a99eea79534c3c104.mp4
 《爱难求情难断…》,https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4
 酒吧DJ舞曲,https://vdse.bdstatic.com//5208fb24e1d76b0e81f992e91537f086.mp4
 花都开了你来不来DJ,https://vd3.bdstatic.com/mda-mdee523swbezmsin/480p/h264/1618480997/mda-mdee523swbezmsin.mp4
 可可托海的牧羊人DJ,https://vd2.bdstatic.com/mda-ma3jmxytzzyaschq/v2-hknm/hd/mda-ma3jmxytzzyaschq.mp4
 如果爱还在DJ,https://vd3.bdstatic.com/mda-mhn25hnyfzqay4ed/default/h264/1629682295384763745/mda-mhn25hnyfzqay4ed.mp4
 深情败给时间DJ,https://vd2.bdstatic.com/mda-mhmbmnqp76cvp3pn/hd/cae_h264/1629620634203876882/mda-mhmbmnqp76cvp3pn.mp4
-《想你的时候问月亮》《我的快乐就是想你》,https://vd4.bdstatic.com/mda-mhjeewejhygu5naz/480p/h264/1629454717400657493/mda-mhjeewejhygu5naz.mp4
 下辈子不做女人DJ,https://vd3.bdstatic.com/mda-mhkbh25n1ryek94e/480p/h264/1629533938127628482/mda-mhkbh25n1ryek94e.mp4
 久醉红尘情难了,https://vd3.bdstatic.com/mda-mhk211zkhdbqik9z/hd/cae_h264/1629510057705051760/mda-mhk211zkhdbqik9z.mp4
 《夜夜夜漫长》DJ舞曲,https://vd2.bdstatic.com/mda-mefxut4vqkiuq7x1/hd/cae_h264/1621175650240260409/mda-mefxut4vqkiuq7x1.mp4
@@ -2683,6 +2932,135 @@ T-ARA_Lovey Dovey_MTV僵尸舞完整版,https://15799848.s21v.faiusr.com/58/ABUI
 百听不厌的經典粤语,https://vd1.bdstatic.com/mda-hgkh2y5axdzbyhp3/hd/mda-hgkh2y5axdzbyhp3.mp4
 荷东十大DJ舞曲,https://vd3.bdstatic.com/mda-kc2b015ijvbriss5/v1-cae/hd/mda-kc2b015ijvbriss5.mp4?pd=20&vt=1
 荷东的士高够力,https://vd3.bdstatic.com/mda-kf3r26qwiweq6h5j/mda-kf3r26qwiweq6h5j.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&pd=20
+一生与你擦肩而过-阿悠悠,https://vd2.bdstatic.com/mda-kmdxc74j1bbj588f/v1-cae/sc/mda-kmdxc74j1bbj588f.mp4
+一生与你擦肩而过DJ,https://vd2.bdstatic.com/mda-kfkxn7bwx3ucicpx/v1-cae/1080p/mda-kfkxn7bwx3ucicpx.mp4
+《念旧》DJ版-阿悠悠,https://vd2.bdstatic.com/mda-kkdmmcvahhz1xfza/v1-cae/sc/mda-kkdmmcvahhz1xfza.mp4
+旧梦一场-阿悠悠,https://vd2.bdstatic.com/mda-mhbfpnu48s10y83a/1080p/cae_h264/1628767354211396337/mda-mhbfpnu48s10y83a.mp4
+旧梦一场-阿悠悠DJ版,https://vd3.bdstatic.com/mda-md4f6vm42k4c1n3r/1080p/cae_h264/1617619761/mda-md4f6vm42k4c1n3r.mp4
+《过分纵容》DJ版-若心,https://vd2.bdstatic.com/mda-mh1f5rpuhmkz109w/1080p/cae_h264/1627901518000585752/mda-mh1f5rpuhmkz109w.mp4
+李贞贤《哇》摇滚版,https://vd3.bdstatic.com/mda-immzxw2f2g23q4h3/sc/mda-immzxw2f2g23q4h3.mp4
+李贞贤《疯》《换掉》《半》,https://vd3.bdstatic.com/mda-kd7zdd9x1ra2kqmg/sc/mda-kd7zdd9x1ra2kqmg.mp4
+李贞贤《V》,https://vd4.bdstatic.com/mda-kdpsqu5y0324wa2d/sc/mda-kdpsqu5y0324wa2d.mp4
+李贞贤《独一无二》,https://vd2.bdstatic.com/mda-mawxn9adnyzds905/v1-cae/sc/mda-mawxn9adnyzds905.mp4
+李贞贤-疯掉,https://vd2.bdstatic.com/mda-ki10fgxjpwjketbw/hd/mda-ki10fgxjpwjketbw.mp4
+2021精选《5首伤感串烧DJ》HD,https://vdse.bdstatic.com//6c21b46f675edcea8994e4baa6d19cad.mp4
+好歌分享《精选6首伤感DJ舞曲》HD,https://vdse.bdstatic.com//0c87c8977d0a33498fe7362d3c60c22c.mp4
+2021爆红《6首女生版伤感DJ》HD,https://vdse.bdstatic.com//2e77709380ad7e6163e80c4d5c179689.mp4
+美人热舞洗脑DJ舞曲HD,https://vdse.bdstatic.com//3700f6b78ceaf0f4a5313f4d68c95b72.mp4
+2021五首女声伤感DJ情歌精品HD,https://vdse.bdstatic.com//c92e81328ef6d13ba7d44e6eb80f9f1e.mp4
+情歌DJ《怎么可以如此冷血》《为爱受尽相思罪》HD,https://vdse.bdstatic.com//61e318ea76e984f2bedb66f1ed1583be.mp4
+DJ劲爆舞曲《在我心里有个你》《东南西北风》《一万个对不起》等HD,https://vdse.bdstatic.com//8343b02f5e7465d4c5b07e54403438b8.mp4
+DJ情歌串烧《痴情恋歌》《红颜知己》《事与愿违》《缘分相遇》HD,https://vdse.bdstatic.com//904548e7bec804905906557ed2752017.mp4
+动听DJ情歌《红颜知己》《今夜为你醉》《别忘了我在等你》等HD,https://vdse.bdstatic.com//92d49c2aebc0bbbe08149b8e08e4a443.mp4
+DJ伤感好听《红颜知己》《事与愿违》《缘分相遇》《知情念歌》HD,https://vdse.bdstatic.com//1a7b05ab4eab2d68a679e442f4d80fab.mp4
+DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,https://vdse.bdstatic.com//09b76fc9762763350288fb96047ec820.mp4
+《给我一把爱情火》《无情风雨无情的你》《昨夜的我又梦到了你》HD,https://vdse.bdstatic.com//63a770491e7bae0ebe661452c27eaf33.mp4
+
+🎤歌曲频道,#genre#
+歌MV1,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4
+歌MV2,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglZTV4gUo1tiHrgM.mp4
+歌MV3,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmJbV4gUogpLGkgM.mp4
+歌MV4,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk5nV4gUo5KyapQI.mp4
+歌MV5,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglpvV4gUo0pn7iAQ.mp4
+歌MV6,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgksy04wUo17eY6Qc.mp4
+歌MV7,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg49ia4gUolMGllwI.mp4
+歌MV8,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghv2c4gUo1IGIhQQ.mp4
+歌MV9,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0P6c4gUogMuVmwQ.mp4
+歌MV10,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg59bE4gUo0P3y9QM.mp4
+歌MV11,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8NfE4gUomOLI6gM.mp4
+歌MV12,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgotjE4gUo8Jvi8Ac.mp4
+歌MV13,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvp_b4gUovoTAwAI.mp4
+歌MV14,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglYC24gUokJDpqQU.mp4
+歌MV15,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0YC24gUoyvO6Ng.mp4
+歌MV16,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxa_M5gUooKTfxAE.mp4
+歌MV17,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtpai5wUoyLvuugU.mp4
+歌MV18,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyKyM5gUooJurKA.mp4
+歌MV19,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvPi-4gUov5GSxQM.mp4
+歌MV20,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgh7GM5gUowOmHhwM.mp4
+歌MV21,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-feR5wUo5M2ibw.mp4
+歌MV22,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNbE4gUoham84wU.mp4
+歌MV23,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsK2M5gUosN7C7QQ.mp4
+歌MV24,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgupai5wUonrHpywI.mp4
+歌MV25,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnJ3x5gUo0-uHqwM.mp4
+歌MV26,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr7qk4wUoqqvYowU.mp4
+歌MV27,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghbGM5gUonv2rzgY.mp4
+歌MV28,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkLjX4gUo7pD-swM.mp4
+歌MV29,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnMOv5wUouMCstQQ.mp4
+歌MV30,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp7CM5gUo0rva5QU.mp4
+歌MV31,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--nW4gUokMvrzgY.mp4
+歌MV32,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpPTW4gUoz_DgdQ.mp4
+歌MV33,http://vd4.bdstatic.com/mda-ickhjq8gkcxz55i1/sc/mda-ickhjq8gkcxz55i1.mp4
+歌MV34,http://vd4.bdstatic.com/mda-ihkwerpgqm1v3ehy/sc/mda-ihkwerpgqm1v3ehy.mp4
+歌MV35,http://vd4.bdstatic.com/mda-jhid37v9u4vny09j/sc/mda-jhid37v9u4vny09j.mp4
+歌MV36,http://vd4.bdstatic.com/mda-icpieeuwfuwruijw/sc/mda-icpieeuwfuwruijw.mp4
+歌MV37,http://vd4.bdstatic.com/mda-jhtriuc2z5fddtre/sc/mda-jhtriuc2z5fddtre.mp4
+歌MV38,http://vd4.bdstatic.com/mda-jepbbqntd414qsem/sc/mda-jepbbqntd414qsem.mp4
+歌MV39,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgueWa4gUo_-2vowI.mp4
+歌MV40,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3MOv5wUojLD3vgE.mp4
+歌MV41,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8JWi5wUokMTQ0AE.mp4
+歌MV42,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2bGM5gUo_NXfoAI.mp4
+歌MV43,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglcSv5wUospmsmQU.mp4
+歌MV44,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAggpvX4gUo7e7N8QI.mp4
+歌MV45,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw_ma4gUouNqBoAQ.mp4
+歌MV46,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqMGv5wUo2ZSx8QY.mp4
+歌MV47,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg38q04wUomp3jxAQ.mp4
+歌MV48,http://vd4.bdstatic.com/mda-ji3nh9t9qpewj26m/sc/mda-ji3nh9t9qpewj26m.mp4
+歌MV49,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg75_b4gUogP7C2QY.mp4
+歌MV50,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg18Cv5wUoy_y7mQE.mp4
+歌MV51,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzL_v5wUowL3FvAM.mp4
+歌MV52,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy6yM5gUo7Pnd-QU.mp4
+歌MV53,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghMCv5wUoqteI8gM.mp4
+歌MV54,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-JfV4gUol9ea6QM.mp4
+歌MV55,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0f2a4gUonvrdrgI.mp4
+凤舞九天召唤,https://vd3.bdstatic.com/mda-ma5d9z96hupwrjd9/hd/mda-ma5d9z96hupwrjd9.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+凤舞九天,https://vdse.bdstatic.com//ccbc85445a868b7a35e8ca6a0b7fc60d.mp4
+夜慢长,https://vd3.bdstatic.com/mda-mmjctfnwhg1feren/480p/h264/1639991307500489482/mda-mmjctfnwhg1feren.mp4
+流浪兄弟,https://vdse.bdstatic.com//67e938750c1a340a341f780278fdd8c9.mp4
+好听歌曲,https://vd3.bdstatic.com/mda-na43dwtsm11dzpin/480p/h264/1641353122464317502/mda-na43dwtsm11dzpin.mp4
+恋人心,https://vd3.bdstatic.com/mda-mkn3rrhuqzvqfu5r/480p/h264/1637635367933609921/mda-mkn3rrhuqzvqfu5r.mp4
+秒钟,https://vd3.bdstatic.com/mda-mm6k87sg56dez43c/480p/h264/1638886878218664636/mda-mm6k87sg56dez43c.mp4
+好听歌曲1,https://vd3.bdstatic.com/mda-nau8s6nsyj96mffw/480p/h264_delogo/1643441061627872991/mda-nau8s6nsyj96mffw.mp4
+好听歌曲2,https://vd3.bdstatic.com/mda-nau8s7vhuzc0yk80/480p/h264_delogo/1643441110772997050/mda-nau8s7vhuzc0yk80.mp4
+好听歌曲3,https://vdse.bdstatic.com//32c9a01557cb93eb1d70f8a085319580.mp4
+好听歌曲4,https://vdse.bdstatic.com//f30d4d42b65ef30224537da8c5776535.mp4
+好听歌曲5,https://vdse.bdstatic.com//d1040c8f99278bed51fa37319e71924e.mp4
+好听歌曲,https://vdse.bdstatic.com//3d2f7556a9a0d75ff6d9df6fa9e0717e.mp4
+好听歌曲6,https://vd4.bdstatic.com/mda-na80443ndqdjn9a5/480p/h264_delogo/1641689489102824916/mda-na80443ndqdjn9a5.mp4
+《涛声依旧》《潇洒走一回》《昨夜星辰》《女儿情》《潮湿的心》,https://vdse.bdstatic.com//f07a3d6a6489458c717c07dc5faf8523.mp4
+《天路》《驼铃》《鸿雁》《九儿》《绒花》《小芳》,https://vdse.bdstatic.com//e4b7325ebf3010673a51a24f948a8a97.mp4
+《驼铃》《卓玛》《天边》《鸿雁》《天路》草原歌曲,https://vdse.bdstatic.com//f8f4740a4ca7ff31c3a2d8386fc14598.mp4
+六字真言颂,https://vdse.bdstatic.com//0b589b87f310e0aa4e460ab6ecdb8fa8.mp4
+降央卓玛：这几首歌曲太动听,https://vdse.bdstatic.com//0ce1279c88ff9ab48f48d4e86860cd46.mp4
+<可可托海的牧羊人><送亲><站着等你三千年><红尘情歌>,https://vdse.bdstatic.com//695c59600d85d94047f091d3dc8c35d0.mp4
+<可可托海的牧羊人><送亲><站着等你三千年><有一种思念叫永远>,https://vdse.bdstatic.com//7cb310d32d15912afadd19d15be7039b.mp4
+刀郎經典老歌《手心里的温柔》《西海情歌》《披着羊皮的狼》,https://vdse.bdstatic.com//2f53687e421524efba9ba2b528f7bd12.mp4
+毛宁《涛声依旧》《晚秋》《心雨》《春风吻上我的脸》《大中国》,https://vdse.bdstatic.com//21736d388636d7648510b2a36fc7cbfd.mp4
+山歌《阿里山的姑娘》《康定情歌》《山路十八弯》《敖包相会》,https://vdse.bdstatic.com//ae82f5b93166f47d85ff12124a021323.mp4
+《涛声依旧》《雾里看花》《窗外》《心雨》《听心》《晚秋》《母亲》,https://vdse.bdstatic.com//db8ba0fda2aad9cb15aa32887a160f06.mp4
+《窗外》《同桌的你》《心太软》《心雨》《小芳》,https://vdse.bdstatic.com//97183ae857df5213fcfaf0fabc18efc3.mp4
+张也《望星空/为了谁/人间第一情/红梅赞/高天上流云》,https://vdse.bdstatic.com//038c6250208e42b9427a885e0370e1a2.mp4
+《来生再去拥抱你》《梨花飞情人泪》《落雨的秋》《梦醉荷塘》,https://vdse.bdstatic.com//d5e3237c7ef186217ea1c9b24d58e2ae.mp4
+宇宁《千里江山（大型纪录片《紫禁城》主题歌,https://vdse.bdstatic.com//688046e42c39cf6585106f945e2798e7.mov
+經典老歌精选八首《闽南语》,https://vdse.bdstatic.com//4933aab0ea147ecb82b047c44b4ae055.mp4
+巨星珍藏系列:邓丽君經典歌曲精选(1),https://vdse.bdstatic.com//d2b16e989b950ad5db5461066c8dbf46.mp4
+巨星珍藏系列:邓丽君經典歌曲精选(2),https://vdse.bdstatic.com//9b36b59762cdf4a47f8c27672b35e343.mp4
+巨星珍藏系列：邓丽君經典歌曲精选（3),https://vdse.bdstatic.com//a43cab220b1ac8f879a1b5e29592c9f3.mp4
+巨星珍藏系列:邓丽君經典歌曲精选(4),https://vdse.bdstatic.com//286f53c579b11eecd2d70f985a685ae9.mp4
+精选邓丽君經典歌曲8首,https://vdse.bdstatic.com//6fdc7d09e2f04a19745752bb60fbcc76.mp4
+邓丽君 歌曲精选九首 經典歌曲,https://vdse.bdstatic.com//432792ba00998e73655101c9e706e1e2.mp4
+邓丽君經典歌曲联唱,https://vdse.bdstatic.com//e4ef0d3bbf543b6ad61553680052a800.mp4
+金典老歌,https://vdse.bdstatic.com//36ea0ffcf8156a44b9d524d999eb088a.mp4
+刀郎經典歌曲7首：《西海情歌》《敖包相会》《情人》冲动的惩罚,https://vdse.bdstatic.com//628ca08719cef5987ea2ae3c6f0d2386.mp4
+刀郎經典歌曲精选,https://vdse.bdstatic.com//4fcca19a19aa4974230c5ee70ab5fa55.mp4
+刀郎經典老歌合集《披着羊皮的狼》《西海情歌》《冲动的惩罚》,https://vdse.bdstatic.com//bfbb0871ed01eb3328497faae6a8531b.mp4
+經典【刀郎】歌曲精选《冲动的惩罚》《西海情歌》《驼铃》等,https://vdse.bdstatic.com//32366fcdc5f95486daaebcc32bec1135.mp4
+云朵、刀郎、孙露、张雨生等經典怀旧歌曲6首,https://vdse.bdstatic.com//fa0ed7ad8657cc4d13972c3d9aa5ddbf.mp4
+怀旧金曲:刀郎《黄玫瑰》,https://vdse.bdstatic.com//893331fdfab5d04e5c93e2adbbf1e949.mp4
+刀郎經典歌曲《情人/为什么我泪水成行/2002年的第一场雪》等,https://vdse.bdstatic.com//9b34ac60de14344db632ced1bdac9ef3.mp4
+電子琴經典曲目《故乡/片片枫叶情》等,https://vdse.bdstatic.com//4132f92618c08f23b618c12ea86ae767.mp4
+《偏偏喜欢你》《千千阙歌》《光辉岁月》《海阔天空》《上海滩》,https://vdse.bdstatic.com//c1e04e418d20de0e27b5bf09722d96e7.mp4
+红尘只是个过客,https://vd2.bdstatic.com/mda-mhq68s6g444n437t/hd/cae_h264/1629865742325435508/mda-mhq68s6g444n437t.mp4
+《想你的时候问月亮》《我的快乐就是想你》,https://vd4.bdstatic.com/mda-mhjeewejhygu5naz/480p/h264/1629454717400657493/mda-mhjeewejhygu5naz.mp4
 性感粤语經典,https://vd3.bdstatic.com/mda-jan9g55pdptvh0ds/hd/mda-jan9g55pdptvh0ds.mp4
 性感粤语經典1,https://vd3.bdstatic.com/mda-jkkwjywm27cb563b/hd/mda-jkkwjywm27cb563b.mp4
 性感粤语經典3,https://vd3.bdstatic.com/mda-jd1uefsptigbsi5y/hd/mda-jd1uefsptigbsi5y.mp4
@@ -2695,12 +3073,6 @@ T-ARA_Lovey Dovey_MTV僵尸舞完整版,https://15799848.s21v.faiusr.com/58/ABUI
 异域古装女神,https://vd3.bdstatic.com/mda-km2d6skexddqfygp/sc/cae_h264_clips/1606958670/mda-km2d6skexddqfygp.mp4
 飞鸟和蝉-任然,https://vd4.bdstatic.com/mda-kmagpap54qyv855r/v1-cae/1080p/mda-kmagpap54qyv855r.mp4
 海鸥飞-龙梅子,https://vd2.bdstatic.com/mda-kgrx6ftzptj5x4i9/v1-cae/1080p/mda-kgrx6ftzptj5x4i9.mp4
-一生与你擦肩而过-阿悠悠,https://vd2.bdstatic.com/mda-kmdxc74j1bbj588f/v1-cae/sc/mda-kmdxc74j1bbj588f.mp4
-一生与你擦肩而过DJ,https://vd2.bdstatic.com/mda-kfkxn7bwx3ucicpx/v1-cae/1080p/mda-kfkxn7bwx3ucicpx.mp4
-《念旧》DJ版-阿悠悠,https://vd2.bdstatic.com/mda-kkdmmcvahhz1xfza/v1-cae/sc/mda-kkdmmcvahhz1xfza.mp4
-旧梦一场-阿悠悠,https://vd2.bdstatic.com/mda-mhbfpnu48s10y83a/1080p/cae_h264/1628767354211396337/mda-mhbfpnu48s10y83a.mp4
-旧梦一场-阿悠悠DJ版,https://vd3.bdstatic.com/mda-md4f6vm42k4c1n3r/1080p/cae_h264/1617619761/mda-md4f6vm42k4c1n3r.mp4
-《过分纵容》DJ版-若心,https://vd2.bdstatic.com/mda-mh1f5rpuhmkz109w/1080p/cae_h264/1627901518000585752/mda-mh1f5rpuhmkz109w.mp4
 不再痴情-黄静美,https://vd2.bdstatic.com/mda-mguiyws4cia6d0rf/1080p/cae_h264/1627568961141809995/mda-mguiyws4cia6d0rf.mp4
 天公不作美-黄静美,https://vd2.bdstatic.com/mda-mcibj6pxkwe3x1ji/1080p/cae_h264/1616117049/mda-mcibj6pxkwe3x1ji.mp4
 浪子闲话-笑纳-赤伶,https://vd3.bdstatic.com/mda-mi0jir5caqx8xtmh/1080p/cae_h264/1630505223203305128/mda-mi0jir5caqx8xtmh.mp4
@@ -2723,11 +3095,6 @@ T-ara-day by day,https://vd3.bdstatic.com/mda-iiemv8jf28e6duvs/sc/mda-iiemv8jf28
 T-ara-day by day,https://vd2.bdstatic.com/mda-kbhbtuj1rqccf6xw/hd/mda-kbhbtuj1rqccf6xw.mp4
 T-ara-No.9,https://vd3.bdstatic.com/mda-im4mbw8vgqsgi14x/sc/mda-im4mbw8vgqsgi14x.mp4
 GEE-少女时代,https://vd2.bdstatic.com/mda-ijsfeurdj496arme/sc/mda-ijsfeurdj496arme.mp4
-李贞贤《哇》摇滚版,https://vd3.bdstatic.com/mda-immzxw2f2g23q4h3/sc/mda-immzxw2f2g23q4h3.mp4
-李贞贤《疯》《换掉》《半》,https://vd3.bdstatic.com/mda-kd7zdd9x1ra2kqmg/sc/mda-kd7zdd9x1ra2kqmg.mp4
-李贞贤《V》,https://vd4.bdstatic.com/mda-kdpsqu5y0324wa2d/sc/mda-kdpsqu5y0324wa2d.mp4
-李贞贤《独一无二》,https://vd2.bdstatic.com/mda-mawxn9adnyzds905/v1-cae/sc/mda-mawxn9adnyzds905.mp4
-李贞贤-疯掉,https://vd2.bdstatic.com/mda-ki10fgxjpwjketbw/hd/mda-ki10fgxjpwjketbw.mp4
 两个人-蔡妍-BerryGood,https://vd2.bdstatic.com/mda-iffus60ju99vp5kr/sc/mda-iffus60ju99vp5kr.mp4
 两个人-蔡妍-BerryGood,https://vd4.bdstatic.com/mda-ki9ze4v8sw9sj7cb/sc/mda-ki9ze4v8sw9sj7cb.mp4
 Swagger-完整版,https://vd2.bdstatic.com/mda-ki4bkt71gu0f5fyh/v1-cae/1080p/mda-ki4bkt71gu0f5fyh.mp4
@@ -2829,8 +3196,6 @@ Little Mix銆丯icki Minaj - Woman Like Me-[145M.mp4-1,http://15799848.s21v.faiu
 Laura Marano - Lie to Me-[135M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqtL77QUo9_mcBw.mp4
 Trouble Maker- Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgism34gUo0rqhhAE.mp4
 AOA - 动摇,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
-林翠萍經典歌曲联唱FHD,https://vdse.bdstatic.com//a5f8fb2b65eb2c8100487f0daf8e520d.mp4
-高胜美經典歌曲专辑FHD,https://vdse.bdstatic.com//ff9ca37b153c35642888b38d07b039a5.mp4
 情歌皇后林翠萍《相见不如不见》FHD,https://vdse.bdstatic.com//1f65ad884619a069c68572f1ac9e2b0e.mp4
 林翠萍《负心的你》FHD,https://vdse.bdstatic.com//16425f9f93e382e23bcde71f8ed85a4c.mp4
 林翠萍經典老歌《相会在梦里》FHD,https://vdse.bdstatic.com//00fb72cd0b27bec6d9c0cd915874b50e.mp4
@@ -2848,18 +3213,6 @@ AOA - 动摇,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
 粤语和华语經典歌曲【完整版】FHD,https://vdse.bdstatic.com//2922763f303705ef65c46689578439ea.mp4
 关正杰的十首粤语老歌FHD,https://vdse.bdstatic.com//d95bf4719f9e5b7bf1f2ef3679f1fdb2.mp4
 卓依婷《杜十娘/萍聚/真的好想你/好人一生平安/雾里看花》FHD,https://vdse.bdstatic.com//bf6409d65b8cb920467836753adf89d1.mp4
-2021精选《5首伤感串烧DJ》HD,https://vdse.bdstatic.com//6c21b46f675edcea8994e4baa6d19cad.mp4
-好歌分享《精选6首伤感DJ舞曲》HD,https://vdse.bdstatic.com//0c87c8977d0a33498fe7362d3c60c22c.mp4
-2021爆红《6首女生版伤感DJ》HD,https://vdse.bdstatic.com//2e77709380ad7e6163e80c4d5c179689.mp4
-美人热舞洗脑DJ舞曲HD,https://vdse.bdstatic.com//3700f6b78ceaf0f4a5313f4d68c95b72.mp4
-2021五首女声伤感DJ情歌精品HD,https://vdse.bdstatic.com//c92e81328ef6d13ba7d44e6eb80f9f1e.mp4
-情歌DJ《怎么可以如此冷血》《为爱受尽相思罪》HD,https://vdse.bdstatic.com//61e318ea76e984f2bedb66f1ed1583be.mp4
-DJ劲爆舞曲《在我心里有个你》《东南西北风》《一万个对不起》等HD,https://vdse.bdstatic.com//8343b02f5e7465d4c5b07e54403438b8.mp4
-DJ情歌串烧《痴情恋歌》《红颜知己》《事与愿违》《缘分相遇》HD,https://vdse.bdstatic.com//904548e7bec804905906557ed2752017.mp4
-动听DJ情歌《红颜知己》《今夜为你醉》《别忘了我在等你》等HD,https://vdse.bdstatic.com//92d49c2aebc0bbbe08149b8e08e4a443.mp4
-DJ伤感好听《红颜知己》《事与愿违》《缘分相遇》《知情念歌》HD,https://vdse.bdstatic.com//1a7b05ab4eab2d68a679e442f4d80fab.mp4
-DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,https://vdse.bdstatic.com//09b76fc9762763350288fb96047ec820.mp4
-《给我一把爱情火》《无情风雨无情的你》《昨夜的我又梦到了你》HD,https://vdse.bdstatic.com//63a770491e7bae0ebe661452c27eaf33.mp4
 林翠萍/林玉英經典歌曲联唱HD,https://vdse.bdstatic.com//7db965a410019e9021f6c6aa33057d25.mp4
 林翠萍經典歌曲精选HD,https://vdse.bdstatic.com//d18ce7521b67a9d0b50cf805034f2e21.mp4
 林翠萍《麦搁來这套》HD,https://vdse.bdstatic.com//5b388a47b1233105831e09b8cadc1edd.mp4
@@ -2897,64 +3250,21 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,htt
 歌声恋情,https://vd3.bdstatic.com/mda-jdpp3nkwjb6k8c50/hd/bd265_cae_delogo/1647594846777454740/mda-jdpp3nkwjb6k8c50.mp4
 男儿的心情,https://vd3.bdstatic.com/mda-je2m1at3xxm8k5sh/hd/bd265_cae_delogo/1648504547433964038/mda-je2m1at3xxm8k5sh.mp4
 为你打拼,https://vd4.bdstatic.com/mda-jfmmhyrpec3bt2gy/v1-cae/hd/mda-jfmmhyrpec3bt2gy.mp4
-
-🎤歌曲频道,#genre#
-歌MV1,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4
-歌MV2,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglZTV4gUo1tiHrgM.mp4
-歌MV3,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmJbV4gUogpLGkgM.mp4
-歌MV4,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk5nV4gUo5KyapQI.mp4
-歌MV5,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglpvV4gUo0pn7iAQ.mp4
-歌MV6,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgksy04wUo17eY6Qc.mp4
-歌MV7,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg49ia4gUolMGllwI.mp4
-歌MV8,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghv2c4gUo1IGIhQQ.mp4
-歌MV9,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0P6c4gUogMuVmwQ.mp4
-歌MV10,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg59bE4gUo0P3y9QM.mp4
-歌MV11,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8NfE4gUomOLI6gM.mp4
-歌MV12,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgotjE4gUo8Jvi8Ac.mp4
-歌MV13,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvp_b4gUovoTAwAI.mp4
-歌MV14,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglYC24gUokJDpqQU.mp4
-歌MV15,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0YC24gUoyvO6Ng.mp4
-歌MV16,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxa_M5gUooKTfxAE.mp4
-歌MV17,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtpai5wUoyLvuugU.mp4
-歌MV18,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyKyM5gUooJurKA.mp4
-歌MV19,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvPi-4gUov5GSxQM.mp4
-歌MV20,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgh7GM5gUowOmHhwM.mp4
-歌MV21,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-feR5wUo5M2ibw.mp4
-歌MV22,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNbE4gUoham84wU.mp4
-歌MV23,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsK2M5gUosN7C7QQ.mp4
-歌MV24,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgupai5wUonrHpywI.mp4
-歌MV25,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnJ3x5gUo0-uHqwM.mp4
-歌MV26,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr7qk4wUoqqvYowU.mp4
-歌MV27,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghbGM5gUonv2rzgY.mp4
-歌MV28,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkLjX4gUo7pD-swM.mp4
-歌MV29,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnMOv5wUouMCstQQ.mp4
-歌MV30,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp7CM5gUo0rva5QU.mp4
-歌MV31,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--nW4gUokMvrzgY.mp4
-歌MV32,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpPTW4gUoz_DgdQ.mp4
-歌MV33,http://vd4.bdstatic.com/mda-ickhjq8gkcxz55i1/sc/mda-ickhjq8gkcxz55i1.mp4
-歌MV34,http://vd4.bdstatic.com/mda-ihkwerpgqm1v3ehy/sc/mda-ihkwerpgqm1v3ehy.mp4
-歌MV35,http://vd4.bdstatic.com/mda-jhid37v9u4vny09j/sc/mda-jhid37v9u4vny09j.mp4
-歌MV36,http://vd4.bdstatic.com/mda-icpieeuwfuwruijw/sc/mda-icpieeuwfuwruijw.mp4
-歌MV37,http://vd4.bdstatic.com/mda-jhtriuc2z5fddtre/sc/mda-jhtriuc2z5fddtre.mp4
-歌MV38,http://vd4.bdstatic.com/mda-jepbbqntd414qsem/sc/mda-jepbbqntd414qsem.mp4
-歌MV39,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgueWa4gUo_-2vowI.mp4
-歌MV40,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3MOv5wUojLD3vgE.mp4
-歌MV41,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8JWi5wUokMTQ0AE.mp4
-歌MV42,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2bGM5gUo_NXfoAI.mp4
-歌MV43,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglcSv5wUospmsmQU.mp4
-歌MV44,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAggpvX4gUo7e7N8QI.mp4
-歌MV45,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw_ma4gUouNqBoAQ.mp4
-歌MV46,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqMGv5wUo2ZSx8QY.mp4
-歌MV47,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg38q04wUomp3jxAQ.mp4
-歌MV48,http://vd4.bdstatic.com/mda-ji3nh9t9qpewj26m/sc/mda-ji3nh9t9qpewj26m.mp4
-歌MV49,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg75_b4gUogP7C2QY.mp4
-歌MV50,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg18Cv5wUoy_y7mQE.mp4
-歌MV51,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzL_v5wUowL3FvAM.mp4
-歌MV52,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy6yM5gUo7Pnd-QU.mp4
-歌MV53,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghMCv5wUoqteI8gM.mp4
-歌MV54,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-JfV4gUol9ea6QM.mp4
-歌MV55,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0f2a4gUonvrdrgI.mp4
+音乐MV1,https://vd4.bdstatic.com/mda-ndg7ce3hecmc5t6z/cae_h264_delogo/1650172839515776748/mda-ndg7ce3hecmc5t6z.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1650258048-0-0-0dbbb46b7572edb787cb9e30270404ae&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1847793612&vid=14747871684211022442&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=488&split=496836
+音乐MV2,https://vd2.bdstatic.com/mda-nda3yidd2i5ah41r/cae_h264_delogo/1649645693291515699/mda-nda3yidd2i5ah41r.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650258048-0-0-cd49fa5ce0b3493e95673bb91ac13f27&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1847793612&vid=5516441000501672766&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=536&split=550204
+音乐MV3,https://vd2.bdstatic.com/mda-nchbmx2czv19tiwg/cae_h264_delogo/1647592962721831078/mda-nchbmx2czv19tiwg.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650258048-0-0-1cd692b12d72ad7a1c574d71be62971b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1847793612&vid=4701682700549225529&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=562&split=489332
+音乐MV4,https://vd3.bdstatic.com/mda-nd915v6u1pr7ynm9/360p/h264_delogo/1649552015351658271/mda-nd915v6u1pr7ynm9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1650258048-0-0-52caab845a7b7e1b7883c6d39d1009c9&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1847793612&vid=5730407450171762814&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=1297&split=1221971
+音乐MV5,https://vd3.bdstatic.com/mda-nc12cjdr8sn577iz/360p/h264_delogo/1646185584052912020/mda-nc12cjdr8sn577iz.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650258049-0-0-96470e107cfc7836ef26b001b066eae5&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1848613916&vid=4848424349848046521&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=767&split=768927
+音乐MV6,https://vd2.bdstatic.com/mda-ndh38rhdyqzse8re/360p/h264_delogo/1650248294719857951/mda-ndh38rhdyqzse8re.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650258049-0-0-b7756d300c0d1e1eb5677a87654fc148&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1848613916&vid=5525356031576205369&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=317&split=306755
+音乐MV7,https://vd2.bdstatic.com/mda-ncbiabdm8fds0xgn/cae_h264_delogo/1647126015042184012/mda-ncbiabdm8fds0xgn.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650258048-0-0-34ffab0b656bff896c81eaeb4d8879e5&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1847793612&vid=4596142026740395086&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=296&split=310403
+音乐MV8,https://vd2.bdstatic.com/mda-nde3iy8j0pb5gzf3/cae_h264_delogo/1649990984735389474/mda-nde3iy8j0pb5gzf3.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650258048-0-0-af019fe676300504ad8ca479a90c92de&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1847793612&vid=4548912976447846969&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=728&split=620552
+音乐MV9,https://vd4.bdstatic.com/mda-nbf8jt89gb6up1kp/cae_h264_delogo/1644991653531386131/mda-nbf8jt89gb6up1kp.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650258049-0-0-f22b593c2dac55f85f6c84cba507246f&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1848613916&vid=4996416201819352318&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=1010&split=852084
+音乐MV10,https://vd3.bdstatic.com/mda-ncq86qweuap7t044/cae_h264_delogo/1648191570288328316/mda-ncq86qweuap7t044.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650258049-0-0-e0a377afb7c987601fabf09a739392ec&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1848613916&vid=5392370049622776574&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=550&split=747983
+音乐MV11,https://vd4.bdstatic.com/mda-nau8wmuk9ws1t2mf/cae_h264_delogo/1643437225267164883/mda-nau8wmuk9ws1t2mf.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1650258049-0-0-2a744a77e7be2ed79c63d8c76d265160&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1848613916&vid=5587494337135698582&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=560&split=492240
+音乐MV12,https://vd4.bdstatic.com/mda-nbj4s0vy3iex1gqd/cae_h264_nowatermark_delogo/1645328740275781974/mda-nbj4s0vy3iex1gqd.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650258049-0-0-3150a2908ca8579ff0ad2a42dcf9e0b1&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1848613916&vid=5414124430166939705&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=692&split=684709
 探窗,https://vd3.bdstatic.com/mda-mi6e4vgibhtc628h/480p/h264/1631008912303842588/mda-mi6e4vgibhtc628h.mp4
+百花香(抖音DJ版),https://vd4.bdstatic.com/mda-mdsd1z3wbqeeyumq/fhd/cae_h264_nowatermark/1620021906658368673/mda-mdsd1z3wbqeeyumq.mp4
+敢问路在何方dj,https://vd4.bdstatic.com/mda-mjbc5jr1y4bpqjma/sc/cae_h264_nowatermark/1634028115028515183/mda-mjbc5jr1y4bpqjma.mp4
 体面,https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost
 像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
 sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
