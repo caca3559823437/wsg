@@ -1,4 +1,4 @@
-﻿🇨🇳看世界杯,#genre#
+﻿😎世界杯,#genre#
 CCTV5,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
 CCTV5,http://218.204.51.252:9901/tsfile/live/1010_1.m3u8
 CCTV5,http://39.135.138.58:18890/PLTV/88888888/224/3221225751/index.m3u8
@@ -555,18 +555,24 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 
 無綫新聞,P2p://ns3.hellotvvod.com:9906/a2b800340eb34c63b18ef53a5c745df4
 無綫新聞,P2p://ns3.hellotvvod.com:9906/9f4b194c8f294f4d917366c6ad7b7b6d
-無綫新聞1,https://cdn.hklive.tv/xxxx/83/index.m3u8
-無綫新聞1,http://120.132.122.244:59845/hls/82/index.m3u8
+無綫新聞,https://epg.pm/stream/c4bbbe3923e0e3d9b46d1dd82a3b20073bc0dd48c4bdbe2b6460838bd5785207.ctv
+無綫新聞,https://cdn.hklive.tv/xxxx/83/index.m3u8
+無綫新聞,http://120.132.122.244:59845/hls/82/index.m3u8
 
+無綫財經,https://epg.pm/stream/25459759dcaee4ecf97c721536843bf4fca8ac1766b09bb029f3088ce9849a88.ctv
+無綫財經,https://epg.pm/stream/c6e0f97e227786df4aaa3de6af2794bc0ca15bcf8e6570385d3e868407fbbd50.m3u8
+無綫財經,https://epg.pm/stream/6741947fac8a0fc4b29e4f39c4cec36b13e54494262128a461282acc608ddfdc.ctv
 無綫財經,http://120.84.96.161:808/hls/86/index.m3u8
 無綫財經,http://120.84.96.62:808/hls/86/index.m3u8
 無綫財經,http://120.84.96.50:808/hls/86/index.m3u8
 無綫財經,https://cdn.hklive.tv/xxxx/85/index.m3u8
 無綫財經,http://120.84.96.33:808/hls/86/index.m3u8
 無綫財經,http://120.84.96.78:808/hls/86/index.m3u8
-
+無綫娛樂,https://epg.pm/stream/47caf643589c5057d63b89585239e01ca8fa7eb99197ad34a27db7098fc2f762.ctv
+粤语歌曲,https://epg.pm/stream/39501bc13e55213a26a9645ec1ddcf5eba10fc6b545858ff08b05354a6df188d.ctv
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有線新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+有線新聞,https://epg.pm/stream/b5905431a8eddbe63b99d4ee1112a842b4e8fa2d9f051a5403641d8c7e01fb71.ctv
 有線新聞,https://api.leonardpark.dev/live/icable/109
 有線新聞,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 
@@ -578,7 +584,7 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 
 有線電影,P2p://ns3.hellotvvod.com:9906/772f3c92423b4c1f904c1c1c829ca048
 
-有線18台,P2p://ns3.hellotvvod.com:9906/d8cd184ed0d548d78d2cc091ccbfc242
+18台,P2p://ns3.hellotvvod.com:9906/d8cd184ed0d548d78d2cc091ccbfc242
 有線18台,P2p://ns3.hellotvvod.com:9906/20f8a67cf811447e81ab0fe62a215815
 
 有線體育,P2p://ns3.hellotvvod.com:9906/f029ee9884aa4f50ac74fb03e191731b
@@ -600,6 +606,8 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/83/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/83b/index.m3u8
 
+明珠台,https://epg.pm/stream/8c2c570e3337b54ec67587f74a708ff952ba5a4267a69842e4f98a136593af1b.ctv
+明珠台,https://epg.pm/stream/252a97a8255612594b87222010f475ad826744b601ef7d39a003f95cde5c116f.ctv
 明珠台,P2p://ns3.hellotvvod.com:9906/99efb89812c04244a8dce2f24656bc46
 明珠台,http://159.75.85.63:5828/gudou.php?id=1351_4500
 明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
@@ -646,8 +654,10 @@ Now直播台,P2p://ns3.hellotvvod.com:9906/8ea1ad3e16654d7a82a6f1b03add32a8
 Now新聞台,P2p://ns3.hellotvvod.com:9906/bcae3b518df84b3389f97031be53ca12
 
 TVB星河台,P2p://ns3.hellotvvod.com:9906/d19067d3e427420b8044f23f64f80338
-
+TVB星河台,https://epg.pm/stream/6ec0017535b926906fa311a440ea3694c21e4cd985bbb9d4b19b566c6faf05ba.ctv
 TVB经典台,P2p://ns3.hellotvvod.com:9906/287c6b04debd46128b696db5ffc8d6be
+TVB经典台,https://epg.pm/stream/e9cf8b21dc326afc99d21bb84dfe67ee46e22917dd41a50917c6f9663967b239.ctv
+TVB经典台,https://epg.pm/stream/dcf6ff39760fe4d0e4035c4e444835d1853ba6538b512e7967fb1f8a3f1bfe87.ctv
 
 TVB功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
@@ -712,6 +722,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 
 中天新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=24
+中天新聞,https://epg.pm/stream/d4bbd428f04d13672882132b9b9090643c8147ba9ce5bd69349d69c94a67d4f4.ctv
 
 中視,p2p://ns3.hellotvvod.com:9906/7ed84bab70554ad2ba2e89d6249037a4
 
@@ -770,8 +781,9 @@ tid=m02000000000012711358&ct=17975&tsum=2183a8e8c64ee064df57205a4729efe8
 
 CATCHPLAY電影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 
+衛視洋片,https://epg.pm/stream/790c0bee687b1dc9a96ebfb825ed75469964959bfdbcf0f222d7e1d3b9d50e5e.ctv
 好萊塢電影,http://www.372583307.top:4022/udp/233.50.201.228:5140
-
+好莱坞电影,https://epg.pm/stream/d2e4684a19ee77fa571acc32756c3dae76bc8e79df7338e871b20e62500f2417.ctv
 Boo電影,http://23.237.10.66:16420
 
 RPC電影,http://23.237.10.66:16082
@@ -782,6 +794,36 @@ HBO Plus+,http://45.174.84.154:8000/play/a00t/index.m3u8
 HBO XTREME,http://45.174.84.154:8000/play/a00v/index.m3u8
 HBO2 HD,http://45.174.84.154:8000/play/a00s/index.m3u8
 HBO2 HD,http://37.152.128.74:8088/play/a009
+HBO MAX A,https://epg.pm/stream/eea8aef8d83b48952354cd2cca6829f8453c1a3f164df8df4a2c49f1ac0c1850.ctv
+HBO MAX 1,https://epg.pm/stream/0164f49bfbf8d0905c13d50a5df03c9857de5f19975b0b78acf4a15dac6c93c6.ctv
+HBO MAX E,https://epg.pm/stream/1c499683ce521c31addda7a8a2c5f6973773cd71702680348d249741630ddaca.ctv
+SHOWTIME 4,https://epg.pm/stream/78ee6f55caf82f6d15f8b9fa818711eae5a908f978090fd0db98451a20bc6226.ctv
+NETFLIX 1,https://epg.pm/stream/20169c41b5888dbb98271694528d22baebb7caa80008c2dd5b16ea41f16c5027.ctv
+BOX OFFICE 2022 3,https://epg.pm/stream/8feb2851cb154c475be9590451691471aeee2ff35446ea7e6f9cebfdea032d60.ctv
+BOX OFFICE 2022 2,https://epg.pm/stream/2759d677a7a55f0aac2594374442f4e8ba2ccbe0702c9e8e877602f1ed196ea1.ctv
+BOX OFFICE 2022 1,https://epg.pm/stream/67c6ebbcda3b1db8d72ac59001802c8678d89cc44b13f7e76b54d4353f19e5a9.ctv
+BOX OFFICE 2022 6,https://epg.pm/stream/2e0c4a1ac3f367fafa83a31738483496e703d434b0169650c0a274fd6841bee2.ctv
+BOX OFFICE 2022 5,https://epg.pm/stream/dfc77b9cf2beb17588afbb8dedcab70ff016d6c2b748b6ca39d80ce0eff9ca54.ctv
+SHOWTIME 8,https://epg.pm/stream/821d409df185442e6c120ad1a5c857ad7f4e241206eef3ea0bff9eaee280e168.ctv
+SHOWTIME 6,https://epg.pm/stream/4979421326e7723385a72c0956463c118daf2aa4b64e7342f4f24dbeb08794c9.ctv
+BOX OFFICE 2022 4,https://epg.pm/stream/f3e08dca6e2b19643bc1174f4c631d9d04571409ec9da9a80f6514d0810c11bb.ctv
+SHOWTIME 7,https://epg.pm/stream/570e72f791b2ebffb97882f3a2327237751f4fb3e74e615e4e9cb124f9ab38f3.ctv
+SHOWTIME 5,https://epg.pm/stream/3c28063421e29982f426cdfa01c3d45ec0aff0693b3aacaa41ca55c2b1d2280c.ctv
+SHOWTIME 1,https://epg.pm/stream/2690fdc9dc540cbbf93ae43219f4ba3edb3af80e302cdda4bd1d5492a5b0ac74.ctv
+SHOWTIME 2,https://epg.pm/stream/98025dd201a90a8cefcdabcafb006857cc1da8a3b0a920ab8d4acd4b308a2544.ctv
+HBO MAX B,https://epg.pm/stream/47b08bca9b38d6975ddf5721d1b2686e5aab02657e7ddf48817a49b487ae71b8.ctv
+HBO MAX D,https://epg.pm/stream/a5f8389e2e9e41c08039932d60ce729de08d961cdb853a10d37551f93a9507a5.ctv
+HBO MAX C,https://epg.pm/stream/5d6be6c66d5b0f723353567ccb14b363dc0bd31021521afa70cd9fe792ed49e5.ctv
+NETFLIX 6,https://epg.pm/stream/28e0b6c450f33d1224e26a76db9fba1f5d653610d4d6dbd1dad746df91c5626e.ctv
+NETFLIX 4,https://epg.pm/stream/a20679a2c0c5987db9b07b7d1ed4732c830d0898dca3859f0fb92ea8de16a335.ctv
+SHOWTIME 3,https://epg.pm/stream/c000d8e9f93d35c17e03ced214ad4df012d0a7264f9513032d895b7d58f8e210.ctv
+NETFLIX 2,https://epg.pm/stream/aaf472854bd3db2fb2a97fa16b971d6223dcd9eb5f6fe1a8dfba0f0fd02f8720.ctv
+HBO MAX F,https://epg.pm/stream/403db2db95477969fb20e58489ce6c0d05933c49be73ad84d512356eba3507b1.ctv
+NETFLIX 3,https://epg.pm/stream/b5e051e8906d488afd86699dac45ad95a14e8bcf350b025be4696452bd2dffaf.ctv
+NETFLIX 5,https://epg.pm/stream/39d7e20b022ab3538b69fea811bf85696756ff23114f93abdf4907d03870de71.ctv
+TV6,https://epg.pm/stream/5c07c462a72cdf5c75f745106004b7d27e12b24d318f9d60775aa68e0139d323.m3u8
+Action Movies - Rakuten TV,https://epg.pm/stream/9fecabbc602813de09ec8e3241a4bffe7875391ce796441545e3966c2ba6a8f1.m3u8
+Star Movies,https://epg.pm/stream/c6682ed87d9677837d5c053274c850a4fcc27393b961301785e9fe5b3f591e04.ctv
 
 中天綜合,http://23.237.10.66:16372
 
@@ -821,6 +863,7 @@ HBO2 HD,http://37.152.128.74:8088/play/a009
 求索動物,http://111.11.123.30:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 求索動物,http://111.11.123.33:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 求索動物,http://111.11.123.36:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+国家地理野生,https://epg.pm/stream/a2cd93a59020e7ce39523904d92595dcb9d234b655ad252214f4ae771c51b5cb.m3u8
 
 🇯🇵日韓频道,#genre#
 日语新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -904,6 +947,29 @@ TBS首尔,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.
 韓联社,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 
 🇺🇸欧美频道,#genre#
+CRACKLE,https://epg.pm/stream/493629119ed8379e877d845f8c6d6bf05b4737c590b103a78e8084cff76c538a.m3u8
+ZEE CINEMA UK,https://epg.pm/stream/8f4483175c23de2e2a6a8aa5bdaba61b99a21d72f365fea669627683e0d7506e.m3u8
+8XM MUSIC,https://epg.pm/stream/1dbc68f9359ab823f256ad35a7c10b49fb2d5c1938813707b2632bd4f1af3991.m3u8
+MMA_TV,https://epg.pm/stream/86123ffd96a1de1de471cbe490044c073dc8d2c23560a88d777d6de3065fe370.m3u8
+Hard_knock,https://epg.pm/stream/26418083e1ae425e3257bfc88be556be2e026834661f4634c65046258a83281a.m3u8
+Mystery Science,https://epg.pm/stream/abd3cf2211707309fe083ec515ede168a3ce48d7ad19540c2083674a3fe2061f.m3u8
+History Channel,https://epg.pm/stream/c791c021a6811fa2e630d9f7b1781d1d38c6e6480bfde9eeaff91343b73e7d48.m3u8
+ZIGGO Extra 2[h264xmp2],https://epg.pm/stream/488e853da32565f1f491ec26e941d4120f8ba36f1596ed3e320b61a509f0df47.ctv
+Ziggo Sport Racing,https://epg.pm/stream/905ebd20f22e21e705b7e1aceba0f9e7af997e74333b30061385678ae2ffd8ed.ctv
+Sport 1 Extra,https://epg.pm/stream/4dd51492e941de51b9a6230112ad7cecdbe0ebaca5581bd6f8f59adf4711cb77.ctv
+ZIGGO Voetbal HD,https://epg.pm/stream/8c2d9fcf070eedb1cc8861fa5b06888a58f4632a7ddda514989e73a56f207d8d.ctv
+EUROSPORT 1,https://epg.pm/stream/066d6f6318233f2d957ef85e973ed750f12c0b282d619e5c30e2a03631835761.ctv
+ZIGGO Sports,https://epg.pm/stream/e04db20a607479462bcebf7173ed291aed4619a2f23de95f42f8e9c47fd1ab58.ctv
+ZIGGO VEOTBAL,https://epg.pm/stream/60f9348bf22c11e0ae90b8565438ff9e8d6bc4816de82a18fc439ef3d7afee19.ctv
+EUROSPORT 2,https://epg.pm/stream/8eb6d217b8d28c79c903be9d11266b15f2d5adeb1edc1c3b9d671285b73247f4.ctv
+DIGI SPORT 3,https://epg.pm/stream/d61f846bc70460c7ec018df79983360bb0d0f6ba0b6549c4ece3fd46ebf7d809.ctv
+DIGI SPORT 4,https://epg.pm/stream/41d3e97471a0343740ae2aea728247b3d0165473a0dacd7839837cbcb1f6d39a.ctv
+DIGI SPORT 2,https://epg.pm/stream/eb217a3b9509cc459c8dc5b6f1e3f1b9e6df883a2283dd3a36c8337105d4f6ec.ctv
+DIGI SPORT 1,https://epg.pm/stream/a63e48f277aafaf09458cc4aee1d8e8d40aa7668cb8d0deee64557f3e1475176.ctv
+Spotv 2 Asia[timed_id3xh264xaac],https://epg.pm/stream/e55687ebb01cd3b5abbf5dc7f527aa970cfe1f3b377176e9b8eeb3e24e084d10.m3u8
+Spotv 1 Asia,https://epg.pm/stream/6aed12a0d30fbaf56b4732359cfbc97684528352eea6627f0172edaf350a8a62.m3u8
+Nature,https://epg.pm/stream/1a58279eb00c6b88e552e55c590036dcc0a3b199ae7e95b1799bd46e0394c658.m3u8
+FashionTV3,https://epg.pm/stream/defb5f619e2f1d859ce59d7f78b91a0c23be77d4d78c65c87dbb8a5672fb7a37.m3u8
 A&E,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145912
 AMC HD,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145914
 AMC+,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145915
