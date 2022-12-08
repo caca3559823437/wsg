@@ -1063,7 +1063,49 @@ Tooniverse,P2p://ns3.hellotvvod.com:9906/be1e52bf3176468eb533fcf0dd1512fd
 SPOTV,P2p://ns3.hellotvvod.com:9906/ccb2decfadb346339338101471a3f502
 SPOTV 2,P2p://ns3.hellotvvod.com:9906/259a69135378450aa4df25f87407f976
 JTBC GOLF,P2p://ns3.hellotvvod.com:9906/6179c11589294249b583637b83430d2b
-
+CGNTV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284606
+Gunma TV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284609
+NHK World Japan,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/145052
+QVC Japan,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/158649
+Shop Channel,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/158650
+Tokyo MX,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284610
+Tokyo MX 1,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284611
+Tokyo MX 2,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284612
+weather news,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/145063
+ANiPlus,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157611
+Arirang,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/121941
+Arirang Radio,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284618
+CBS,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/23404
+CGN TV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/166403
+CJB,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284622
+CTS,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78455
+EBS 1,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78454
+EBS 2,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78449
+EBS e,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78447
+EBS Kids,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78452
+EBS Plus 1,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/145044
+EBS Plus 2,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/145045
+Edaily TV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78458
+FGTV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78451
+GCN,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78457
+Home & Shopping,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78461
+Hyundai Home Shopping,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/294662
+Hyundai Mall,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78468
+KBC,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/166089
+KBS Kids,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/286850
+KBS Live Dokdo,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284632
+KCTV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284634
+KFN TV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78472
+KNN,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284639
+MBC Yeosu,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284636
+MTN,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78480
+NBS,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284638
+NHTV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/294663
+NS Home Shopping,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78483
+SEN,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/294618
+TV Work Net,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284641
+TVN Movies,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157520
+국악방송,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/283978
 日语新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 NHK·国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 NHK·国际,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -1318,6 +1360,51 @@ Astro欢喜台,P2p://ns3.hellotvvod.com:9906/927f7fd5d4a943769b2584c41cee28f7
 beIN Sports 2,P2p://ns3.hellotvvod.com:9906/4c9bc52b81ea4c0cadaa4bc2f63a51b9
 FWC 1,P2p://ns3.hellotvvod.com:9906/5c72a39b0c3348edaae83de89c313194
 FWC 2,P2p://ns3.hellotvvod.com:9906/bbb30750d5bc478285ae02fabeb4f8a4
+ANC,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144833
+beIN Sports 2,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/282773
+beIN Sports 3,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/266844
+Bloomberg TV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144834
+CCTN 47,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/146706
+Cinema 1,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/225357
+CNN Philippines,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144855
+Discovery World,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144858
+Food Network,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144857
+GMA News TV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144859
+INC TV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/151355
+nickelodeon,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144870
+SMNI,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/166680
+Super Radyo DZBB,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284791
+TFC,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/121795
+Warner TV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/170006
+SG: Hits,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296891
+
+Astro Arena,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157485
+Astro Oasis,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157489
+Astro SuperSport 1,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/146068
+Astro SuperSport 4,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157558
+AXN,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157542
+BBC Earth,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/171979
+beIN Sports,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157561
+Boomerang,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/171955
+Cartoon Network,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/174684
+Celestial Movies,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/174687
+Chutti TV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157495
+Discovery Science,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157530
+Disney XD,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157544
+FOX SPORTS 2,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157488
+HGTV Asia,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157553
+Hits,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157545
+Local Now Family Flix,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296889
+NAT GEO Wild,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/174724
+Nick Junior,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157546
+NTV 7,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/174695
+RTM TV 1,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/158357
+RTM TV 2,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/158355
+TV 3,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/158360
+TV 9,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/171953
+TV Alhijrah,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157491
+Warner TV,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157550
+
 CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
 TeleCine,http://23.237.10.66:16195
 TV1,http://51.79.82.208:16001
