@@ -1,27 +1,80 @@
 ﻿//新贰叁影视。
 {
     "urls": [
-        
+ 
 {
-            "url": "https://agit.ai/gk0746/pxy/raw/branch/master/hechengchaxiu.json",
-            "name": "😺 影视荷城"
+            "url": "https://agit.ai/gk0746/pxy/raw/branch/master/接口禁止贩卖.json",
+            "name": "😺影视肥猫"
         },
-        
+{
+            "url": "https://agit.ai/gk0746/pxy/raw/branch/master/fty.json",
+            "name": "😺影视饭太硬"
+        },
 {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "😺 影视云星"
         },
+{
+            "url": "http://rihou.vip:88/荷城茶秀",
+            "name": "😺 影视荷城"
+        },
+ 
+{
+            "url": "https://agit.ai/gk0746/pxy/raw/branch/master/ouge.json",
+            "name": "😺影视欧歌"
+        },
+       
 {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "😺 影视蜂蜜"
         },
 {
             "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json",
-            "name": "😺 🔞影视宝盒"
+            "name": "😺 影视宝盒"
+        },
+{
+            "url": "https://qu.ax/joAo.json",
+            "name": "😺 🔞影视搜索"
+        },
+{
+            "url": "https://qu.ax/nwXz.json",
+            "name": "😺🔞影视无敌"
         },
 {
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
-            "name": "🌸🔞影视激情"
+            "name": "🌸🔞影视01"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
+            "name": "🌸🔞影视02"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
+            "name": "🌸🔞影视03"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json",
+            "name": "🌸🔞影视04"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
+            "name": "🌸🔞影视05"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt",
+            "name": "🌸🔞影视06"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/tiantuhao/tvinterface/main/xhr.json",
+            "name": "🌸🔞影视07"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/w2594190605/tvbox/main/1.txt",
+            "name": "🌸🔞影视08"
+        },
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Soar1989/tv/main/18.json",
+            "name": "🌸🔞影视09"
         }
     ]
 }
