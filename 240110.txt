@@ -22,27 +22,7 @@
 {
             "url": "https://tvbox.cainisi.cf",
             "name": "😺 影视菜妮丝"
-        },  
-{
-            "url": "https://agit.ai/gk0746/pxy/raw/branch/master/ouge.json",
-            "name": "😺影视欧歌"
-        },
-       
-{
-            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
-            "name": "😺 影视T4"
-        },
-{
-            "url": "https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt ",
-            "name": "😺 影视影迷"
-        },
-{
-            "url": "http://u6v.cn/6vX55k",
-            "name": "😺 影视专业"
-        }, 
-{
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "😺 影视小米"
         }
     ]
-}
+} 
+
